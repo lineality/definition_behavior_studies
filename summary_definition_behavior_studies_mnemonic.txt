@@ -1,11 +1,13 @@
 Definition Behavior Studies
 Summary Definition Behavior Studies Mnemonic
 
+
+
+Definition Behavior Studies: This is an interdisciplinary ~study, part Computer Science, statistical process analysis, hypothesis testing, Data Science, religious studies, ethics and mindfulness, AI. Definition Studies is the field of study relating to the behavior of definitions (in particular, collapse behaviors in a context of general system collapse). 
+
 This is an inquiry based approach (learn by asking questions): What is the agenda? What are the goals, and modus operandi? What is the goals-means-method statement?
 
-This is an explanation of an interdisciplinary study, part Computer Science, statistical process analysis, hypothesis testing, Data Science, religious studies, ethics and Mindfulness. Definition Studies is the field of study relating to the behavior of definitions (in particular, collapse behaviors in a context of general system collapse). 
-
-Goals: "We-can" statements:
+Goals (Agenda): "We-can" statements:
 We can succeed. 
 We can make things work. 
 We can understand what's wrong.
@@ -52,11 +54,7 @@ We can prevent future problems.
 We can reverse damage from past problems.
 We can learn from the past.
 We can collect data.
-We can make and use policies.
 (We can operationally define 'policy' as algorithms for non-collapse based on dynamics of collapse.)
-We can make strategies.
-We can make tests.
-We can make operational definitions.
 We can audit.
 We can publish.
 We can act with ethics, empathy and compassion.
@@ -82,6 +80,7 @@ We can learn from the past.
 We can collect data.
 
 we can make/generate/cultivate and use/utilize:
+We can make and use clear functional operational definitions.
 We can make and use data.
 We can make and use policies.
 We can make and use mandates.
@@ -183,18 +182,18 @@ A scout is prepared. Prepared for what?
 - To manage down or manage to equilibrium system collapse.
 - To manage up or manage to equilibrium system value, function, and meaning. 
 
-Regarding Scout Values: (so far as I can tell, all of these are generally accurate or true, and all of these are generally not officially recognized as being accurate or true.)
-1. universal system of ethics
-2. rejected because it is a universal system of ethics
-3. not definable outside of a context
-4. definable in a project-management context
-
-
-
-
-
+Regarding Scout Values: 
+1. Universal system of ethics
+2. Rejected because it is a universal system of ethics
+3. Not definable outside of a context
+4. Definable in a project-context
+(So far as I can tell, all of these are generally accurate, and 
+all of these are not recognized as being accurate.)
 
 (end of introduction to Mnemonic)
+
+
+
 
 Mnemonic Template:
 Four sections:
@@ -213,7 +212,7 @@ This should be generalizable and specifically applicable given an array of 5x5 i
 
 (Note: 1. Value Statements Section, operational definition of 'help')
 
-Four  addendum items:
+Four  Addendum Items:
 1. Setting Location Items:
 The water the wind the world,
 best practice,
@@ -233,16 +232,16 @@ phase transitions,
 directions, dimensions, (cardinal et al),
 post-participants,
 linear time,
-nonlinear time.
+nonlinear time.	
 
-Q: Why are we talking about setting location items? 
+Q: Why are we talking about setting-location-items? 
 A: 
-ideal chess boards
-Definitions of insanity,
-you have local factors, 
-other people have different local factors, 
-You need policies to cover all these areas.
-e.g. The classic example of two cities communicating and coordinating about disaster relief and disturbance regimes.
+- Ideal chess boards
+- Definitions of insanity
+- You have local factors. 
+- Other people have different local factors.
+- You need policies to cover all these areas.
+(e.g. The classic example of two cities communicating and coordinating about disaster relief and disturbance regimes.)
 
 2. Love, act responsibly towards, fulfill duty towards,
  including a framework borrowed from biology containing "comensal"
@@ -275,18 +274,13 @@ Three levels of duty / participation-modes: pre-participant, participant, post-p
 - vetruvian-egg-shell
 - empathy and compassion
 
-
-
-
-
-
-Participation Array, 5x5 items:
+Participation Array, 5x5 items: 
+(This should be generalizable and specifically applicable given an array of 5x5 items.)
 1. Participation Items
 2. Setting Location Items
 3. Definition Behavior Items
 4. Proximity Scale Contact Interaction Exposure Items 
 5. Standard Set of Agreed Upon Goals Means Methods 
-
 
 Four Areas of Interaction:
 1. (Participant Diversity) Love, Duty, Responsibility Including boundary dissolution Areas, 
@@ -302,13 +296,13 @@ Deploying a feature that meets a stated and indicated goal and need of a user"
 
 2. Giving Help
 3. Receiving Help
-Help here is operationally defined as sustainably deploying features that meet the stated and indicated needs and goals of a user.
+("Help" is operationally defined as sustainably deploying features that meet the stated and indicated needs and goals of a user.)
 
 4. Drake Equation Vessel Functions: in the following seven areas
-Sub-Participants can, should, will, want to, do, help, and / or help with, serve, and / or serve with, setting-location-items and offer legal-vessel-contracts in the following seven areas:
+Sub-Participants can, should, will, want to, do, help, and / or help with, serve, and / or serve with, setting-location-items in a legal vessel-capacity occupational role and niche and offer legal-vessel-contracts in the following seven areas:
 
-4.1  Sensory Motor (Lear: Use My Eyes) Areas (plus electromagnetism)
-4.2  Benzaiten Saraswati Areas (plus historical continuity, minus high definition input output data literacy /numeracy) (Note: translation and transmission)
+4.1  Sensory Motor (Lear: Use My Eyes) Areas (Plus electromagnetism)
+4.2  Benzaiten Saraswati Areas (Plus historical continuity, minus high definition input output data literacy /numeracy) (Note: translation and transmission)
 4.3  Embodyment channeling items: theater-groups and community interaction, CRV, active-imagination
 4.4  Functions and Operations:
 4.4.1 Null, Void
@@ -318,15 +312,15 @@ Sub-Participants can, should, will, want to, do, help, and / or help with, serve
 4.4.1.2.2. object location event
 4.4.1.2.3. behaviors, policies 
 4.4.1.2.3.1 Behaviors: in / out;  on / off; start / stop; begin / end; dual / non-dual; mundane / non-mundane
-4.4.1.2.3.2 Policies: translation, perception, coordination, collaboration non-discrimination, non-collapse
+4.4.1.2.3.2 Policies: perception, translation, coordination, collaboration non-discrimination, non-collapse
 4.4.2 Reception Reflection Absorption
 4.4.3 Something-hard, Something-Soft Areas
 4.4.4 (basal) Input-Output Processing Areas
 4.4.5 Cross Context Areas
 
-5. definition dark areas off the one tree
-6. world dancing, world singing, the song and dance of compromise
-7. professional technical production advice: six sigma for rivers, grains of sand, ecosystems, keystone species
+5. Definition Dark Areas / off the one-tree
+6. World Dancing, World Singing, the song and dance of compromise
+7. Professional Technical Production Advice: six sigma for rivers, grains of sand, ecosystems, keystone species
 
 8. Number 8 (kind of a separate branch-area)
 Help others at all times.
@@ -370,7 +364,7 @@ For example:
 2.1.2.2  Valuing Data
 2.1.2.3  Communication Reporting Transparency
 2.1.2.4  Testing Auditing Feedback
-2.1.2.5  No Unilaterial System Collapse
+2.1.2.5  No Unilateral System Collapse
 2.1.2.6  Proficiency Standards for Time and Schedules
 2.1.3  Causality Models: Concept Check: Scapegoating and Elimination: Identifying any entire part of the world as to be scapegoated and eliminated 
 is bad, is wrong, it causes system collapse, it should not be done, and I will not do it.
@@ -379,25 +373,23 @@ is bad, is wrong, it causes system collapse, it should not be done, and I will n
 Identifying system collapse as a goal, not indirectly as in dark lighthouse but directly as in exacerbating system collapse, as part of (in any area of) the standard set of agreed upon goal means method areas, is bad, is wrong, it causes system collapse, it should not be done, and I will not do it.
 2.2.1  Following worst possible options
 	is bad, is wrong, it causes system collapse, it should not be done, and I will not do it.
-2.2.2  playing nazi chess
+2.2.2  Playing nazi chess
 	is bad, is wrong, it causes system collapse, it should not be done, and I will not do it.
-2.2.3  mismanaging categories of types of systems
+2.2.3  Mismanaging categories of types of systems
 	is bad, is wrong, it causes system collapse, it should not be done, and I will not do it.
-2.2.4  mismanaging Standard System Policy Areas:
+2.2.4  Mismanaging Standard System Policy Areas:
 	is bad, is wrong, it causes system collapse, it should not be done, and I will not do it.
 For example:  
 1. Mismanaging Split substantiations: for example 
 'they are all good' 
 'they are all bad' 
 'they should be dealt with by cramming them together or splitting them apart"
-2. Golden circle inside outside asymmetry, deleterious effects include: causality schedules contracts.
+2. Golden circle asymmetry / inside outside asymmetry, deleterious effects include: causality schedules contracts.
 3. System inversion (is a standard data artifact)
-4. basal distal disjunctions (is a proxy(model) for (operationally defined system) 'violence')
-5. negative choices and definitions (don't ignore them)
-6. turning on and off system processes ((for example) comparing policy from roman catholicism, south Korea and Judaeica)
-7. half dark dichotomies (more on that later)
-
-
+4. Basal distal disjunctions (is a proxy(model) for (operationally defined system) 'violence')
+5. Negative choices and definitions (don't ignore them)
+6. Turning on and off system processes ((for example) comparing policy from Roman Catholicism, South Korea, and Judaeica)
+7. Half-dark dichotomies (more on that later)
 
 
 3. Standard Error and Damage Report in four sub-Sections
@@ -452,10 +444,9 @@ _________tartget_population is dedicated to the:
 3.2.3  Misuse
 3.2.4  Eradication
 3.2.5  Torture
-3.2.6  Scapegoating
+3.2.6  Scapegoating &
 3.2.7  Coverup
 of general system management areas.
-
 
 
 4. Macro Model
@@ -464,6 +455,7 @@ of general system management areas.
 - dutiy
 - collaboration
 - maybe values
+
 
 4.2 Array:
 Development population
@@ -480,20 +472,18 @@ habit
 accretion
 
 4.3 Paired Areas:
-- orientation navigation
-- signals (and information)
-- law code script
-- defense, immune systems
+4.3.1  Orientation, Navigation
+4.3.2  Signals and Information
+4.3.3  Law, code, script
+4.3.4  Defense, immune systems
 
 4.4 Hospital-Areas & Modeling Areas:
-
 4.4.1  Hopital areas:
 - system helping healing repair
 - looking for lost elements
 - disentangling good and bad elements
 - grafting and synthetics
 - apoptosis and necrosis
-
 
 4.4.2 Modeling Areas:
 All sub-disciplines of system and definition studies:
@@ -518,6 +508,5 @@ forgiveness,
 patience, or
 gratitude;
 I will work harder.
-
 +
-5.2 Vitruvian Range of Motion fitness activities, PT, SLP, etc.
+5.2 Vitruvian Range of Motion fitness activities, PT, SLP (प्रज्ञापारमिताहृदय), etc.
