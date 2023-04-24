@@ -1,6 +1,5 @@
 Definition Behavior Studies
-Summary Definition Behavior Studies Mnemonic
-
+Summary of Definition Behavior Studies Mnemonic
 
 
 Definition Behavior Studies: This is an interdisciplinary ~study, part Computer Science, statistical process analysis, hypothesis testing, Data Science, religious studies, ethics and mindfulness, AI. Definition Studies is the field of study relating to the behavior of definitions (in particular, collapse behaviors in a context of general system collapse). 
@@ -10,7 +9,7 @@ This is an inquiry based approach (learn by asking questions): What is the agend
 Goals (Agenda): "We-can" statements:
 We can succeed. 
 We can make things work. 
-We can understand what's wrong.
+We can understand what is wrong.
 We can fix what is broken. 
 We can use non-automatically lost skills.
 We can generalize STEM.
@@ -18,32 +17,47 @@ We can generalize system collapse.
 We can generalize system fitness and system epidemiology.
 We can generalize participation.
 We can generalize projects.
+We can generalize disinformation vs. definition-clarification.
 We can generalize object-relationship-spaces.
 We can use STEM to connect signals and reality.
-We can connect STEM project management and ethics.
-We can use intersection-interlocking-interconnecting areas.
+We can connect STEM, project-management, and ethics.
+We can use intersecting-interlocking-interconnecting areas.
 We can communicate, learn, and solve problems.
 We can make progress.
 
 We can use "low-bar enlightenment":
-(Taking potentially endless cycles of ~"rebirth" due to ~"ignorance" as a metaphor/analogy for (a set of cases of) repeated project-failure due to a lack of perception of the causes of those project failures, where the group agreed upon goal is completing the project and meeting a user/target need.)
+(Using 'potentially endless cycles of ~"rebirth" due to ~"ignorance" ' as a metaphor/analogy for repeated project-failures, in particular where a lack of perception of the causes of those project-failures is involved in self-perpetuating feedback cycles leading to more such failures.)
 We can learn to perceive what can by default be invisible causes of failure and collapse:
+Low-Bar Enlightenment:
 1. The perception that repeating cycles of failed actions and projects can result from errors in perception and planning (a proverbial 'wheel of samsara') without inevitable-automatic-learning based on that failure.
 2. The perception that perception can be fooled in principle and in practice.
 3. The perception that learning from failures does not happen automatically (and can, under bad circumstances, can indefinitely not-happen).
 4. The perception that models of causality can be wrong in principle and in practice.
 5. The perception that plans/goals can be incorrectly set (so that they fail to be achieved as set).
-6.  The perception that each participant's set of the shared definitions about the goals and structure of the project can/will collapse and deform unless maintained and repaired. 
+6.  The perception that each participant's set of the shared definitions about the goals and structure of the project can/will collapse and deform unless maintained and repaired.
 
-We can use system-fitness-health-status-indicators
-We can generalize system & definition collapse behaviors
+Note: This approach is ('democratically') broadly accessible to participants requiring more on the order of minutes to learn rather than myriad lifetimes, does not require all-around perfection of person-ness, and is not a reification that combines other abilities and insights to solving all the problems in the universe; it is a humble step toward apprehending the nature of problems and systems. 
+
+intersecting-interlocking-interconnecting areas:
+	- Clear & Functional Definitions
+	- Context
+	- Generalized STEM
+	- Generalized Projects (project-context)
+	- Generalized Participation
+	- Generalized System Collapse
+	- Generalized Categories of Types of Systems
+	- Generalized Ethics, Duty & Responsibility
+- Generalized Definition-Clarification vs. Disinformation Attacks
+- Generalized Definition Behaviors
+- Generalized System-Productivity
+
+We can use system-fitness-health-status-indicators,
+We can use system defense to prevent collapse.
+We can generalize system & definition collapse behaviors.
 We can use categories of types of systems.
 We can use nonautomatic learning.
 We can find and fix errors in perception.
-
 We can organize projects.
-We can use clear descriptions.
-We can use decision and coordinating (voting) frameworks and protocols.
 We can distinguish short term vs. long term.
 We can assign roles.
 We can check and verify.
@@ -80,6 +94,8 @@ We can learn from the past.
 We can collect data.
 
 we can make/generate/cultivate and use/utilize:
+We can make and use clear descriptions (vs. liabilities of jargon).
+We can make and use decisions and coordinate (voting) frameworks and protocols.
 We can make and use clear functional operational definitions.
 We can make and use data.
 We can make and use policies.
@@ -98,10 +114,7 @@ We can make progress by using information about the behavior of definitions: Thi
 These can-do statements can be seen as instrumentalist modular recombinant tool set areas.
 We can combine (narrative summaries of) principles and applications with instrumentalist modular tool set areas.
 
-
-
 Narratives, Principles and Applications:
-
 I have constructed a mnemonic device to cover a narrative survey of principles and applications. 
 The main tools that we will use to go through the mnemonic include:
 
@@ -111,8 +124,6 @@ The main tools that we will use to go through the mnemonic include:
 - hypothetico-deductive testing
 - clear communication (e.g. STEM and clear communication; CS: Q: How to write good code? A: Communicate.)
 - concrete narratives: stories
-
-
 
 Here is an example of a concrete narrative:
 An ambassador travels to earth from the galaxy of Andromeda: 
@@ -141,38 +152,46 @@ starting with moving-water-bottles;
 Moving-water is a gift that keeps on giving: it is nonsectarian and easily definable.
 
 (Timeline)
-Let's start with the timeline part of the story-application. (The valuable-contribution part will come up later.)
+Let's start with the moving-water-bottles part of the story-application. 
+(The valuable-contribution part will come up later.)
+
 We're going to put all the tools that we can use for moving-water-bottles on a timeline from symbol transactions (old) to Agile Project Management (new).
 (This technology timeline is a fabulous activity, the kind of skill you can start in 10min and continue for a lifetime.)
 
-Pirate treasure map:
-rectangle, arrow, X. 
+Let's make a Pirate Treasure Map:
+- rectangle
+- arrow
+- X
 The Agile Project Management end of our timeline is also where a goal is: 
-Agile is the X marks the spot on a treasure map; this is what we are looking for; this is where the target has needs. 
-This is where society has needs.
+- Agile Project Management is the X(marks the spot) on a treasure map;
+- This is what we are looking for;
+- This is where the target has needs; 
+- This is where society has needs;
+- Meeting the needs of the target/user is a treasure.
+
 Meeting the needs of the target, for example the user of what we create, is a treasure.
 Meeting the needs of the target/user is a treasure.
 
 (Boy) Scout Values 
 A scout is
-trustworthy
-loyal
-helpful
-friendly
-courteous
-kind
-obedient
-cheerful 
+trustworthy,
+loyal,
+helpful,
+friendly,
+courteous,
+kind,
+obedient,
+cheerful, 
 thrifty
-brave
-clean
-revenant
+brave,
+clean, and 
+revenant.
 
-on my honor, I will do my best to, to do my duty to, 
-obey the scout law
-to HELP OTHER PEOPLE AT ALL TIMES
-to keep myself
-physically strong
+On my honor, I will do my best to, to do my duty to, 
+obey the scout law,
+to help other people at all times,
+to keep myself,
+physically strong,
 mentally awake, and 
 morally straight.
 
@@ -193,8 +212,6 @@ all of these are not recognized as being accurate.)
 (end of introduction to Mnemonic)
 
 
-
-
 Mnemonic Template:
 Four sections:
 1 - Value Statements
@@ -205,6 +222,8 @@ Four sections:
 
 (Beginning of Mnemonic Proper)
 
+1. Value Statements Section
+
 The Target is ______ . (e.g. Homo sapiens and Earth)
 Hello, my name is ___ I was born in ___, my current residence is _____.
 
@@ -212,8 +231,8 @@ This should be generalizable and specifically applicable given an array of 5x5 i
 
 (Note: 1. Value Statements Section, operational definition of 'help')
 
-Four  Addendum Items:
-1. Setting Location Items:
+Four Addendum Items:
+1.1  Setting Location Items:
 The water the wind the world,
 best practice,
 and other,
