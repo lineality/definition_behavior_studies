@@ -11,13 +11,15 @@ We can succeed.
 We can make things work. 
 We can understand what is wrong.
 We can fix what is broken. 
-We can use non-automatically lost skills.
+We can use non-automatically learned skills.
 We can generalize STEM.
 We can generalize system collapse.
 We can generalize system fitness and system epidemiology.
+We can generalize system defense and system health.
 We can generalize participation.
 We can generalize projects.
 We can generalize disinformation vs. definition-clarification.
+(? Value-function-meaing (too hard to define?)
 We can generalize object-relationship-spaces.
 We can use STEM to connect signals and reality.
 We can connect STEM, project-management, and ethics.
@@ -26,17 +28,17 @@ We can communicate, learn, and solve problems.
 We can make progress.
 
 We can use "low-bar enlightenment":
-(Using 'potentially endless cycles of ~"rebirth" due to ~"ignorance" ' as a metaphor/analogy for repeated project-failures, in particular where a lack of perception of the causes of those project-failures is involved in self-perpetuating feedback cycles leading to more such failures.)
+(Using 'potentially endless cycles of ~"rebirth" due to ~"ignorance" ' as a metaphor/analogy for repeated project-failures, where a lack of perception of the causes of those project-failures is involved in self-perpetuating feedback cycles leading to more such failures.)
 We can learn to perceive what can by default be invisible causes of failure and collapse:
 Low-Bar Enlightenment:
 1. The perception that repeating cycles of failed actions and projects can result from errors in perception and planning (a proverbial 'wheel of samsara') without inevitable-automatic-learning based on raw feedback from that failure.
 2. The perception that perception can be fooled in principle and in practice.
 3. The perception that learning from failures does not happen automatically (and can, under bad circumstances, indefinitely not-happen).
 4. The perception that models of causality can be wrong in principle and in practice.
-5. The perception that plans/goals can be incorrectly set (so that they fail to be achieved as set).
+5. The perception that plans/goals can be incorrectly set (so that plans are not followed and goals are not achieved as set).
 6.  The perception that each participant's set of the shared definitions of the goals and structure of the project can/will collapse and deform unless maintained and repaired.
 
-Note: This approach is ('democratically') broadly accessible to participants requiring minutes to learn rather than myriad lifetimes, does not require all-around perfection of person-ness without context or requiring somehow all contexts, and is not a reification that combines other abilities and insights to solving all the problems in the universe; "low-bar enlightenment" is one humble step toward apprehending the nature of problems and systems. 
+Note: This approach is ('democratically') broadly accessible to participants requiring minutes to learn rather than myriad lifetimes, does not require all-around perfection of person-ness, without context or requiring somehow all contexts, and is not a reification that combines other abilities and insights to explain and solve all the problems in all universes, nor does it include or require all possible types of consciousness, cognition, intelligence, etc.; "low-bar enlightenment" is one humble step toward navigating the problem-space of problems and systems. 
 
 Intersecting-Interlocking-Interconnecting Areas:
 	- Clear & Functional Definitions
@@ -50,8 +52,9 @@ Intersecting-Interlocking-Interconnecting Areas:
 - Generalized Definition-Clarification vs. Disinformation Attacks
 - Generalized Definition Behaviors
 - Generalized System-Productivity
+? Indirectly defined local value function and meaning?
 
-We can use system-fitness-health-status-indicators,
+We can use system-fitness-health-status-indicators.
 We can use system-defense to prevent collapse.
 We can generalize system & definition collapse behaviors.
 We can use categories of types of systems.
@@ -64,10 +67,7 @@ We can check and verify.
 We can have policies on "errors and mistakes."
 
 We can improve and cultivate perception by perceiving perception.
-We can prevent future problems.
-We can reverse damage from past problems.
-We can learn from the past.
-We can collect data.
+We can observe the effects of abstraction.
 (We can operationally define 'policy' as algorithms for non-collapse based on dynamics of collapse.)
 We can audit.
 We can publish.
@@ -117,9 +117,9 @@ We can combine (narrative summaries of) principles and applications with instrum
 
 Narratives, Principles and Applications:
 I have constructed a mnemonic device to cover a narrative survey of principles and applications. 
-Introductory and later sweeps/passes: zoom in, zoom out.
-The main tools that we will use to go through the mnemonic include:
+First/Introductory pass & and later sweeps/passes: zoom in, zoom out. (Like NASA missions.)
 
+The main tools that we will use to go through the mnemonic include:
 - (by analogy) perspectograph: non-automatically learned skills (context: checking perception, e.g. Vetruvian eggshell) 
 - zooming in, zooming out
 - maps and flags
@@ -154,7 +154,7 @@ starting with moving-water-bottles;
 Moving-water is a gift that keeps on giving: it is nonsectarian and easily definable.
 
 (Timeline)
-Let's start with the moving-water-bottles part of the story-application. 
+Let's start with the moving-water-bottles part of the application-form (from the narrative). 
 (The valuable-contribution part will come up later.)
 
 We're going to put all the tools that we can use for moving-water-bottles on a timeline from symbol transactions (old) to Agile Project Management (new).
@@ -169,11 +169,11 @@ The Agile Project Management end of our timeline is also where a goal is:
 - Agile Project Management is the X(marks the spot) on a treasure map;
 - This is what we are looking for;
 - This is where the target has needs; 
-- This is where society has needs;
+- This is where ___ target/user (e.g. society) has needs;
 - Meeting the needs of the target/user is a treasure.
 
-Meeting the needs of the target, for example the user of what we create, is a treasure.
-Meeting the needs of the target/user is a treasure.
+(Meeting the needs of the target, for example the user of what we create, is a treasure.)
+
 
 (Boy) Scout Values 
 A scout is
@@ -207,10 +207,10 @@ A scout is prepared. Prepared for what?
 - To manage up or manage to equilibrium system value, function, and meaning. 
 
 Regarding Scout Values: 
-1. Universal system of ethics
-2. Rejected because it is a universal system of ethics
-3. Not definable outside of a context
-4. Definable in a project-context (project management framework context)
+1. Universal system of ethics.
+2. Rejected because it is a universal system of ethics.
+3. Not definable outside of a context.
+4. Definable in a project-context (project management framework context).
 (So far as I can tell: 
 All of these are generally accurate. and: 
 All of these are not recognized as being accurate.)
@@ -249,9 +249,7 @@ This should be generalizable and specifically applicable given an array of 5x5 i
 
 Four Addendum Items:
 1.1  Setting Location Items:
-The water the wind the world,
-best practice,
-and other,
+The water, the wind, the world, best practice, and other:
 standards,
 elements,
 protocols,
@@ -277,6 +275,7 @@ A:
 - Other people have different local factors.
 - You need policies to cover all these areas.
 (e.g. The classic example of two cities communicating and coordinating about disaster relief and disturbance regimes.)
+
 
 2. Love, act responsibly towards, fulfill duty towards,
  including a framework borrowed from biology containing "comensal"
@@ -314,8 +313,8 @@ Participation Array, 5x5 items:
 1. Participation Items
 2. Setting Location Items
 3. Definition Behavior Items
-4. Proximity Scale Contact Interaction Exposure Items 
-5. Standard Set of Agreed Upon Goals Means Methods 
+4. Proximity, Scale, Contact, Interaction, Exposure Items 
+5. Standard Set of Agreed Upon Goals, Means, Methods Areas
 
 Four Areas of Interaction:
 1. (Participant Diversity) Love, Duty, Responsibility Including boundary dissolution Areas, 
@@ -326,12 +325,13 @@ including
 1.4 experience
 1.5 votes on goals means methods
 
-"Operational Definition of ""Help"":
-Deploying a feature that meets a stated and indicated goal and need of a user"
+Operational Definition of "Help":
+"Deploying a feature that meets a stated and indicated goal and need of a user"
 
 2. Giving Help
 3. Receiving Help
-("Help" is operationally defined as sustainably deploying features that meet the stated and indicated needs and goals of a user.)
+Operational Definition of "Help":
+'Help' is deploying a feature that meets the stated, and indicated, needs and goals of a user.
 
 4. Drake Equation Vessel Functions: in the following seven areas
 Sub-Participants can, should, will, want to, do, help, and / or help with, serve, and / or serve with, setting-location-items in a legal vessel-capacity occupational role and niche and offer legal-vessel-contracts in the following ~seven areas:
@@ -375,9 +375,8 @@ with local spice and sauce."
 
 2. Clarification Statements Section: Disinformation & System Collapse
 
-("Clarification statements" relate to system defense, system immune-system, diagnostics, disinformation, collapse-metrics, weak-points
+("Clarification statements" relate to system defense, system immune-system, diagnostics, disinformation, collapse-metrics, weak-points.
 Definition of statement to be as clear and unambiguous as possible: "It is bad, It is wrong, it causes system collapse, it should not be done, and I will not do it.")
-
 
 Given enough participants, there will be participants who will push to and past the point of system collapse.
 
@@ -388,7 +387,7 @@ You need to know how to prepare and prevent it.)
 
 Whether or not a statement should be clarified is an important item that should be dealt with according to all known best practices standards and protocols; 
 1. No unilateral changes to group-agreed-upon goals, means, and methods, and 
-2. no unilateral system collapse.
+2. No unilateral system collapse.
 
 
 2. Tautology Areas
@@ -405,6 +404,7 @@ For example:
 2.1.2.4  Testing Auditing Feedback
 2.1.2.5  No Unilateral System Collapse
 2.1.2.6  Proficiency Standards for Time and Schedules
+
 2.1.3  Causality Models: Concept Check: Scapegoating and Elimination: Identifying any entire part of the world as to be scapegoated and eliminated 
 is bad, is wrong, it causes system collapse, it should not be done, and I will not do it.
 
@@ -429,6 +429,8 @@ For example:
 5. Negative choices and definitions (don't ignore them)
 6. Turning on and off system processes ((for example) comparing policy from Roman Catholicism, South Korea, and Judaeica)
 7. Half-dark dichotomies (more on that later)
+
+
 
 
 3. Standard Error and Damage Report in four sub-Sections
@@ -473,8 +475,8 @@ etc
 _________ shows no signs of having a concept of cross-contextual system models and tools
 _________ shows no signs of having empirical behavioral use of cross-contextual system models and tools.
 
-_________ does/do show signs of empirical-behavioral-use of general generality
-_________ shows no signs of having a concept of general generality
+_________ does/do show signs of empirical-behavioral-use of types of generality
+_________ shows no signs of having a concept of types of generality
 
 
 3.4 Policy Areas:
