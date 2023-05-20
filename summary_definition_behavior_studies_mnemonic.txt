@@ -221,6 +221,11 @@ All of these are not recognized as being accurate.)
 (Beginning of Mnemonic Proper)
 
 
+
+
+
+
+
 Mnemonic
 Four Sections:
 1.  Value Statements
@@ -230,14 +235,6 @@ Four Sections:
 2.  Clarification Statements (for contracts)
 3.  Standard Error and Damage Report (in four subsections)
 4.  Macro-Model
-
-
-
-
-
-
-
-
 
 
 1. Value Statements Section
@@ -282,8 +279,8 @@ A:
 2. Love, Act Responsibly Towards, Fulfill Duties Towards
 including a framework borrowed from biology containing "comensal",
 including:
-1. energy, 
-2. nutrients, 
+1. Energy, 
+2. Nutrients, 
 3. Shannon/TuringInformation, 
 4. Definition behaviors
 
@@ -442,7 +439,10 @@ For example:
 'they are all good' 
 'they are all bad' 
 'they should be dealt with by cramming them together or splitting them apart"
-2. Golden circle asymmetry / inside outside asymmetry, deleterious effects include: causality schedules contracts.
+2. Golden circle asymmetry / inside outside asymmetry, deleterious effects include: 
+- causality, 
+- schedules,
+- contracts.
 3. System inversion (is a standard data artifact)
 4. Basal distal disjunctions (is a proxy(model) for (operationally defined system) 'violence')
 5. Negative choices and definitions (don't ignore them)
