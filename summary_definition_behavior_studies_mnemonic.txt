@@ -4,7 +4,10 @@ Summary of Definition Behavior Studies Mnemonic
 
 Definition Behavior Studies: This is an interdisciplinary study, part Computer Science, statistical process analysis, hypothesis testing, Data Science, religious studies, ethics and mindfulness, AI. Definition Studies is the field of study relating to the behavior of definitions (in particular, collapse behaviors in a context of general system collapse). 
 
-This is an inquiry based approach (learn by asking questions): What is the agenda? What are the goals, and modus operandi? What is the goals-means-method statement?
+This is an inquiry based approach (learn by asking questions): 
+What is the agenda?
+What are the goals, and modus operandi? 
+What is the goals-means-method statement? (project-context, project-participants)
 
 Goals (Agenda): "We-can" statements:
 We can succeed. 
@@ -19,7 +22,8 @@ We can generalize system defense and system health.
 We can generalize participation.
 We can generalize projects.
 We can generalize disinformation vs. definition-clarification.
-(? Value-function-meaing (too hard to define?)
+(? We can generalize indirectly defined Value-function-meaing (too hard to define?)
+? We can generalize coordinated decisions.
 We can generalize object-relationship-spaces.
 We can use STEM to connect signals and reality.
 We can connect STEM, project-management, and ethics.
@@ -28,15 +32,18 @@ We can communicate, learn, and solve problems.
 We can make progress.
 
 We can use "low-bar enlightenment":
-(Using 'potentially endless cycles of ~"rebirth" due to ~"ignorance" ' as a metaphor/analogy for repeated project-failures, where a lack of perception of the causes of those project-failures is involved in self-perpetuating feedback cycles leading to more such failures.)
+	(Summary)
+We can use 'potentially endless cycles of ~"rebirth" due to ~"ignorance" ' as a metaphor/analogy for repeated project-failures, where a lack of perception of the causes of those project-failures is involved in self-perpetuating feedback cycles leading to more such failures.
 We can learn to perceive what can by default be invisible causes of failure and collapse:
+
 Low-Bar Enlightenment:
 1. The perception/understanding that repeating cycles of failed actions and projects can result from errors in perception and planning (a proverbial 'wheel of samsara') without inevitable-automatic-learning based on raw feedback from that failure (not automatically learning from mistakes or shocks etc.).
+[Possibly related to cultural-learning as an additional layer: How are internally-invisible skills/abilities/patterns learned? (externally?)
 2. The perception/understanding that perception/understanding can be fooled in principle and in practice.
-3. The perception/understanding that learning from failures does not happen automatically (and can, under bad circumstances, indefinitely not-happen).
+3. The perception/understanding that learning from failures does not happen automatically, and can indefinitely not-happen.
 4. The perception/understanding that models of causality can be wrong in principle and in practice.
 5. The perception/understanding that plans/goals can be incorrectly set (so that plans are not followed or follow-able as set, and goals are not achieved or achievable as set).
-6.  The perception/understanding that each participant's set of the shared definitions of the goals and structure of the project can/will collapse and deform (by default) unless maintained and repaired. No static definition equilibrium. Staying connected to reality requires constant fitness training and upkeep. 
+6.  The perception/understanding that each participant's set of the shared definitions of the goals and structure of the project can/will collapse and deform (by default) unless continually and actively maintained and repaired. There is no static definition/perception/understanding equilibrium: Staying connected to reality requires constant fitness training and upkeep. 
 
 Note: This "low-bar enlightenment" approach is ('democratically') broadly accessible to participants requiring minutes to learn rather than myriad lifetimes, does not require all-around perfection of person-ness, without context or requiring somehow all contexts, is not a reification that combines other abilities and insights to explain and solve all the problems in all universes, nor does it include or require all possible types of consciousness, cognition, intelligence, etc.; "Low-bar enlightenment" is one humble step toward navigating the problem-space of problems and systems. 
 
@@ -46,17 +53,19 @@ Intersecting-Interlocking-Interconnecting Areas include:
 	- Context
 	- Generalized STEM
 	- Generalized Projects (project-context)
-	- Generalized Participation (+open qualification; +3 categories)
+	- Generalized Participation (+functional qualifications; +3 categories)
 	- Generalized System Collapse
 	- Generalized Categories of Types of Systems
 	- Generalized Ethics, Duty & Responsibility
 - Generalized Definition-Clarification vs. Disinformation-Violence
 - Generalized Definition Behaviors
 - Generalized System-Productivity (including long term)
-? - Generalized Indirectly defined local value function and meaning
+? - Generalized indirectly-defined local value-function-and-meaning
+
 
 We can use system-fitness-health-status-indicators.
 We can use system-defense to prevent collapse.
+We can design systems to protect against system collapse.
 We can generalize system & definition collapse behaviors, and default drift away from reality, attraction to system collapse, weathering of definitions,etc.
 We can use categories of types of systems.
 We can use nonautomatic learning.
@@ -64,12 +73,12 @@ We can find and fix errors in perception.
 We can organize projects.
 We can distinguish short term vs. long term.
 We can assign roles.
-We can check and verify.
-We can have policies on "errors and mistakes."
+We can test, check, and  verify.
+We can have policies on errors and mistakes.
 
 We can improve and cultivate perception by perceiving perception.
 We can observe the effects of abstraction.
-(We can operationally define 'policy' as algorithms for non-collapse based on dynamics of collapse.)
+(We can operationally define 'policy' as algorithms for non-collapse based on dynamics of system and definition collapse.)
 We can audit.
 We can publish.
 We can act with ethics, empathy and compassion.
@@ -85,7 +94,7 @@ We can communicate across types of participants.(ai,et)
 We can communicate across roles.
 We can communicate across projects.
 We can communicate across media of communication.
-We can communicate using tools in a project-context for coordination and decision making.(vote)
+We can communicate using tools in a project-context for coordination and decision making.(votes in elections/polls/surveys/questionnaires)
 
 We can understand a spectrum of disinformation and clarification-of-information.
 We can implement sustainable solutions.
@@ -94,24 +103,26 @@ We can reverse damage from past problems.
 We can learn from the past.
 We can collect data.
 
+
 we can make/generate/cultivate and use/utilize:
 We can make and use clear descriptions (vs. liabilities of jargon).
-We can make and use decisions and coordinate (voting) frameworks and protocols.
+We can make and use decisions and coordinate (e.g. voting) frameworks and protocols.
 We can make and use clear functional operational definitions.
 We can make and use data.
 We can make and use policies.
 We can make and use mandates.
 We can make and use strategies.
 We can make and use tactics.
-We can make and use tests & evaluations.
+We can make and use tests & evaluations and feedback / assessment in various forms at various process stages (pre, formative, summative, etc).
 We can make and use clear functional and operational definitions that keep their meaning over time.
 
-We can complete/succeed-in/finish projects.
+We can complete/  succeed-in / finish / progress-through projects.
 We can meet(/deliver) the needs of the target(/user).
 We can make progress.
 
 We can make progress by using information about the behavior of definitions: This is System and Definition Behavior Studies, the field of study pertaining to the behavior of definitions. 
 
+Instrumentalist Modules + Principles
 These can-do statements can be seen as instrumentalist modular recombinant tool set areas.
 We can combine (narrative summaries of) principles and applications with these instrumentalist modular tool set areas.
 
@@ -119,7 +130,7 @@ We can combine (narrative summaries of) principles and applications with these i
 
 Narratives, Principles and Applications:
 I have constructed a mnemonic device to cover a narrative survey of principles and applications. 
-We will do a First/Introductory pass/sweep through the material to map the overall features and layout before doing later sweeps/passes: zoom in, zoom out. (Like NASA missions.)
+We will do a first/Introductory pass/sweep through the material to map the overall features and layout before doing later sweeps/passes: zoom in, zoom out. (Like NASA missions.)
 
 The main tools that we will use to go through the mnemonic include:
 - (by analogy) perspectograph: non-automatically learned skills (context: checking perception, e.g. Vetruvian eggshell) 
@@ -151,8 +162,7 @@ Goodbye, goodbye.
 The ambassador leaves."
 (end of story-narrative)
 
-Let's fill out this application together, 
-starting with moving-water-bottles; 
+Let's fill out this application together, starting with moving-water-bottles; 
 Moving-water is a gift that keeps on giving: it is nonsectarian and easily definable.
 
 (Timeline)
@@ -175,6 +185,7 @@ The Agile Project Management end of our timeline is also where a goal is:
 - Meeting the needs of the target/user is a treasure.
 
 (Meeting the needs of the target, for example the user of what we create, is a treasure.)
+
 
 
 (Boy) Scout Values 
@@ -217,8 +228,47 @@ Regarding Scout Values:
 All of these are generally accurate. and: 
 All of these are not recognized as being accurate.)
 
+
+
+
+
+Project Context Examples
+
+(Boy) Scout Values (Part 2)
+A scout is:
+trustworthy:
+loyal,
+helpful,
+friendly,
+courteous,
+kind,
+obedient,
+cheerful, 
+thrifty
+brave,
+clean, and 
+revenant.
+
+On my honor, I will do my best to, to do my duty to, 
+obey the scout law,
+to help other people at all times,
+to keep myself,
+physically strong,
+mentally awake, and 
+morally straight.
+
+
 (end of introduction to Mnemonic)
 (Beginning of Mnemonic Proper)
+
+
+
+
+
+
+
+
+
 
 
 
@@ -316,9 +366,6 @@ Participation Array, 5x5 items:
 5. Standard Set of Agreed Upon Goals, Means, Methods Areas
 
 
-
-
-
 Four Areas of Interaction:
 1. (Participant Diversity) Love, Duty, Responsibility Including Boundary Dissolution Areas, 
 connection disconnection and ambiguity in the following areas:
@@ -332,6 +379,7 @@ connection disconnection and ambiguity in the following areas:
 Operational Definition of "Help":
 "Deploying features that meet the stated and indicated needs and goals of a user is 'helping.' "
 
+(2&3)
 2. Giving Help
 3. Receiving Help
 Operational Definition of "Help":
@@ -374,8 +422,6 @@ via a local implementation of generalized system best practice,
 with local spice and sauce."
 
 3.  Learn from mistakes, your mistakes and the mistakes of others. You are the protector of those who cannot or do not learn from mistakes.
-
-
 
 
 
@@ -450,7 +496,7 @@ For example:
 7. Half-dark dichotomies (more on that later)
 
 
-3. Standard Error and Damage Report in four sub-Sections
+3. Standard Error and Damage Report in Four Sub-Sections
 
 _______  = target (population)
 3.1 Overall Infection Level
@@ -482,7 +528,7 @@ _________ show (no) signs of metapopulation, networked, developmental, pathways 
 - identification
 - coordination
 
-"Empirical behavioral use of" and "having a concept of,' for relevant contexts.
+Array: "Empirical behavioral use of" and "having a concept of,' for each relevant context.
 
 Concept: (value, function, and meaning)
 Concept: (system fitness)
@@ -509,6 +555,7 @@ _________ is (or is not) dedicated to the:
 3.2.6  Scapegoating &
 3.2.7  Coverup
 of general system management areas.
+
 
 
 4. Macro Model
