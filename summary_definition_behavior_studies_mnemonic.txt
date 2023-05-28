@@ -15,6 +15,7 @@ We can make things work.
 We can understand what is wrong.
 We can fix what is broken. 
 We can use non-automatically learned skills.
+
 We can generalize STEM.
 We can generalize system collapse.
 We can generalize system fitness and system epidemiology.
@@ -25,6 +26,7 @@ We can generalize disinformation vs. definition-clarification.
 (? We can generalize indirectly defined Value-function-meaing (too hard to define?)
 ? We can generalize coordinated decisions.
 We can generalize object-relationship-spaces.
+
 We can use STEM to connect signals and reality.
 We can connect STEM, project-management, and ethics.
 We can use intersecting-interlocking-interconnecting areas.
