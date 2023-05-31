@@ -7,7 +7,7 @@ Definition Behavior Studies: This is an interdisciplinary study, part Computer S
 This is an inquiry based approach (learn by asking questions): 
 What is the agenda?
 What are the goals, and modus operandi? 
-What is the goals-means-method statement? (project-context, project-participants)
+What is the goals-means-method statement? (in a project-context, with project-participants)
 
 Goals (Agenda): "We-can" statements:
 We can succeed. 
@@ -21,11 +21,11 @@ We can generalize system collapse.
 We can generalize system fitness and system epidemiology.
 We can generalize system defense and system health.
 We can generalize participation.
-We can generalize projects.
+We can generalize projects (project-context).
 We can generalize disinformation vs. definition-clarification.
+We can generalize coordinated decisions (voting etc).
 (? We can generalize indirectly defined Value-function-meaing (too hard to define?)
-? We can generalize coordinated decisions.
-We can generalize object-relationship-spaces.
+? We can generalize object-relationship-spaces. 
 
 We can use STEM to connect signals and reality.
 We can connect STEM, project-management, and ethics.
@@ -35,17 +35,17 @@ We can make progress.
 
 We can use "low-bar enlightenment":
 	(Summary)
-We can use 'potentially endless cycles of ~"rebirth" due to ~"ignorance" ' as a metaphor/analogy for repeated project-failures, where a lack of perception of the causes of those project-failures is involved in self-perpetuating feedback cycles leading to more such failures.
-We can learn to perceive what can by default be invisible causes of failure and collapse:
+We can use the idea 'potentially endless cycles of ~"rebirth" due to ~"ignorance" ' as a metaphor/analogy for repeated project-failures, where a lack of perception of the causes of those project-failures is involved in self-perpetuating feedback cycles leading to more such failures.
+We can learn to perceive what can by default be invisible causes of ((definable, measurable, testable, falsifiable) project, system, definition) failure and collapse:
 
 Low-Bar Enlightenment:
-1. The perception/understanding that repeating cycles of failed actions and projects can result from errors in perception and planning (a proverbial 'wheel of samsara') without inevitable-automatic-learning based on raw feedback from that failure (not automatically learning from mistakes or shocks etc.).
+1. The perception/understanding that repeating cycles of failed actions and projects can result from errors in perception and planning (a proverbial 'wheel of samsara') without inevitable-automatic-learning based on raw feedback from that failure (not automatically learning from mistakes or overall-system-shocks etc.).
 [Possibly related to cultural-learning as an additional layer: How are internally-invisible skills/abilities/patterns learned? (externally?)
 2. The perception/understanding that perception/understanding can be fooled in principle and in practice.
 3. The perception/understanding that learning from failures does not happen automatically, and can indefinitely not-happen.
 4. The perception/understanding that models of causality can be wrong in principle and in practice.
-5. The perception/understanding that plans/goals can be incorrectly set (so that plans are not followed or follow-able as set, and goals are not achieved or achievable as set).
-6.  The perception/understanding that each participant's set of the shared definitions of the goals and structure of the project can/will collapse and deform (by default) unless continually and actively maintained and repaired. There is no static definition/perception/understanding equilibrium: Staying connected to reality requires constant fitness training and upkeep. 
+5. The perception/understanding that plans/goals can be incorrectly defined (so that plans are not followed or follow-able as defined, and goals are not achieved or achievable as defined).
+6.  The perception/understanding that each participant's set of the shared definitions of the goals-and-structure of the project can/will collapse and deform (by default) unless continually and actively maintained and repaired. There is no static definition/perception/understanding equilibrium: Staying connected to reality requires constant fitness training and upkeep. 
 
 Note: This "low-bar enlightenment" approach is ('democratically') broadly accessible to participants requiring minutes to learn rather than myriad lifetimes, does not require all-around perfection of person-ness, without context or requiring somehow all contexts, is not a reification that combines other abilities and insights to explain and solve all the problems in all universes, nor does it include or require all possible types of consciousness, cognition, intelligence, etc.; "Low-bar enlightenment" is one humble step toward navigating the problem-space of problems and systems. 
 
@@ -56,6 +56,7 @@ Intersecting-Interlocking-Interconnecting Areas include:
 	- Generalized STEM
 	- Generalized Projects (project-context)
 	- Generalized Participation (+functional qualifications; +3 categories)
+      - Generalized Decision coordination (voting etc).
 	- Generalized System Collapse
 	- Generalized Categories of Types of Systems
 	- Generalized Ethics, Duty & Responsibility
@@ -68,7 +69,7 @@ Intersecting-Interlocking-Interconnecting Areas include:
 We can use system-fitness-health-status-indicators.
 We can use system-defense to prevent collapse.
 We can design systems to protect against system collapse.
-We can generalize system & definition collapse behaviors, and default drift away from reality, attraction to system collapse, weathering of definitions,etc.
+We can use generalized system & definition collapse behaviors, and default the drift away from reality, attraction to system collapse, and weathering of definitions,etc.
 We can use categories of types of systems.
 We can use nonautomatic learning.
 We can find and fix errors in perception.
@@ -79,8 +80,8 @@ We can test, check, and  verify.
 We can have policies on errors and mistakes.
 
 We can improve and cultivate perception by perceiving perception.
-We can observe the effects of abstraction.
-(We can operationally define 'policy' as algorithms for non-collapse based on dynamics of system and definition collapse.)
+We can observe the effects of abstraction (effects of observation and definition).
+(We can operationally define 'policy' as algorithms for non-collapse based on dynamics of system and definition collapse. (plus context?))
 We can audit.
 We can publish.
 We can act with ethics, empathy and compassion.
@@ -118,8 +119,8 @@ We can make and use tactics.
 We can make and use tests & evaluations and feedback / assessment in various forms at various process stages (pre, formative, summative, etc).
 We can make and use clear functional and operational definitions that keep their meaning over time.
 
-We can complete/  succeed-in / finish / progress-through projects.
-We can meet(/deliver) the needs of the target(/user).
+We can complete /  succeed-in / finish / progress-through projects.
+We can meet / deliver the needs of the target /user.
 We can make progress.
 
 We can make progress by using information about the behavior of definitions: This is System and Definition Behavior Studies, the field of study pertaining to the behavior of definitions. 
@@ -371,17 +372,16 @@ Participation Array, 5x5 items:
 Four Areas of Interaction:
 1. (Participant Diversity) Love, Duty, Responsibility Including Boundary Dissolution Areas, 
 connection disconnection and ambiguity in the following areas:
-
 1.1 time space location
 1.2 perception
 1.3 action
 1.4 experience
 1.5 votes on goals means methods
 
+(2&3)
 Operational Definition of "Help":
 "Deploying features that meet the stated and indicated needs and goals of a user is 'helping.' "
 
-(2&3)
 2. Giving Help
 3. Receiving Help
 Operational Definition of "Help":
@@ -415,7 +415,7 @@ Sub-Participants can, should, will, want to, do, help, and / or help with, serve
 
 8. Number 8 (kind of a separate branch-area)
 Help others at all times.
-1.  I will do my best to help all parties according to all known best practice standards and protocols; to manage up or manage to equilibrium system-value-function-and-meaning, to manage down or manage to equilibrium system-collapse.
+1.  I will do my best to help all parties according to all known best practice standards and protocols; to manage down or manage to equilibrium system-collapse, to manage up or manage to equilibrium system-value-function-and-meaning.
 
 2.  Best Practice Blessing: 
 "May you may we may noun, 
@@ -521,8 +521,8 @@ The standard side-effects of not having system membranes include:
 The next area has to do with system participation behaviors:
 (This is a linear narrative walkthrough through an array)
 _________ shows (no) sign of system participation behaviors.
-_________ show (no) signs of developmental pathways towards system participation behaviors.
-_________ show (no) signs of metapopulation, networked, developmental, pathways towards system participation behaviors:
+_________ shows (no) signs of developmental pathways towards system participation behaviors.
+_________ shows (no) signs of metapopulation, networked, developmental, pathways towards system participation behaviors:
 - refugia
 - discussion
 - recognition
@@ -628,3 +628,4 @@ Notes:
 - collapse behavior of definitions
 - collapse of feedback
 - potemkin village and obstructive structures
+- generalized-context (rediculous or useful?)
