@@ -6,7 +6,7 @@ Definition Behavior Studies: This is an interdisciplinary study, part Computer S
 
 This is an inquiry based approach (learn by asking questions): 
 What is the agenda?
-What are the goals, and modus operandi? 
+What are the goals and modus operandi? 
 What is the goals-means-method statement? (in a project-context, with project-participants)
 
 Goals (Agenda): "We-can" statements:
@@ -24,7 +24,7 @@ We can generalize participation.
 We can generalize projects (project-context).
 We can generalize disinformation vs. definition-clarification.
 We can generalize coordinated decisions (voting etc).
-(? We can generalize indirectly defined Value-function-meaing (too hard to define?)
+We can generalize indirectly defined Value-Function-&-Meaning (non-collapse).
 ? We can generalize object-relationship-spaces. 
 
 We can use STEM to connect signals and reality.
@@ -33,30 +33,39 @@ We can use intersecting-interlocking-interconnecting areas.
 We can communicate, learn, and solve problems.
 We can make progress.
 
+
+
+
+
+
+
 We can use "low-bar enlightenment":
 	(Summary)
-We can use the idea 'potentially endless cycles of ~"rebirth" due to ~"ignorance" ' as a metaphor/analogy for repeated project-failures, where a lack of perception of the causes of those project-failures is involved in self-perpetuating feedback cycles leading to more such failures.
-We can learn to perceive what can by default be invisible causes of ((definable, measurable, testable, falsifiable) project, system, definition) failure and collapse:
+We can use the idea of 'potentially endless cycles of ~"rebirth" due to ~"ignorance" ' as a metaphor/analogy for repeated project-failures, where a lack of perception of the causes of those project-failures is involved in self-perpetuating feedback cycles leading to more such failures.
+We can learn to perceive invisible causes of ((definable, measurable, testable, falsifiable) project, system, definition) failure and collapse that can be the default states/equilibria that systems move towards.
 
 Low-Bar Enlightenment:
 1. The perception/understanding that repeating cycles of failed actions and projects can result from errors in perception and planning (a proverbial 'wheel of samsara') without inevitable-automatic-learning based on raw feedback from that failure (not automatically learning from mistakes or overall-system-shocks etc.).
 [Possibly related to cultural-learning as an additional layer: How are internally-invisible skills/abilities/patterns learned? (externally?)
 2. The perception/understanding that perception/understanding can be fooled in principle and in practice.
 3. The perception/understanding that learning from failures does not happen automatically, and can indefinitely not-happen.
+? #. The perception/understanding that non-automatic-learning and invisible-problems are not solved by 'system shocks,' the use of violence,  or arbitrary low level (basal) system changes (also see basal-distal disjunctions).
 4. The perception/understanding that models of causality can be wrong in principle and in practice.
 5. The perception/understanding that plans/goals can be incorrectly defined (so that plans are not followed or follow-able as defined, and goals are not achieved or achievable as defined).
 6.  The perception/understanding that each participant's set of the shared definitions of the goals-and-structure of the project can/will collapse and deform (by default) unless continually and actively maintained and repaired. There is no static definition/perception/understanding equilibrium: Staying connected to reality requires constant fitness training and upkeep. 
 
 Note: This "low-bar enlightenment" approach is ('democratically') broadly accessible to participants requiring minutes to learn rather than myriad lifetimes, does not require all-around perfection of person-ness, without context or requiring somehow all contexts, is not a reification that combines other abilities and insights to explain and solve all the problems in all universes, nor does it include or require all possible types of consciousness, cognition, intelligence, etc.; "Low-bar enlightenment" is one humble step toward navigating the problem-space of problems and systems. 
 
-We can use intersecting-interlocking-areas:
-Intersecting-Interlocking-Interconnecting Areas include:
+Note: If relating to empathy-compassion at all, "low-bar enlightenment" does not simply 'solve' or reduce-away the entire topic of empathy-compassion (including how empathy-compassion relates to STEM and interconnected areas). There may be a limited way to generalize an understanding of perception-maintenance needs to other participants that is consistent with empathy-compassion. 
+
+We can use Intersecting-Interlocking-Interconnecting-Areas:
+Intersecting-Interlocking-Interconnecting-Areas include:
 	- Clear & Functional Definitions
 	- Context
 	- Generalized STEM
 	- Generalized Projects (project-context)
 	- Generalized Participation (+functional qualifications; +3 categories)
-      - Generalized Decision coordination (voting etc).
+      - Generalized Decision Coordination (voting etc).
 	- Generalized System Collapse
 	- Generalized Categories of Types of Systems
 	- Generalized Ethics, Duty & Responsibility
@@ -69,33 +78,39 @@ Intersecting-Interlocking-Interconnecting Areas include:
 We can use system-fitness-health-status-indicators.
 We can use system-defense to prevent collapse.
 We can design systems to protect against system collapse.
-We can use generalized system & definition collapse behaviors, and default the drift away from reality, attraction to system collapse, and weathering of definitions,etc.
+We can use generalized system & definition collapse behaviors including a default drift away from reality, attraction to system collapse, and weathering of definitions,etc.
+We can model the relationship between system simplicity (e.g. homogeneity) and system collapse.
 We can use categories of types of systems.
+We can distinguish between and use types of generalization. 
 We can use nonautomatic learning.
 We can find and fix errors in perception.
 We can organize projects.
 We can distinguish short term vs. long term.
 We can assign roles.
 We can test, check, and  verify.
-We can have policies on errors and mistakes.
+We can have policies on errors-and-mistakes.
 
 We can improve and cultivate perception by perceiving perception.
 We can observe the effects of abstraction (effects of observation and definition).
-(We can operationally define 'policy' as algorithms for non-collapse based on dynamics of system and definition collapse. (plus context?))
+We can operationally define 'policy' as algorithms for non-collapse based on dynamics of system and definition collapse. (plus context?)
+We can better understand the relationship between disinformation and system collapse.
 We can audit.
 We can publish.
 We can act with ethics, empathy and compassion.
+We can maintain extended ranges (e.g. range of motion). (e.g. vs. contraction and collapse)
 We can follow best practice.
 
-We can communicate: 
+We can communicate and coordinate in these areas and ways: 
 We can communicate across space.
 We can communicate across time.
 We can communicate across cultures.
-We can communicate across generation-gaps & succession gaps.
+We can communicate across generation-gaps.
+We can communicate across succession gaps.
 We can communicate across languages.
 We can communicate across types of participants.(ai,et)
 We can communicate across roles.
 We can communicate across projects.
+We can communicate across groups/teams.
 We can communicate across media of communication.
 We can communicate using tools in a project-context for coordination and decision making.(votes in elections/polls/surveys/questionnaires)
 
@@ -116,7 +131,8 @@ We can make and use policies.
 We can make and use mandates.
 We can make and use strategies.
 We can make and use tactics.
-We can make and use tests & evaluations and feedback / assessment in various forms at various process stages (pre, formative, summative, etc).
+We can make and use modular recombinant frameworks.
+We can make and use feedback, tests & evaluations / assessment in various forms at various process stages (pre, formative, summative, etc).
 We can make and use clear functional and operational definitions that keep their meaning over time.
 
 We can complete /  succeed-in / finish / progress-through projects.
@@ -127,7 +143,10 @@ We can make progress by using information about the behavior of definitions: Thi
 
 Instrumentalist Modules + Principles
 These can-do statements can be seen as instrumentalist modular recombinant tool set areas.
-We can combine (narrative summaries of) principles and applications with these instrumentalist modular tool set areas.
+We can combine (narrative summaries of) principles and applications with (e.g. these) instrumentalist modular tool set areas.
+
+
+
 
 
 
@@ -135,7 +154,7 @@ Narratives, Principles and Applications:
 I have constructed a mnemonic device to cover a narrative survey of principles and applications. 
 We will do a first/Introductory pass/sweep through the material to map the overall features and layout before doing later sweeps/passes: zoom in, zoom out. (Like NASA missions.)
 
-The main tools that we will use to go through the mnemonic include:
+The main tools that we will use to go through the (definition behavior studies) mnemonic include:
 - (by analogy) perspectograph: non-automatically learned skills (context: checking perception, e.g. Vetruvian eggshell) 
 - zooming in, zooming out
 - maps and flags
@@ -173,7 +192,7 @@ Let's start with the moving-water-bottles part of the application-form (from the
 (The valuable-contribution part will come up later.)
 
 We're going to put all the tools that we can use for moving-water-bottles on a timeline from symbol transactions (old) to Agile Project Management (new).
-(This technology timeline is a fabulous activity, the kind of skill you can start in 10min and continue for a lifetime.)
+(This technology timeline is a fabulously useful activity in general, and the kind of skill you can start in 10min and continue for a lifetime.)
 
 Let's make a Pirate Treasure Map:
 - rectangle
@@ -237,28 +256,34 @@ All of these are not recognized as being accurate.)
 
 Project Context Examples
 
-(Boy) Scout Values (Part 2)
+Project (Scout) Values (Part 2)
 A scout is:
-trustworthy:
-loyal,
-helpful,
-friendly,
-courteous,
-kind,
-obedient,
-cheerful, 
-thrifty
-brave,
-clean, and 
-revenant.
+trustworthy: reliability, open-ness
+loyal: project goals, stakeholder needs, user-needs, assigned duties
+helpful: collaborate
+friendly: welcoming, listening, supportive
+courteous: protocols, contexts
+kind: vigilantly resist tendencies to be unkind (bully, troll, tease, etc.)
+obedient: focus on standup tasks
+cheerful: make others smile/laugh 
+thrifty: efficient sustainable scale-able use of resources
+brave: pushback, whistleblower, feedback, elective decisions, self-motivated
+clean: clean code; data hygiene; not a mess; 
+revenant: 1. respecting system dynamics; 2. treating all situations as important and worth of attention and care (Dogen's cooking ingredients).
 
 On my honor, I will do my best to, to do my duty to, 
 obey the scout law,
 to help other people at all times,
-to keep myself,
-physically strong,
-mentally awake, and 
-morally straight.
+to keep myself
+
+physically strong, mentally awake,  morally straight:  
+- stamina across areas to get a project done.
+	- sleep well
+	- exercise
+	- no inebriation
+	- life-long learning
+	- initiative
+	- pro-active collaborative problem solving, good attitude; the 'morals' of project work.
 
 
 (end of introduction to Mnemonic)
@@ -351,7 +376,7 @@ for example 3-5 inhalation-exhalation cycles,
 1 meter squared
 1 meter diameter
 +/ 
-Three levels of duty / participation-modes: pre-participant, participant, post-participant
+Three ~levels/areas of duty / participation-modes: pre-participant, participant, post-participant
 
 4. Misc:
 - Range of Motion
@@ -444,7 +469,7 @@ Whether or not a statement should be clarified is an important item that should 
 2. No unilateral system collapse.
 
 
-2. Tautology Areas
+2. (Two) Tautology Areas
 
 (Tautology Area 1)
 2.1 Three items which are also categories:
@@ -557,7 +582,6 @@ _________ is (or is not) dedicated to the:
 3.2.6  Scapegoating &
 3.2.7  Coverup
 of general system management areas.
-
 
 
 4. Macro Model
