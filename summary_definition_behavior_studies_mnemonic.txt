@@ -1,7 +1,6 @@
 Definition Behavior Studies
 Summary of Definition Behavior Studies Mnemonic
 
-
 Definition Behavior Studies: This is an interdisciplinary study, part Computer Science, statistical process analysis, hypothesis testing, Data Science, religious studies, ethics and mindfulness, AI. Definition Studies is the field of study relating to the behavior of definitions (in particular, collapse behaviors in a context of general system collapse). 
 
 This is an inquiry based approach (learn by asking questions): 
@@ -23,9 +22,11 @@ We can generalize system defense and system health.
 We can generalize participation.
 We can generalize projects (project-context).
 We can generalize disinformation vs. definition-clarification.
-We can generalize coordinated decisions (voting etc).
+We can generalize decision-coordination (voting etc).
 We can generalize indirectly defined Value-Function-&-Meaning (non-collapse).
 ? We can generalize object-relationship-spaces. 
+? We can generalize data-hygiene.
+(generalize Categories of types of systems?)
 
 We can use STEM to connect signals and reality.
 We can connect STEM, project-management, and ethics.
@@ -39,24 +40,28 @@ We can make progress.
 
 
 
-We can use "low-bar enlightenment":
+We Can Use "Low-Bar Enlightenment":
 	(Summary)
-We can use the idea of 'potentially endless cycles of ~"rebirth" due to ~"ignorance" ' as a metaphor/analogy for repeated project-failures, where a lack of perception of the causes of those project-failures is involved in self-perpetuating feedback cycles leading to more such failures.
+We can use the idea of 'potentially endless cycles of ~"rebirth" due to ~"ignorance" ' as a metaphor/analogy for repeated project-failures, where a lack of perception of the causes of those project-failures is involved in self-perpetuating feedback cycles leading to more such failures (with invisible or misunderstood causes).
 We can learn to perceive invisible causes of ((definable, measurable, testable, falsifiable) project, system, definition) failure and collapse that can be the default states/equilibria that systems move towards.
 
 Low-Bar Enlightenment:
-1. The perception/understanding that repeating cycles of failed actions and projects can result from errors in perception and planning (a proverbial 'wheel of samsara') without inevitable-automatic-learning based on raw feedback from that failure (not automatically learning from mistakes or overall-system-shocks etc.).
-[Possibly related to cultural-learning as an additional layer: How are internally-invisible skills/abilities/patterns learned? (externally?)
+1. The perception/understanding that repeating cycles of failed actions and projects can result from errors in perception and planning (a proverbial 'wheel of samsara') without inevitable-automatic-learning based on raw feedback from that failure (learning does not automatically result from mistakes or overall-system-shocks etc.).
+[Possibly related to cultural-learning as an additional layer: 
+  Q: How are internally-invisible skills/abilities/patterns learned? A: externally?]
 2. The perception/understanding that perception/understanding can be fooled in principle and in practice.
 3. The perception/understanding that learning from failures does not happen automatically, and can indefinitely not-happen.
 ? #. The perception/understanding that non-automatic-learning and invisible-problems are not solved by 'system shocks,' the use of violence,  or arbitrary low level (basal) system changes (also see basal-distal disjunctions).
 4. The perception/understanding that models of causality can be wrong in principle and in practice.
 5. The perception/understanding that plans/goals can be incorrectly defined (so that plans are not followed or follow-able as defined, and goals are not achieved or achievable as defined).
-6.  The perception/understanding that each participant's set of the shared definitions of the goals-and-structure of the project can/will collapse and deform (by default) unless continually and actively maintained and repaired. There is no static definition/perception/understanding equilibrium: Staying connected to reality requires constant fitness training and upkeep. 
+6.  The perception/understanding that each participant's set of the shared definitions of the goals-and-structure of a project can/will collapse and deform (by default) unless properly configured and continually and actively maintained and repaired. There is no static definition/perception/understanding equilibrium: Staying connected to reality requires constant fitness training and upkeep. 
 
 Note: This "low-bar enlightenment" approach is ('democratically') broadly accessible to participants requiring minutes to learn rather than myriad lifetimes, does not require all-around perfection of person-ness, without context or requiring somehow all contexts, is not a reification that combines other abilities and insights to explain and solve all the problems in all universes, nor does it include or require all possible types of consciousness, cognition, intelligence, etc.; "Low-bar enlightenment" is one humble step toward navigating the problem-space of problems and systems. 
 
-Note: If relating to empathy-compassion at all, "low-bar enlightenment" does not simply 'solve' or reduce-away the entire topic of empathy-compassion (including how empathy-compassion relates to STEM and interconnected areas). There may be a limited way to generalize an understanding of perception-maintenance needs to other participants that is consistent with empathy-compassion. Extending an understanding of low bar enlightenment from just your own situation to all participants and other parts of a project is, if not sufficient for empathy-and-compassion, still a concrete step to take.
+Note: If relating to empathy-compassion at all, "low-bar enlightenment" does not simply 'solve' or reduce-away the entire topic of empathy-compassion (including how empathy-compassion relates to STEM and interconnected areas). There may be a limited way to generalize an understanding of perception-maintenance needs to other participants that is consistent with empathy-compassion. Extending an understanding of low bar enlightenment from just your own situation to all participants and all other parts (e.g. definitions) of a project is, if not sufficient for empathy-and-compassion in a broader or deeper sense, a consistent and concrete step to take (towards  empathy-and-compassion).
+
+Note: 'reality' (the meaning of the term used here) is not a single, simple, uniform, static, homogeneous, thing made of only one type of system, or assumed to fit into any single framework. 
+
 
 We can use Intersecting-Interlocking-Interconnecting-Areas:
 Intersecting-Interlocking-Interconnecting-Areas include:
@@ -78,7 +83,7 @@ Intersecting-Interlocking-Interconnecting-Areas include:
 We can use system-fitness-health-status-indicators.
 We can use system-defense to prevent collapse.
 We can design systems to protect against system collapse.
-We can use generalized system & definition collapse behaviors including a default drift away from reality, attraction to system collapse, and weathering of definitions,etc.
+We can use models of generalized system & definition collapse behaviors including a default drift away from reality, attraction to system collapse, and weathering of definitions,etc.
 We can model the relationship between system simplicity (e.g. homogeneity) and system collapse.
 We can use categories of types of systems.
 We can distinguish between and use types of generalization. 
@@ -90,14 +95,14 @@ We can assign roles.
 We can test, check, and  verify.
 We can have policies on errors-and-mistakes.
 
-We can improve and cultivate perception by perceiving perception.
+We can improve and cultivate perception by perceiving perception (including: indirectly perceiving perception).
 We can observe the effects of abstraction (effects of observation and definition).
 We can operationally define 'policy' as algorithms for non-collapse based on dynamics of system and definition collapse. (plus context?)
 We can better understand the relationship between disinformation and system collapse.
 We can audit.
 We can publish.
 We can act with ethics, empathy and compassion.
-We can maintain extended ranges (e.g. range of motion). (e.g. vs. contraction and collapse)
+We can maintain extended ranges (e.g. [vitruvian] range of motion). (e.g. vs. contraction and collapse) (~vague context for nickname en.wikipedia.org/wiki/Vitruvian_Man)
 We can follow best practice.
 
 We can communicate and coordinate in these areas and ways: 
@@ -109,9 +114,10 @@ We can communicate across succession gaps.
 We can communicate across languages.
 We can communicate across types of participants.(ai,et)
 We can communicate across roles.
-We can communicate across projects.
+We can communicate across projects, and parts and phrases of projects (schedules).
 We can communicate across groups/teams.
 We can communicate across media of communication.
+We can communicate across Input-Output Measures..
 We can communicate using tools in a project-context for coordination and decision making.(votes in elections/polls/surveys/questionnaires)
 
 We can understand a spectrum of disinformation and clarification-of-information.
@@ -146,10 +152,6 @@ These can-do statements can be seen as instrumentalist modular recombinant tool 
 We can combine (narrative summaries of) principles and applications with (e.g. these) instrumentalist modular tool set areas.
 
 
-
-
-
-
 Narratives, Principles and Applications:
 I have constructed a mnemonic device to cover a narrative survey of principles and applications. 
 We will do a first/Introductory pass/sweep through the material to map the overall features and layout before doing later sweeps/passes: zoom in, zoom out. (Like NASA missions.)
@@ -161,6 +163,7 @@ The main tools that we will use to go through the (definition behavior studies) 
 - hypothetico-deductive testing
 - clear communication (e.g. STEM and clear communication; CS: Q: How to write good code? A: Communicate.)
 - concrete narratives: stories
+
 
 Here is an example of a concrete narrative:
 An ambassador travels to earth from the galaxy of Andromeda: 
@@ -185,28 +188,31 @@ The ambassador leaves."
 (end of story-narrative)
 
 Let's fill out this application together, starting with moving-water-bottles; 
-Moving-water is a gift that keeps on giving: it is nonsectarian and easily definable.
+Water (as in the case example of moving water( containers)) is a gift that keeps on giving: it is nonsectarian and easily definable.
+
+[The location of the water at a given time is concrete but the processes challenge our assumptions and require better models and participant coordination.]
 
 (Timeline)
 Let's start with the moving-water-bottles part of the application-form (from the narrative). 
 (The valuable-contribution part will come up later.)
 
 We're going to put all the tools that we can use for moving-water-bottles on a timeline from symbol transactions (old) to Agile Project Management (new).
-(This technology timeline is a fabulously useful activity in general, and the kind of skill you can start in 10min and continue for a lifetime.)
+(Like go or chess, this technology timeline is a fabulously useful activity in general, and the kind of skill you can start in 10min and continue for a lifetime.)
 
-Let's make a Pirate Treasure Map:
+The 'Agile Project Management' 'end of our timeline' is also where a goal is: 
+
+Draw a Pirate Treasure Map:
 - rectangle
 - arrow
 - X
 
-The Agile Project Management end of our timeline is also where a goal is: 
 - Agile Project Management is the X(marks the spot) on a treasure map;
 - This is what we are looking for;
 - This is where the target has needs; 
 - This is where ___ target/user (e.g. society) has needs;
 - Meeting the needs of the target/user is a treasure.
 
-(Meeting the needs of the target, for example the user of what we create, is a treasure.)
+(Key point: Meeting the needs of the target, for example the user of what we create, is a treasure.)
 
 
 
@@ -235,7 +241,6 @@ morally straight.
 
 Bravery Clause: internal whistleblowing + external confrontation.
 
-Mindfulness?
 
 A scout is prepared. Prepared for what?
 - To manage down or manage to equilibrium system collapse.
@@ -284,24 +289,15 @@ physically strong, mentally awake,  morally straight:
 	- life-long learning
 	- initiative
 	- pro-active collaborative problem solving, good attitude; the 'morals' of project work.
+- no system collapse in various areas; no single centre of participant nodes
+
+
+
+
 
 
 (end of introduction to Mnemonic)
 (Beginning of Mnemonic Proper)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 Mnemonic
@@ -325,6 +321,7 @@ This should be generalizable and specifically applicable given an array of 5x5 i
 (Note: 1. Value Statements Section, operational definition of 'help')
 
 Four Addendum Items:
+
 1.1  Setting Location Items:
 The water, the wind, the world, best practice, and other:
 standards,
@@ -385,6 +382,7 @@ Three ~levels/areas of duty / participation-modes: pre-participant, participant,
 - vetruvian-egg-shell
 - empathy and compassion
 
+
 Participation Array, 5x5 items: 
 (This should be generalizable and specifically applicable given an array of 5x5 items.)
 1. Participation Items
@@ -393,7 +391,7 @@ Participation Array, 5x5 items:
 4. Proximity, Scale, Contact, Interaction, Exposure Items 
 5. Standard Set of Agreed Upon Goals, Means, Methods Areas
 
-
+[5x5 array]
 Four Areas of Interaction:
 1. (Participant Diversity) Love, Duty, Responsibility Including Boundary Dissolution Areas, 
 connection disconnection and ambiguity in the following areas:
@@ -410,14 +408,14 @@ Operational Definition of "Help":
 2. Giving Help
 3. Receiving Help
 Operational Definition of "Help":
-'Help' is deploying a feature that meets the stated, and indicated, needs and goals of a user.
+'Help' is defined as deploying a feature that meets the stated, and indicated, needs and goals of a user.
 
 4. Drake Equation Vessel Functions: in the following seven areas
 Sub-Participants can, should, will, want to, do, help, and / or help with, serve, and / or serve with, setting-location-items in a legal vessel-capacity occupational role and niche and offer legal-vessel-contracts in the following ~seven areas:
 
 4.1  Sensory Motor (Lear: Use My Eyes) Areas (Plus electromagnetism)
-4.2  Benzaiten Saraswati Areas (Plus historical continuity, minus high definition input output data literacy /numeracy) (Note: translation and transmission)
-?4.3  Embodyment channeling items: theater-groups and community interaction, CRV, active-imagination
+4.2  Benzaiten Saraswati Areas (Plus historical continuity, minus high definition input output data-literacy/numeracy) (Note: translation and transmission)
+?4.3  Embodyment / channeling items: theater-groups and community interaction, CRV, active-imagination
 4.4  Functions and Operations:
 4.4.1 Null, Void
 4.4.1.1 negative choices and definitions
@@ -459,10 +457,10 @@ Definition of statement to be as clear and unambiguous as possible: "It is bad, 
 
 Given enough participants, there will be participants who will push to and past the point of system collapse.
 
-(You need to know that this happens.
-You need to know where and how it happens.
-You need to know what it looks like.
-You need to know how to prepare and prevent it.)
+(You need to know that collapse happens.
+You need to know where and how collapse happens.
+You need to know what collapse looks like.
+You need to know how to prepare for, prevent, and recover from collapse.)
 
 Whether or not a statement should be clarified is an important item that should be dealt with according to all known best practices standards and protocols; 
 1. No unilateral changes to group-agreed-upon goals, means, and methods, and 
@@ -645,14 +643,6 @@ gratitude;
 I will work harder.
 +
 5.2 Vitruvian Range of Motion fitness activities, PT, SLP, प्रज्ञापारमिताहृदय 般若心経, etc.
-
-
-Notes:
-- contraction of range of motion
-- collapse behavior of definitions
-- collapse of feedback
-- potemkin village and obstructive structures
-- generalized-context (rediculous or useful?)
 
 
 - On 'forced action':
