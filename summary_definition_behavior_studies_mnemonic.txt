@@ -16,17 +16,18 @@ We can fix what is broken.
 We can use non-automatically learned skills.
 
 We can generalize STEM.
-We can generalize system collapse.
-We can generalize system fitness and system epidemiology.
-We can generalize system defense and system health.
 We can generalize participation.
 We can generalize projects (project-context).
-We can generalize disinformation vs. definition-clarification.
 We can generalize decision-coordination (voting etc).
 We can generalize indirectly defined Value-Function-&-Meaning (non-collapse).
 ? We can generalize object-relationship-spaces. 
-? We can generalize data-hygiene.
 (generalize Categories of types of systems?)
+We can generalize system fitness and system epidemiology.
+? We can generalize data-hygiene.
+We can generalize system collapse.
+We can generalize system defense and system health.
+We can generalize disinformation vs. definition-clarification.
+(We can manage types and terms for generalization.)
 
 We can use STEM to connect signals and reality.
 We can connect STEM, project-management, and ethics.
@@ -46,19 +47,19 @@ We can use the idea of 'potentially endless cycles of ~"rebirth" due to ~"ignora
 We can learn to perceive invisible causes of ((definable, measurable, testable, falsifiable) project, system, definition) failure and collapse that can be the default states/equilibria that systems move towards.
 
 Low-Bar Enlightenment:
-1. The perception/understanding that repeating cycles of failed actions and projects can result from errors in perception and planning (a proverbial 'wheel of samsara') without inevitable-automatic-learning based on raw feedback from that failure (learning does not automatically result from mistakes or overall-system-shocks etc.).
-[Possibly related to cultural-learning as an additional layer: 
+1. The perception/understanding that repeating cycles of failed actions and projects can result from errors in perception and planning (a proverbial 'wheel of samsara') without inevitable-automatic-learning arising from raw feedback from that failure (where learning does not automatically result from mistakes or overall-system-shocks etc.).
+[Possibly related to ~'cultural'-learning as an additional layer: 
   Q: How are internally-invisible skills/abilities/patterns learned? A: externally?]
 2. The perception/understanding that perception/understanding can be fooled in principle and in practice.
 3. The perception/understanding that learning from failures does not happen automatically, and can indefinitely not-happen.
 ? #. The perception/understanding that non-automatic-learning and invisible-problems are not solved by 'system shocks,' the use of violence,  or arbitrary low level (basal) system changes (also see basal-distal disjunctions).
 4. The perception/understanding that models of causality can be wrong in principle and in practice.
 5. The perception/understanding that plans/goals can be incorrectly defined (so that plans are not followed or follow-able as defined, and goals are not achieved or achievable as defined).
-6.  The perception/understanding that each participant's set of the shared definitions of the goals-and-structure of a project can/will collapse and deform (by default) unless properly configured and continually and actively maintained and repaired. There is no static definition/perception/understanding equilibrium: Staying connected to reality requires constant fitness training and upkeep. 
+6.  The perception/understanding that each participant's set of the shared definitions of the goals-and-structure-of-a-project can/will collapse and deform (by default) unless properly configured and continually and actively maintained and repaired. There is no static definition/perception/understanding equilibrium: Staying connected to reality requires constant fitness training and upkeep. 
 
 Note: This "low-bar enlightenment" approach is ('democratically') broadly accessible to participants requiring minutes to learn rather than myriad lifetimes, does not require all-around perfection of person-ness, without context or requiring somehow all contexts, is not a reification that combines other abilities and insights to explain and solve all the problems in all universes, nor does it include or require all possible types of consciousness, cognition, intelligence, etc.; "Low-bar enlightenment" is one humble step toward navigating the problem-space of problems and systems. 
 
-Note: If relating to empathy-compassion at all, "low-bar enlightenment" does not simply 'solve' or reduce-away the entire topic of empathy-compassion (including how empathy-compassion relates to STEM and interconnected areas). There may be a limited way to generalize an understanding of perception-maintenance needs to other participants that is consistent with empathy-compassion. Extending an understanding of low bar enlightenment from just your own situation to all participants and all other parts (e.g. definitions) of a project is, if not sufficient for empathy-and-compassion in a broader or deeper sense, a consistent and concrete step to take (towards  empathy-and-compassion).
+Note: There may be a limited way to generalize an understanding of perception-maintenance needs to other participants that is consistent with empathy-compassion. Extending an understanding of low bar enlightenment from just your own situation to all participants and all other parts (e.g. definitions) of a project (including the effects and spread of system failure between parts and participants) is, if not sufficient for empathy-and-compassion in a broader or deeper sense, a consistent and concrete step to take towards acting with empathy-and-compassion, including and understand of how empathy-compassion relates to STEM and interconnected areas.
 
 Note: 'reality' (the meaning of the term used here) is not a single, simple, uniform, static, homogeneous, thing made of only one type of system, or assumed to fit into any single framework. 
 
@@ -82,9 +83,9 @@ Intersecting-Interlocking-Interconnecting-Areas include:
 
 We can use system-fitness-health-status-indicators.
 We can use system-defense to prevent collapse.
-We can design systems to protect against system collapse.
+We can design systems to protect against system collapse. (system membranes)
 We can use models of generalized system & definition collapse behaviors including a default drift away from reality, attraction to system collapse, and weathering of definitions,etc.
-We can model the relationship between system simplicity (e.g. homogeneity) and system collapse.
+We can model the relationship between system simplicity (e.g. homogeneity) and system collapse. ('Simple has a shape.')
 We can use categories of types of systems.
 We can distinguish between and use types of generalization. 
 We can use nonautomatic learning.
@@ -314,7 +315,7 @@ Four Sections:
 1. Value Statements Section
 
 The Target is ______ . (e.g. Homo sapiens and Earth)
-Hello, my name is ___ I was born in ___, my current residence is _____.
+Hello, my name is ___ I was born in ___, my current project location is _____.
 
 This should be generalizable and specifically applicable given an array of 5x5 items:
 
@@ -348,7 +349,7 @@ A:
 - You have local factors. 
 - Other people have different local factors.
 - You need policies to cover all these areas.
-(e.g. The classic example of two cities communicating and coordinating about "natural disasters" (flood, storm, quake, etc.) relief and disturbance regimes.)
+(e.g. The classic example of two cities communicating and coordinating about "natural disasters" (flood, storm, quake, etc.) relief and disturbance regimes.) [e.g. two distant sister-cities]
 
 
 2. Love, Act Responsibly Towards, Fulfill Duties Towards
@@ -356,7 +357,7 @@ including a framework borrowed from biology containing "comensal",
 including:
 1. Energy, 
 2. Nutrients, 
-3. Shannon/TuringInformation, 
+3. Shannon/Turing Information, 
 4. Definition behaviors
 
 Q: Why are we talking about ethics (love duty and responsibility)? 
@@ -392,9 +393,9 @@ Participation Array, 5x5 items:
 5. Standard Set of Agreed Upon Goals, Means, Methods Areas
 
 [5x5 array]
-Four Areas of Interaction:
+Four Areas of Interaction: (e.g. four comparison criteria for each cell in 5x5 array)
 1. (Participant Diversity) Love, Duty, Responsibility Including Boundary Dissolution Areas, 
-connection disconnection and ambiguity in the following areas:
+Connection disconnection and ambiguity in the following areas:
 1.1 time space location
 1.2 perception
 1.3 action
@@ -587,7 +588,7 @@ of general system management areas.
 - helping
 - dutiy
 - collaboration
-- maybe values
+(maybe) - values
 
 
 4.2 Array:
@@ -643,6 +644,14 @@ gratitude;
 I will work harder.
 +
 5.2 Vitruvian Range of Motion fitness activities, PT, SLP, प्रज्ञापारमिताहृदय 般若心経, etc.
+
+
+Notes:
+- contraction of range of motion
+- collapse behavior of definitions
+- collapse of feedback
+- potemkin village and obstructive structures
+- generalized-context (rediculous or useful?)
 
 
 - On 'forced action':
