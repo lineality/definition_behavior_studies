@@ -8,32 +8,37 @@ What is the agenda?
 What are the goals and modus operandi? 
 What is the goals-means-method statement? (in a project-context, with project-participants)
 
-Goals (Agenda): "We-can" statements:
+Goals (Agenda): goals-means-method statement / "we-can" statements:
 We can succeed. 
 We can make things work. 
 We can understand what is wrong.
 We can fix what is broken. 
 We can use non-automatically learned skills.
 
+We can use STEM to connect signals and reality.
+We can connect STEM, project-management, and ethics.
+We can use intersecting-interlocking-interconnecting areas.
+We can communicate, learn, and solve problems.
+We can manage types and terms for generalization.
+We can use ~'low-bar Enlightenment'.
+We can communicate to complete projects.
+We can make progress.
+
 We can generalize STEM.
 We can generalize participation.
 We can generalize projects (project-context).
 We can generalize decision-coordination (voting etc).
 We can generalize indirectly defined Value-Function-&-Meaning (non-collapse).
-? We can generalize object-relationship-spaces. 
-(generalize Categories of types of systems?)
+We can generalize object-relationship-spaces. 
+We can generalize Categories of types of systems.
 We can generalize system fitness and system epidemiology.
-? We can generalize data-hygiene.
+We can generalize data-hygiene.
 We can generalize system collapse.
-We can generalize system defense and system health.
+We can generalize system defense, system health, system-information-epidemiology.
 We can generalize disinformation vs. definition-clarification.
-(We can manage types and terms for generalization.)
 
-We can use STEM to connect signals and reality.
-We can connect STEM, project-management, and ethics.
-We can use intersecting-interlocking-interconnecting areas.
-We can communicate, learn, and solve problems.
-We can make progress.
+
+
 
 
 
@@ -44,24 +49,24 @@ We can make progress.
 We Can Use "Low-Bar Enlightenment":
 	(Summary)
 We can use the idea of 'potentially endless cycles of ~"rebirth" due to ~"ignorance" ' as a metaphor/analogy for repeated project-failures, where a lack of perception of the causes of those project-failures is involved in self-perpetuating feedback cycles leading to more such failures (with invisible or misunderstood causes).
-We can learn to perceive invisible causes of ((definable, measurable, testable, falsifiable) project, system, definition) failure and collapse that can be the default states/equilibria that systems move towards.
+We can learn to perceive invisible causes of failure and collapse ((definable, measurable, testable, falsifiable) project, system, definition failure and collapse), where this project, system, definition failure and collapse can be the default states/equilibria that systems move towards.
 
 Low-Bar Enlightenment:
-1. The perception/understanding that repeating cycles of failed actions and projects can result from errors in perception and planning (a proverbial 'wheel of samsara') without inevitable-automatic-learning arising from raw feedback from that failure (where learning does not automatically result from mistakes or overall-system-shocks etc.).
+1. The perception/understanding that repeating cycles of failed actions and projects can result from errors in perception and planning (a proverbial 'wheel of samsara') without inevitable-automatic-learning arising from raw feedback from that failure (where learning does not automatically result from experiencing mistakes or overall-system-shocks etc.).
 [Possibly related to ~'cultural'-learning as an additional layer: 
   Q: How are internally-invisible skills/abilities/patterns learned? A: externally?]
 2. The perception/understanding that perception/understanding can be fooled in principle and in practice.
-3. The perception/understanding that learning from failures does not happen automatically, and can indefinitely not-happen.
-? #. The perception/understanding that non-automatic-learning and invisible-problems are not solved by 'system shocks,' the use of violence,  or arbitrary low level (basal) system changes (also see basal-distal disjunctions).
+3. The perception/understanding that learning-from-failures does not happen automatically, and can indefinitely not-happen.
+? #. The perception/understanding that non-automatic-learning and invisible-problems are not solved by 'system shocks,' the use of violence, or arbitrary low level (basal) system changes (also see basal-distal disjunctions).
 4. The perception/understanding that models of causality can be wrong in principle and in practice.
 5. The perception/understanding that plans/goals can be incorrectly defined (so that plans are not followed or follow-able as defined, and goals are not achieved or achievable as defined).
-6.  The perception/understanding that each participant's set of the shared definitions of the goals-and-structure-of-a-project can/will collapse and deform (by default) unless properly configured and continually and actively maintained and repaired. There is no static definition/perception/understanding equilibrium: Staying connected to reality requires constant fitness training and upkeep. 
+6.  The perception/understanding that each participant's set of the shared definitions of the goals-and-structure-of-a-project can/will collapse and deform (by default) unless properly configured and continually and actively maintained and repaired. There is no static definition/perception/understanding equilibrium: Staying connected to reality requires constant fitness training and upkeep. (Q, biology vs. general?)
 
 Note: This "low-bar enlightenment" approach is ('democratically') broadly accessible to participants requiring minutes to learn rather than myriad lifetimes, does not require all-around perfection of person-ness, without context or requiring somehow all contexts, is not a reification that combines other abilities and insights to explain and solve all the problems in all universes, nor does it include or require all possible types of consciousness, cognition, intelligence, etc.; "Low-bar enlightenment" is one humble step toward navigating the problem-space of problems and systems. 
 
-Note: There may be a limited way to generalize an understanding of perception-maintenance needs to other participants that is consistent with empathy-compassion. Extending an understanding of low bar enlightenment from just your own situation to all participants and all other parts (e.g. definitions) of a project (including the effects and spread of system failure between parts and participants) is, if not sufficient for empathy-and-compassion in a broader or deeper sense, a consistent and concrete step to take towards acting with empathy-and-compassion, including and understand of how empathy-compassion relates to STEM and interconnected areas.
+Note: There may be a limited way to generalize an understanding of perception-maintenance needs ( /  low bar enlightenment ) to other participants that is consistent with empathy-compassion. Extending an understanding of low bar enlightenment from just your own situation to all participants and all other parts (e.g. definitions) of a project (including the effects and spread of system failure between parts and between participants) is, if not sufficient for empathy-and-compassion in a broader or deeper sense, a consistent and concrete step to take towards acting with empathy-and-compassion, including an understanding of how empathy-compassion relates to STEM and interconnected areas.
 
-Note: 'reality' (the meaning of the term used here) is not a single, simple, uniform, static, homogeneous, thing made of only one type of system, or assumed to fit into any single framework. 
+Note: 'reality' (the meaning of the term used here) is not a single, simple, uniform, static, homogeneous, thing made of only one type of system assumed to fit into a single framework. 
 
 
 We can use Intersecting-Interlocking-Interconnecting-Areas:
@@ -88,7 +93,7 @@ We can use models of generalized system & definition collapse behaviors includin
 We can model the relationship between system simplicity (e.g. homogeneity) and system collapse. ('Simple has a shape.')
 We can use categories of types of systems.
 We can distinguish between and use types of generalization. 
-We can use nonautomatic learning.
+We can use non-automatic learning.
 We can find and fix errors in perception.
 We can organize projects.
 We can distinguish short term vs. long term.
@@ -96,14 +101,14 @@ We can assign roles.
 We can test, check, and  verify.
 We can have policies on errors-and-mistakes.
 
-We can improve and cultivate perception by perceiving perception (including: indirectly perceiving perception).
+We can improve and cultivate perception by observing perception (including: indirectly observing perception).
 We can observe the effects of abstraction (effects of observation and definition).
 We can operationally define 'policy' as algorithms for non-collapse based on dynamics of system and definition collapse. (plus context?)
 We can better understand the relationship between disinformation and system collapse.
 We can audit.
 We can publish.
 We can act with ethics, empathy and compassion.
-We can maintain extended ranges (e.g. [vitruvian] range of motion). (e.g. vs. contraction and collapse) (~vague context for nickname en.wikipedia.org/wiki/Vitruvian_Man)
+We can maintain extended ranges (e.g. [vitruvian] range of motion). (e.g. vs. contraction and collapse) (~nickname context for nickname en.wikipedia.org/wiki/Vitruvian_Man)
 We can follow best practice.
 
 We can communicate and coordinate in these areas and ways: 
@@ -139,7 +144,7 @@ We can make and use mandates.
 We can make and use strategies.
 We can make and use tactics.
 We can make and use modular recombinant frameworks.
-We can make and use feedback, tests & evaluations / assessment in various forms at various process stages (pre, formative, summative, etc).
+We can make and use feedback, tests & evaluations / assessment in various forms at various process stages (pre, formative, summative, post, 'aftermarket,' longitudinal, etc).
 We can make and use clear functional and operational definitions that keep their meaning over time.
 
 We can complete /  succeed-in / finish / progress-through projects.
@@ -150,7 +155,7 @@ We can make progress by using information about the behavior of definitions: Thi
 
 Instrumentalist Modules + Principles
 These can-do statements can be seen as instrumentalist modular recombinant tool set areas.
-We can combine (narrative summaries of) principles and applications with (e.g. these) instrumentalist modular tool set areas.
+We can combine (narrative summaries of) principles and applications with instrumentalist modular tool set areas.
 
 
 Narratives, Principles and Applications:
@@ -315,9 +320,9 @@ Four Sections:
 1. Value Statements Section
 
 The Target is ______ . (e.g. Homo sapiens and Earth)
-Hello, my name is ___ I was born in ___, my current project location is _____.
+Hello, my name is ___, my current project location is _____.
 
-This should be generalizable and specifically applicable given an array of 5x5 items:
+This project/framework should be generalizable and specifically applicable given an array of 5x5 items:
 
 (Note: 1. Value Statements Section, operational definition of 'help')
 
@@ -360,10 +365,12 @@ including:
 3. Shannon/Turing Information, 
 4. Definition behaviors
 
-Q: Why are we talking about ethics (love duty and responsibility)? 
-A: There is an epidemic of anti-best practice, action, and rhetoric, there should be:
+Q: Why are we talking about ethics (love, duty, and responsibility)? 
+A: There is an epidemic of anti-best practice action and rhetoric. There should be:
 1. a system medicine research area;
 2. a system epidemiology task-force.
+
+
 
 
 3. Reception And Reflection:
@@ -564,6 +571,8 @@ _________ show (no) signs of having a concept of system fitness.
 _________ show (no) signs of having a concept of value, function, and meaning.
 etc
 
+
+
 _________ shows (no) signs of having a concept of cross-contextual system models and tools
 _________ shows (no) signs of having empirical behavioral use of cross-contextual system models and tools.
 
@@ -656,3 +665,4 @@ Notes:
 
 - On 'forced action':
 Montesques's 'violence' use of 'force' is not the same as 'effort' and a more physics-stem meaning of 'force.'
+- 'Survival of mind'
