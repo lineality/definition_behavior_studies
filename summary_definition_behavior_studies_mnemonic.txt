@@ -19,7 +19,7 @@ We can use STEM to connect signals and reality.
 We can connect STEM, project-management, and ethics.
 We can use intersecting-interlocking-interconnecting areas.
 We can communicate, learn, and solve problems.
-We can manage types and terms for generalization.
+We can manage types of, and terms for,  generalization.
 We can use ~'low-bar Enlightenment'.
 We can communicate to complete projects.
 We can make progress.
@@ -30,8 +30,8 @@ We can generalize projects (project-context).
 We can generalize decision-coordination (voting etc).
 We can generalize indirectly defined Value-Function-&-Meaning (non-collapse).
 We can generalize object-relationship-spaces. 
-We can generalize Categories of types of systems.
-We can generalize system fitness and system epidemiology.
+We can generalize categories of types of systems.
+We can generalize system-fitness and system-epidemiology.
 We can generalize data-hygiene.
 We can generalize system collapse.
 We can generalize system defense, system health, system-information-epidemiology.
@@ -48,7 +48,7 @@ We can generalize disinformation vs. definition-clarification.
 
 We Can Use "Low-Bar Enlightenment":
 	(Summary)
-We can use the idea of 'potentially endless cycles of ~"rebirth" due to ~"ignorance" ' as a metaphor/analogy for repeated project-failures, where a lack of perception of the causes of those project-failures is involved in self-perpetuating feedback cycles leading to more such failures (with invisible or misunderstood causes).
+We can use the idea of 'being trapped in potentially endless cycles of ~"rebirth" due to ~"ignorance" ' as a metaphor/analogy for repeated project-failures, where a lack of perception of the causes of those project-failures is involved in self-perpetuating feedback cycles leading to more such failures (with invisible or misunderstood causes).
 We can learn to perceive invisible causes of failure and collapse ((definable, measurable, testable, falsifiable) project, system, definition failure and collapse), where this project, system, definition failure and collapse can be the default states/equilibria that systems move towards.
 
 Low-Bar Enlightenment:
@@ -64,9 +64,11 @@ Low-Bar Enlightenment:
 
 Note: This "low-bar enlightenment" approach is ('democratically') broadly accessible to participants requiring minutes to learn rather than myriad lifetimes, does not require all-around perfection of person-ness, without context or requiring somehow all contexts, is not a reification that combines other abilities and insights to explain and solve all the problems in all universes, nor does it include or require all possible types of consciousness, cognition, intelligence, etc.; "Low-bar enlightenment" is one humble step toward navigating the problem-space of problems and systems. 
 
-Note: There may be a limited way to generalize an understanding of perception-maintenance needs ( /  low bar enlightenment ) to other participants that is consistent with empathy-compassion. Extending an understanding of low bar enlightenment from just your own situation to all participants and all other parts (e.g. definitions) of a project (including the effects and spread of system failure between parts and between participants) is, if not sufficient for empathy-and-compassion in a broader or deeper sense, a consistent and concrete step to take towards acting with empathy-and-compassion, including an understanding of how empathy-compassion relates to STEM and interconnected areas.
+Note: There may be a limited way to generalize an understanding of perception-maintenance needs ( 'low bar enlightenment' ) to other participants in a way that is consistent with empathy-compassion. Extending an understanding of low bar enlightenment from just your own situation to being something that applies in a larger space to all participants and all other parts (e.g. definitions) of a project (including the effects and spread of system-failure between parts and between participants) is, if not sufficient for empathy-and-compassion in a broader or deeper sense, a consistent and concrete step to take towards acting with empathy-and-compassion, including an understanding of how empathy-compassion relates to STEM and interconnected areas.
 
 Note: 'reality' (the meaning of the term used here) is not a single, simple, uniform, static, homogeneous, thing made of only one type of system assumed to fit into a single framework. 
+
+Note: This may contradict the glib definition of anything information related as being tautologically anti-entropic. 
 
 
 We can use Intersecting-Interlocking-Interconnecting-Areas:
@@ -120,11 +122,12 @@ We can communicate across succession gaps.
 We can communicate across languages.
 We can communicate across types of participants.(ai,et)
 We can communicate across roles.
-We can communicate across projects, and parts and phrases of projects (schedules).
+We can communicate across projects, and parts and phases of projects (schedules).
 We can communicate across groups/teams.
 We can communicate across media of communication.
-We can communicate across Input-Output Measures..
+We can communicate across Input-Output Measures.
 We can communicate using tools in a project-context for coordination and decision making.(votes in elections/polls/surveys/questionnaires)
+
 
 We can understand a spectrum of disinformation and clarification-of-information.
 We can implement sustainable solutions.
@@ -132,6 +135,7 @@ We can prevent future problems.
 We can reverse damage from past problems.
 We can learn from the past.
 We can collect data.
+We can ratchet forward (towards project completion) using methods that work.
 
 
 we can make/generate/cultivate and use/utilize:
@@ -151,10 +155,10 @@ We can complete /  succeed-in / finish / progress-through projects.
 We can meet / deliver the needs of the target /user.
 We can make progress.
 
-We can make progress by using information about the behavior of definitions: This is System and Definition Behavior Studies, the field of study pertaining to the behavior of definitions. 
+We can make progress by using information about the behavior of definitions: This topic is System and Definition Behavior Studies, the field of study pertaining to the behavior of definitions. 
 
-Instrumentalist Modules + Principles
-These can-do statements can be seen as instrumentalist modular recombinant tool set areas.
+Instrumentalist Modules + Principles, Applications, Narratives
+These can-do statements (the goals and agenda for definition behavior studies) can be seen as instrumentalist modular recombinant tool-set areas.
 We can combine (narrative summaries of) principles and applications with instrumentalist modular tool set areas.
 
 
@@ -315,6 +319,7 @@ Four Sections:
 2.  Clarification Statements (for contracts)
 3.  Standard Error and Damage Report (in four subsections)
 4.  Macro-Model
+
 
 
 1. Value Statements Section
