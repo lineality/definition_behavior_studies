@@ -19,7 +19,7 @@ We can use STEM to connect signals and reality.
 We can connect STEM, project-management, and ethics.
 We can use intersecting-interlocking-interconnecting areas.
 We can communicate, learn, and solve problems.
-We can manage types of, and terms for,  generalization.
+We can manage types of, and terms for, generalization.
 We can use ~'low-bar Enlightenment'.
 We can communicate to complete projects.
 We can make progress.
@@ -48,27 +48,26 @@ We can generalize disinformation vs. definition-clarification.
 
 We Can Use "Low-Bar Enlightenment":
 	(Summary)
-We can use the idea of 'being trapped in potentially endless cycles of ~"rebirth" due to ~"ignorance" ' as a metaphor/analogy for repeated project-failures, where a lack of perception of the causes of those project-failures is involved in self-perpetuating feedback cycles leading to more such failures (with invisible or misunderstood causes).
-We can learn to perceive invisible causes of failure and collapse ((definable, measurable, testable, falsifiable) project, system, definition failure and collapse), where this project, system, definition failure and collapse can be the default states/equilibria that systems move towards.
+We can use the idea of 'being trapped in potentially endless cycles of ~"rebirth" due to ~"ignorance" ' as a metaphor/analogy for repeated project-failures, where a lack of perception / understanding of the causes of project-failures is involved in self-perpetuating feedback cycles leading to such failures (with invisible or misunderstood causes).
+We can learn to perceive invisible causes of failure and collapse ((definable, measurable, testable, falsifiable) project, system, definition failure and collapse), where this failure and collapse can be the default states/equilibria that systems move towards.
 
 Low-Bar Enlightenment:
 1. The perception/understanding that repeating cycles of failed actions and projects can result from errors in perception and planning (a proverbial 'wheel of samsara') without inevitable-automatic-learning arising from raw feedback from that failure (where learning does not automatically result from experiencing mistakes or overall-system-shocks etc.).
-[Possibly related to ~'cultural'-learning as an additional layer: 
-  Q: How are internally-invisible skills/abilities/patterns learned? A: externally?]
+[Possibly related to ~'cultural'-learning as an additional layer:  Q: How are internally-invisible skills/abilities/patterns learned? A: externally?]
 2. The perception/understanding that perception/understanding can be fooled in principle and in practice.
 3. The perception/understanding that learning-from-failures does not happen automatically, and can indefinitely not-happen.
 ? #. The perception/understanding that non-automatic-learning and invisible-problems are not solved by 'system shocks,' the use of violence, or arbitrary low level (basal) system changes (also see basal-distal disjunctions).
 4. The perception/understanding that models of causality can be wrong in principle and in practice.
 5. The perception/understanding that plans/goals can be incorrectly defined (so that plans are not followed or follow-able as defined, and goals are not achieved or achievable as defined).
-6.  The perception/understanding that each participant's set of the shared definitions of the goals-and-structure-of-a-project can/will collapse and deform (by default) unless properly configured and continually and actively maintained and repaired. There is no static definition/perception/understanding equilibrium: Staying connected to reality requires constant fitness training and upkeep. (Q, biology vs. general?)
+6.  The perception/understanding that each participant's set of the shared definitions of the goals-and-structure-of-a-project can/will collapse and deform (by default) unless properly configured and continually and actively maintained and repaired. There is no static definition/perception/understanding equilibrium: Staying connected to reality requires constant fitness-training and upkeep. (Q, biology[intelligence] vs. general[etc]?)
 
 Note: This "low-bar enlightenment" approach is ('democratically') broadly accessible to participants requiring minutes to learn rather than myriad lifetimes, does not require all-around perfection of person-ness, without context or requiring somehow all contexts, is not a reification that combines other abilities and insights to explain and solve all the problems in all universes, nor does it include or require all possible types of consciousness, cognition, intelligence, etc.; "Low-bar enlightenment" is one humble step toward navigating the problem-space of problems and systems. 
 
 Note: There may be a limited way to generalize an understanding of perception-maintenance needs ( 'low bar enlightenment' ) to other participants in a way that is consistent with empathy-compassion. Extending an understanding of low bar enlightenment from just your own situation to being something that applies in a larger space to all participants and all other parts (e.g. definitions) of a project (including the effects and spread of system-failure between parts and between participants) is, if not sufficient for empathy-and-compassion in a broader or deeper sense, a consistent and concrete step to take towards acting with empathy-and-compassion, including an understanding of how empathy-compassion relates to STEM and interconnected areas.
 
-Note: 'reality' (the meaning of the term used here) is not a single, simple, uniform, static, homogeneous, thing made of only one type of system assumed to fit into a single framework. 
+Note: 'reality' (the meaning used here) is not a single, simple, uniform, static, homogeneous, thing made of only one type of system assumed to fit into a single framework. 
 
-Note: This may contradict the glib definition of anything information related as being tautologically anti-entropic. 
+Note: This may contradict the glib definition of anything information-related as being tautologically anti-entropic. 
 
 
 We can use Intersecting-Interlocking-Interconnecting-Areas:
@@ -84,13 +83,13 @@ Intersecting-Interlocking-Interconnecting-Areas include:
 	- Generalized Ethics, Duty & Responsibility
 - Generalized Definition-Clarification vs. Disinformation-Violence
 - Generalized Definition Behaviors
-- Generalized System-Productivity (including long term)
+- Generalized System-Productivity (including long-term)
 ? - Generalized indirectly-defined local value-function-and-meaning
-
+	(context and setting-location-items?)
 
 We can use system-fitness-health-status-indicators.
 We can use system-defense to prevent collapse.
-We can design systems to protect against system collapse. (system membranes)
+We can design systems to protect against system collapse. (e.g. system membranes)
 We can use models of generalized system & definition collapse behaviors including a default drift away from reality, attraction to system collapse, and weathering of definitions,etc.
 We can model the relationship between system simplicity (e.g. homogeneity) and system collapse. ('Simple has a shape.')
 We can use categories of types of systems.
@@ -120,7 +119,7 @@ We can communicate across cultures.
 We can communicate across generation-gaps.
 We can communicate across succession gaps.
 We can communicate across languages.
-We can communicate across types of participants.(ai,et)
+We can communicate across types of participants.(AI/bio + pre-participant to post-participant)
 We can communicate across roles.
 We can communicate across projects, and parts and phases of projects (schedules).
 We can communicate across groups/teams.
@@ -179,16 +178,14 @@ Here is an example of a concrete narrative:
 An ambassador travels to earth from the galaxy of Andromeda: 
 And says:
 "Hello, I am an Ambassador.
-And I have traveled to earth from the Galaxy of andromeda.
+And I have traveled to earth from the galaxy of Andromeda.
 In the galaxy of Andromeda we have a large-scale (intergalactic) diverse (multi-species) highly productive community.
 We would like to know if you, homo sapiens and earth, would like to join
 our large-scale (intergalactic), diverse (multi species), highly productive community.
 Here is an application form.
 Please fill it out and tell us what you could bring of value 
 to our large-scale (intergalactic), diverse (multi species), highly productive community.
-One more thing:
-Tell us what you know about
-moving water bottles.
+One more thing: Tell us what you know about moving water bottles.
 Moving water bottles from one place to another is not a rare and valuable skill.
 Moving water bottles is a general universal process.
 We would like to know if you have competence with general universal processes.
@@ -261,7 +258,7 @@ Regarding Scout Values:
 2. Rejected because it is a universal system of ethics.
 3. Not definable outside of a context.
 4. Definable in a project-context (project management framework context).
-(So far as I can tell: 
+(So far as I can tell, for the above four items regarding scout values: 
 All of these are generally accurate. and: 
 All of these are not recognized as being accurate.)
 
@@ -359,7 +356,7 @@ A:
 - You have local factors. 
 - Other people have different local factors.
 - You need policies to cover all these areas.
-(e.g. The classic example of two cities communicating and coordinating about "natural disasters" (flood, storm, quake, etc.) relief and disturbance regimes.) [e.g. two distant sister-cities]
+(e.g. The classic example of two sister-cities communicating and coordinating about "natural disasters" (flood, storm, quake, etc.) relief and disturbance regimes.) [e.g. two internationally distant sister-cities]
 
 
 2. Love, Act Responsibly Towards, Fulfill Duties Towards
@@ -506,16 +503,20 @@ is bad, is wrong, it causes system collapse, it should not be done, and I will n
 Identifying system collapse as a goal, not indirectly as in dark lighthouse but directly as in exacerbating system collapse, as part of (in any area of) the standard set of agreed upon goal means method areas, is bad, is wrong, it causes system collapse, it should not be done, and I will not do it.
 2.2.1  Following worst possible options
 	is bad, is wrong, it causes system collapse, it should not be done, and I will not do it.
-2.2.2  Playing nazi chess
+
+2.2.2  Playing nazi-chess
 	is bad, is wrong, it causes system collapse, it should not be done, and I will not do it.
+
 2.2.3  Mismanaging categories of types of systems
 	is bad, is wrong, it causes system collapse, it should not be done, and I will not do it.
-2.2.4  Mismanaging cross-contextAreas:
+
+2.2.4  Mismanaging Cross-Context-Areas:
 	e.g.
 	- exponential elbows
 	- perception abstraction
 	- indeterminate incompetence and malice
 	is bad, is wrong, it causes system collapse, it should not be done, and I will not do it.
+
 2.2.5 Mismanaging Standard System Policy Areas:
 	is bad, is wrong, it causes system collapse, it should not be done, and I will not do it.
 For example:  
