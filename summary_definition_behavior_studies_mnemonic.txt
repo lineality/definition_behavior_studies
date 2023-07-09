@@ -3,7 +3,7 @@ Summary of Definition Behavior Studies Mnemonic
 
 Definition Behavior Studies: This is an interdisciplinary area of study, part Computer Science, statistical process analysis, hypothesis testing, Data Science, religious studies, ethics and mindfulness, AI. Definition Studies (or system and definition behavior studies) is the field of study relating to the behavior of definitions (in particular, collapse behaviors in a context of general system collapse). 
 
-This is an inquiry based approach (learn by asking questions; ask the difficult questions): 
+This is an inquiry based approach; learn by asking questions; ask the difficult questions: 
 What is the agenda?
 What are the goals and modus operandi? 
 What is the goals-means-method statement? (in a project-context, with project-participants)
@@ -22,7 +22,7 @@ We can communicate, learn, and solve problems.
 We can manage types of, and terms for, generalization.
 We can use ~'low-bar enlightenment'.
 We can extend or maintain, not only contract.
-We can communicate to complete projects.
+We can complete projects.
 We can make progress.
 
 We can generalize: we can distinguish between, and use, types of generalization: 
@@ -45,7 +45,7 @@ We can generalize disinformation vs. definition-clarification.
 We Can Use "Low-Bar Enlightenment":
 	(Summary)
 We can use the idea of 'being trapped in potentially endless cycles of ~"rebirth" due to ~"ignorance" ' as a metaphor/analogy for repeated project-failures, where a lack of perception / understanding of the causes of project-failures is involved in self-perpetuating feedback cycles leading to such repeating failures (with invisible or misunderstood causes): being endlessly 'reborn' into mis-manged projects that unnecessarily fail in the same correctable, but uncorrected, ways over and over again ad-infinitum.
-We can learn to perceive invisible (or previously unperceived and not-automatically-perceived) causes of failure and collapse ((definable, measurable, testable, falsifiable) project, system, definition failure and collapse), where this failure and collapse can be the default states/equilibria that systems move and iterate towards.
+We can learn to perceive invisible (or previously unperceived and not-automatically-perceived) causes of failure and collapse ((definable, measurable, testable, falsifiable) project, system, definition failure and collapse), where this failure and collapse (this system-state of failure-collapse) can be the default states/equilibria that systems move and iterate towards.
 We can stop these cycles of failure by using  information and perception.
 
 Low-Bar Enlightenment:
@@ -56,15 +56,15 @@ Low-Bar Enlightenment:
 ? #. The perception/understanding that non-automatic-learning and invisible-problems are not solved by 'system shocks,' the use of violence, or arbitrary low level (basal) system changes (also see basal-distal disjunctions).
 4. The perception/understanding that models of causality can be wrong in principle and in practice.
 5. The perception/understanding that plans/goals can be incorrectly defined (so that plans are not followed or follow-able as defined, and goals are not achieved or achievable as defined).
-6.  The perception/understanding that each participant's set of the shared definitions of the goals-and-structure-of-a-project can/will collapse and deform (by default) unless properly configured and continually and actively maintained and repaired. There is no static definition/perception/understanding equilibrium: Staying connected to reality requires constant fitness-training and upkeep. (Q, biology[intelligence] vs. general[ai, etc]?)
+6.  The perception/understanding that each participant's set of the shared definitions of the goals-and-structure-of-a-project can/will collapse and deform (by default) unless properly configured and continually and actively maintained and repaired. There is no static definition/perception/understanding equilibrium: Staying connected to reality requires constant fitness-training and upkeep. (Q: specific biology[intelligence] vs. general[ai, etc]?)
 
-Note: This "low-bar enlightenment" approach is ('democratically') broadly accessible to participants requiring minutes to learn rather than myriad lifetimes, does not require all-around perfection of person-ness, without context or requiring somehow all contexts, is not a reification that combines other abilities and insights to explain and solve all the problems in all universes, nor does it include or require all possible types of consciousness, cognition, intelligence, etc.; "Low-bar enlightenment" is one humble step toward navigating the problem-space of problems and systems. 
+Note: This "low-bar enlightenment" approach is ('democratically') broadly accessible to participants requiring minutes to learn rather than myriad lifetimes, does not require all-around perfection of person-ness, without context or requiring somehow all contexts, is not a reification that combines other abilities and insights to explain and solve all problems in all universes, nor does it include or require all possible types of consciousness, cognition, intelligence, etc.; "Low-bar enlightenment" is one humble step toward navigating the problem-space of problems and systems. 
 
-Note: There may be a limited way to generalize an understanding of perception-maintenance needs ( 'low bar enlightenment' ) to other participants in a way that is consistent with empathy-compassion. Extending an understanding of low bar enlightenment from just your own situation (perceptions, roles, projects, etc.) to being something that applies in a larger space (in which one participates, or not, with other participants) to all participants and all other parts (e.g. definitions, perceptions, etc.) of any projects (including the effects and spread of system-failure between parts and between participants, between projects, etc.) is, if not sufficient for empathy-and-compassion in a broader or deeper sense, a consistent and concrete step to take towards acting with empathy-and-compassion, including an understanding of how empathy-compassion relates to STEM and interconnected areas.
+Note: There may be a limited way to generalize an understanding of perception-maintenance needs ( 'low bar enlightenment' ) to other participants in a way that is consistent with empathy-compassion. Extending an understanding of low bar enlightenment from just your own situation (perceptions, roles, projects, etc.) to being something that applies in a larger space (in which one participates, or not, with other participants) to all participants and all other parts (e.g. definitions, perceptions, etc.) of any projects (including the effects and spread of system-failure between parts and between participants, between projects, etc.) is, if not sufficient for empathy-and-compassion in a broader or deeper sense, a consistent and concrete step to take towards acting with (action, behavior with) empathy-and-compassion, including an understanding of how empathy-compassion relates to STEM and interconnected areas.
 
 Note: 'Reality' (the meaning used here) is not a single, simple, uniform, static, homogeneous, thing made of only one type of system assumed to fit into a single framework. (not naive realist positivist) 
 
-Note: Low-bar enlightenment and or definition behavior studies may contradict the glib description or definition of anything information-related as being tautologically "anti-entropic." E.g. perhaps as a kind of higher-level-noise that ends up reducing all signals in the system to being the same predictable low-entropy noise. (...perhaps a bad analogy or extension of signal integrity measures)
+Note: Low-bar enlightenment and or definition behavior studies may contradict the glib description or definition of anything information-related as being tautologically "anti-entropic." E.g. perhaps as a kind of higher-level-noise that ends up reducing all signals in the system to being the same predictable low-entropy noise. (...or perhaps this is a bad analogy or extension of signal integrity measures) [You might use the same overall case study of telephone messages traveling from the east coast to the west coast without being altered, degraded, collapsed, noise-ified, lost, etc. Note, using a moving-water-bottles project example, the collapse of definitions need not refer to any fuzzy higher order cultural concepts, no need to wave arms about 'cultural meanings', even just low level metric and spec signal integrity can be the focus.]
 
 
 We can use Intersecting-Interlocking-Interconnecting-Areas:
@@ -84,13 +84,14 @@ Intersecting-Interlocking-Interconnecting-Areas include:
 - Generalized System-Productivity (including long-term)
 ? - Generalized indirectly-defined local value-function-and-meaning
 	(context and setting-location-items?)
+	(low-bar-enlightenment?)
 
 
 
 We can use system-fitness-health-status-indicators.
 We can use system-defense to prevent collapse.
 We can design systems to protect against system collapse. (e.g. system membranes)
-We can use models of generalized system & definition collapse behaviors including a default drift away from reality, attraction to system collapse, and weathering of definitions,etc.
+We can use models of generalized system & definition collapse behaviors including: modeling a default drift away from reality, attraction to system collapse, and weathering of definitions,etc.
 We can model the relationship between system simplicity (e.g. homogeneity) and system collapse. ('Simple has a shape.')
 We can use categories of types of systems.
 We can use non-automatic learning.
@@ -109,7 +110,7 @@ We can define indeterminate-incompetence-and-malice as part of system collapse.
 We can audit.
 We can publish.
 We can act with ethics, empathy and compassion.
-We can maintain extended ranges (e.g. [vitruvian] range of motion). (e.g. vs. contraction and collapse) (context for 'vitruvian' nickname: en.wikipedia.org/wiki/Vitruvian_Man)
+We can maintain extended ranges (e.g. [vitruvian] range of motion). (e.g. vs. contraction and collapse) (context for 'vitruvian' nickname here : en.wikipedia.org/wiki/Vitruvian_Man)
 We can follow best practice.
 
 We can communicate and coordinate in these areas and ways: 
@@ -363,7 +364,7 @@ A:
 - You have local factors. 
 - Other people have different local factors.
 - You need policies to cover all these areas.
-(e.g. The classic example of two sister-cities communicating and coordinating about "natural disasters" (flood, storm, quake, etc.) relief and disturbance regime modeling/policy/management.) [e.g. two internationally distant sister-cities]
+e.g. The classic example of two distant sister-cities communicating and coordinating about "natural disasters" (flood, storm, quake, etc.) relief and disturbance regimes (modeling/policy/management.) [e.g. two internationally distant sister-cities]
 
 
 2. Love, Act Responsibly Towards, Fulfill Duties Towards
@@ -409,8 +410,9 @@ Participation Array, 5x5 items:
 
 [5x5 array]
 Four Areas of Interaction: (e.g. four comparison criteria for each cell in 5x5 array)
+
 1. (Participant Diversity) Love, Duty, Responsibility Including Boundary Dissolution Areas, 
-Connection disconnection and ambiguity in the following areas:
+Connection, disconnection, and ambiguity, in the following areas:
 1.1 time space location
 1.2 perception
 1.3 action
@@ -541,6 +543,7 @@ For example:
 7. Half-dark dichotomies (more on that later)
 
 
+
 3. Standard Error and Damage Report in Four Sub-Sections
 
 _______  = target (population)
@@ -553,7 +556,7 @@ _______  = target (population)
 
 3.2 System Membranes
 3.2.1 _________ has (no) system membranes.
-The standard side-effects of not having system membranes include:
+The standard side-effects of not having system membranes include: (speculative)
 3.2.2.1 meat shielding
 3.2.2.2 junk clouding 
 3.2.2.3 growth racing
@@ -710,4 +713,6 @@ Montesques's 'violence' use of 'force' is not the same as 'effort' and a more ph
 To distinguish between:
 1. misperceiving mirages of value in noise and system collapse
 2. failing to perceive relatively novel value function and meaning (options, pathways, configurations, etc)
-3. 
+
+
+Are can-do statement 'value/values' statements of a sort?
