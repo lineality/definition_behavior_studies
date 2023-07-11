@@ -25,7 +25,7 @@ We can extend or maintain, not only contract.
 We can complete projects.
 We can make progress.
 
-We can generalize: we can distinguish between, and use, types of generalization: 
+We can generalize; We can distinguish between, and use, types of generalization. 
 We can generalize STEM.
 We can generalize participation.
 We can generalize projects (project-context).
@@ -44,9 +44,9 @@ We can generalize disinformation vs. definition-clarification.
 
 We Can Use "Low-Bar Enlightenment":
 	(Summary)
-We can use the idea of 'being trapped in potentially endless cycles of ~"rebirth" due to ~"ignorance" ' as a metaphor/analogy for repeated project-failures, where a lack of perception / understanding of the causes of project-failures is involved in self-perpetuating feedback cycles leading to such repeating failures (with invisible or misunderstood causes): being endlessly 'reborn' into mis-manged projects that unnecessarily fail in the same correctable, but uncorrected, ways over and over again ad-infinitum.
+We can use the idea of 'being trapped in potentially endless cycles of ~"rebirth" due to ~"ignorance" ' as a metaphor/analogy for repeated project-failures, where a lack of perception / understanding of the causes of project-failures is involved in self-perpetuating feedback cycles leading to such repeating failures (with invisible or misunderstood causes): being endlessly (proverbially) 'reborn' into mis-manged projects that unnecessarily fail in the same correctable, but uncorrected, ways over and over again ad-infinitum.
 We can learn to perceive invisible (or previously unperceived and not-automatically-perceived) causes of failure and collapse ((definable, measurable, testable, falsifiable) project, system, definition failure and collapse), where this failure and collapse (this system-state of failure-collapse) can be the default states/equilibria that systems move and iterate towards.
-We can stop these cycles of failure by using  information and perception.
+We can stop these cycles of failure by using information and perception.
 
 Low-Bar Enlightenment:
 1. The perception/understanding that repeating cycles of failed actions and projects can result from errors in perception and planning (a proverbial 'wheel of samsara') without inevitable-automatic-learning arising from raw feedback from that failure (where learning does not automatically result from experiencing mistakes or overall-system-shocks etc.).
@@ -56,7 +56,8 @@ Low-Bar Enlightenment:
 ? #. The perception/understanding that non-automatic-learning and invisible-problems are not solved by 'system shocks,' the use of violence, or arbitrary low level (basal) system changes (also see basal-distal disjunctions).
 4. The perception/understanding that models of causality can be wrong in principle and in practice.
 5. The perception/understanding that plans/goals can be incorrectly defined (so that plans are not followed or follow-able as defined, and goals are not achieved or achievable as defined).
-6.  The perception/understanding that each participant's set of the shared definitions of the goals-and-structure-of-a-project can/will collapse and deform (by default) unless properly configured and continually and actively maintained and repaired. There is no static definition/perception/understanding equilibrium: Staying connected to reality requires constant fitness-training and upkeep. (Q: specific biology[intelligence] vs. general[ai, etc]?)
+6.  The perception/understanding that each participant's set of the shared definitions of the goals-and-structure-of-a-project can/will collapse and deform (by default) unless properly configured and continually and actively maintained and repaired. There is no static definition/perception/understanding equilibrium: Staying connected to reality requires constant fitness-training and upkeep. 
+(Universality Question: specific biology[intelligence] vs. general[ai, etc]?)
 
 Note: This "low-bar enlightenment" approach is ('democratically') broadly accessible to participants requiring minutes to learn rather than myriad lifetimes, does not require all-around perfection of person-ness, without context or requiring somehow all contexts, is not a reification that combines other abilities and insights to explain and solve all problems in all universes, nor does it include or require all possible types of consciousness, cognition, intelligence, etc.; "Low-bar enlightenment" is one humble step toward navigating the problem-space of problems and systems. 
 
@@ -64,7 +65,7 @@ Note: There may be a limited way to generalize an understanding of perception-ma
 
 Note: 'Reality' (the meaning used here) is not a single, simple, uniform, static, homogeneous, thing made of only one type of system assumed to fit into a single framework. (not naive realist positivist) 
 
-Note: Low-bar enlightenment and or definition behavior studies may contradict the glib description or definition of anything information-related as being tautologically "anti-entropic." E.g. perhaps as a kind of higher-level-noise that ends up reducing all signals in the system to being the same predictable low-entropy noise. (...or perhaps this is a bad analogy or extension of signal integrity measures) [You might use the same overall case study of telephone messages traveling from the east coast to the west coast without being altered, degraded, collapsed, noise-ified, lost, etc. Note, using a moving-water-bottles project example, the collapse of definitions need not refer to any fuzzy higher order cultural concepts, no need to wave arms about 'cultural meanings', even just low level metric and spec signal integrity can be the focus.]
+Note: Low-bar enlightenment and or definition behavior studies may contradict the glib description or definition of anything information-related as being tautologically "anti-entropic." E.g. perhaps as a kind of higher-level-noise that ends up reducing all signals in the system to being the same predictable low-entropy noise. (...or perhaps this is a bad analogy or extension of signal integrity measures) [You might use the same overall case study of telephone messages traveling from the east coast to the west coast without being altered, degraded, collapsed, noise-ified, lost, etc. Note, using a moving-water-bottles-logistics project example, the collapse of definitions need not refer to any fuzzy higher order cultural concepts, no need to wave arms about 'moot cultural meanings', low level metric and spec signal integrity can be the focus.]
 
 
 We can use Intersecting-Interlocking-Interconnecting-Areas:
@@ -73,8 +74,8 @@ Intersecting-Interlocking-Interconnecting-Areas include:
 	- Context
 	- Generalized STEM
 	- Generalized Projects (project-context)
-	- Generalized Participation (+functional qualifications; 
-   +3 participation categories)
+	- Generalized Participation (+functional qualifications to participate; 
+   ~3 participation categories with pre & post)
       - Generalized Decision Coordination (voting etc).
 	- Generalized System Collapse
 	- Generalized Categories of Types of Systems
@@ -127,7 +128,7 @@ We can communicate across groups/teams.
 We can communicate across media of communication.
 We can communicate across Input-Output Measures.
 We can communicate using tools in a project-context for coordination 
- and decision making. (votes in elections/polls/surveys/questionnaires)
+ and decision making. (votes in elections/polls/surveys/questionnaires/planning-meetings)
 
 
 We can understand a spectrum of disinformation and clarification-of-information.
@@ -156,7 +157,7 @@ We can complete /  succeed-in / finish / progress-through projects.
 We can meet / deliver the needs of the target /user.
 We can make progress.
 
-We can make progress by using information about the behavior of definitions: This topic is System and Definition Behavior Studies, the field of study pertaining to the behavior of definitions. 
+We can make progress by using information about the behavior of definitions: This topic is System and Definition Behavior Studies, the field of study pertaining to the behavior of definitions. (These we-can goals statements may be a measurable proxy-defintion for 'progress.')
 
 
 
@@ -204,7 +205,9 @@ Water (as in the case example of moving water( containers)) is a gift that keeps
 
 [The location of the water at a given time is concrete but the processes challenge our assumptions and require better models and participant coordination.]
 
+
 (Timeline)
+(Timelines are a gift that keeps on giving.)
 Let's start with the moving-water-bottles part of the application-form (from the narrative). 
 (The valuable-contribution part will come up later.)
 
@@ -460,8 +463,8 @@ Help others at all times:
 1.  I will do my best to help all parties according to all known best practice standards and protocols; to manage down or manage to equilibrium system-collapse, to manage up or manage to equilibrium system-value-function-and-meaning.
 
 2.  Best Practice Blessing: 
-"May you may we may noun, 
-become proficient in the sustainable cultivation of value function and meaning,
+"May you, may we, may noun, 
+become proficient in the sustainable cultivation of value, function, and meaning,
 via a local implementation of generalized system best practice,
 with local spice and sauce."
 
@@ -596,17 +599,6 @@ _________ does/do show (no) signs of empirical-behavioral-use of types of genera
 _________ shows (no) signs of having a concept of types of generality.
 (types, scales, levels, recursive, etc.)
 
-
-
-
-
-
-
-
-
-
-
-
 3.4 Policy Areas:
 _________ is (or is not) dedicated to the: 
 3.2.1  Destruction
@@ -617,6 +609,7 @@ _________ is (or is not) dedicated to the:
 3.2.6  Scapegoating &
 3.2.7  Coverup
 of general system management areas.
+
 
 
 4. Macro Model
