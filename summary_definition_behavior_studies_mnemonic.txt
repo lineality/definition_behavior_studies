@@ -44,7 +44,7 @@ We can generalize disinformation vs. definition-clarification.
 
 We Can Use "Low-Bar Enlightenment":
 	(Summary)
-We can use the idea of 'being trapped in potentially endless cycles of ~"rebirth" due to ~"ignorance" ' as a metaphor/analogy for repeated project-failures, where a lack of perception / understanding of the causes of project-failures is involved in self-perpetuating feedback cycles leading to such repeating failures (with invisible or misunderstood causes): being endlessly (proverbially) 'reborn' into mis-manged projects that unnecessarily fail in the same correctable, but uncorrected, ways over and over again ad-infinitum.
+We can use the idea of 'being trapped in potentially endless cycles of ~"rebirth" due to ~"ignorance" ' as a metaphor/analogy for repeated project-failures, where a lack of perception / understanding of the causes of project-failures is involved in self-perpetuating feedback cycles leading to such repeating failures (with invisible or misunderstood causes): being endlessly (proverbially) 'reborn' into mismanaged projects that unnecessarily fail in the same correctable, but uncorrected, ways over and over again ad-infinitum.
 We can learn to perceive invisible (or previously unperceived and not-automatically-perceived) causes of failure and collapse ((definable, measurable, testable, falsifiable) project, system, definition failure and collapse), where this failure and collapse (this system-state of failure-collapse) can be the default states/equilibria that systems move and iterate towards.
 We can stop these cycles of failure by using information and perception.
 
@@ -65,9 +65,9 @@ Note: There may be a limited way to generalize an understanding of perception-ma
 
 Note: 'Reality' (the meaning used here) is not a single, simple, uniform, static, homogeneous, thing made of only one type of system assumed to fit into a single framework. (not naive realist positivist) 
 
-Note: Low-bar enlightenment and or definition behavior studies may contradict the glib description or definition of anything information-related as being tautologically "anti-entropic." E.g. perhaps as a kind of higher-level-noise that ends up reducing all signals in the system to being the same predictable low-entropy noise. (...or perhaps this is a bad analogy or extension of signal integrity measures) [You might use the same overall case study of telephone messages traveling from the east coast to the west coast without being altered, degraded, collapsed, noise-ified, lost, etc. Note, using a moving-water-bottles-logistics project example, the collapse of definitions need not refer to any fuzzy higher order cultural concepts, no need to wave arms about 'moot cultural meanings', low level metric and spec signal integrity can be the focus.]
+Note: Low-bar enlightenment and or definition behavior studies may contradict the description or definition of anything information-related as being tautologically "anti-entropic." E.g. perhaps as a kind of higher-level-noise that ends up reducing all signals in the system to being the same predictable low-entropy noise. (...or perhaps this is a bad analogy or extension of signal integrity measures) [You might use the same overall case study of telephone messages traveling from the east coast to the west coast without being altered, degraded, collapsed, noise-ified, lost, etc. Note, using a moving-water-bottles-logistics project example, the collapse of definitions need not refer to any fuzzy higher order cultural concepts, with no need to wave arms about 'moot cultural meanings', low level metric, spec and instruction signal integrity can be the focus. (another possible analogy-overlap, social-engineering attacks used on a purely automated system)]
 
-
+ 
 We can use Intersecting-Interlocking-Interconnecting-Areas:
 Intersecting-Interlocking-Interconnecting-Areas include:
 	- Clear & Functional Definitions
@@ -89,6 +89,8 @@ Intersecting-Interlocking-Interconnecting-Areas include:
 
 
 
+
+
 We can use system-fitness-health-status-indicators.
 We can use system-defense to prevent collapse.
 We can design systems to protect against system collapse. (e.g. system membranes)
@@ -100,7 +102,7 @@ We can find and fix errors in perception.
 We can organize projects.
 We can distinguish short term vs. long term.
 We can assign roles.
-We can test, check, and  verify.
+We can test, check, and verify.
 We can have policies on errors-and-mistakes.
 
 We can improve and cultivate perception by observing perception (including: indirectly observing perception).
@@ -215,6 +217,7 @@ We're going to put all the tools that we can use for moving-water-bottles on a t
 (Like go or chess, this technology timeline is a fabulously useful activity in general, and the kind of skill you can start in 10min and continue for a lifetime.)
 
 The 'Agile Project Management' 'end of our timeline' is also where a goal is: 
+
 
 
 Draw a Pirate Treasure Map:
@@ -434,7 +437,7 @@ Operational Definition of "Help":
 4. Drake Equation Vessel Functions: in the following seven areas
 Sub-Participants can, should, will, want to, do, help, and / or help with, serve, and / or serve with, setting-location-items in a legal vessel-capacity occupational role and niche and offer legal-vessel-contracts in the following ~seven areas:
 
-4.1  Sensory Motor (Lear: Use My Eyes) Areas (Plus electromagnetism)
+4.1  Sensory Motor (Lear: Use My Eyes) Areas (Plus Electromagnetism)
 4.2  Benzaiten Saraswati Areas (Plus historical continuity, minus high definition input output data-literacy/numeracy) (Note: translation and transmission)
 ?4.3  Embodyment / channeling items: theater-groups and community interaction, CRV, active-imagination
 4.4  Functions and Operations:
@@ -450,6 +453,8 @@ Sub-Participants can, should, will, want to, do, help, and / or help with, serve
 4.4.3 Something-hard, Something-Soft Areas
 4.4.4 (basal) Input-Output Processing Areas
 4.4.5 Cross Context Areas
+
+
 
 5. Definition Dark Areas / off the one-tree
 
@@ -709,3 +714,5 @@ To distinguish between:
 
 
 Are can-do statement 'value/values' statements of a sort?
+
+What is the nature of how parts of projects and STEM are (or are not) connected? What are categories of types of systems? How do systems, processes, projects, and definitions fail and collapse? Is there any interface between discussion of ethics, morals, even compassion and mindfulness, and the realm of systems and projects and STEM? What are mistakes? What does it mean to learn or course-correct based on mistakes? Can problem-with-perception be themselves perceived? Can obstacles to learning be overcome by learning about those obstacles? 
