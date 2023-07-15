@@ -61,18 +61,20 @@ Low-Bar Enlightenment:
 
 Note: This "low-bar enlightenment" approach is ('democratically') broadly accessible to participants requiring minutes to learn rather than myriad lifetimes, does not require all-around perfection of person-ness, without context or requiring somehow all contexts, is not a reification that combines other abilities and insights to explain and solve all problems in all universes, nor does it include or require all possible types of consciousness, cognition, intelligence, etc.; "Low-bar enlightenment" is one humble step toward navigating the problem-space of problems and systems. 
 
-Note: There may be a limited way to generalize an understanding of perception-maintenance needs ( 'low bar enlightenment' ) to other participants in a way that is consistent with empathy-compassion. Extending an understanding of low bar enlightenment from just your own situation (perceptions, roles, projects, etc.) to being something that applies in a larger space (in which one participates, or not, with other participants) to all participants and all other parts (e.g. definitions, perceptions, etc.) of any projects (including the effects and spread of system-failure between parts and between participants, between projects, etc.) is, if not sufficient for empathy-and-compassion in a broader or deeper sense, a consistent and concrete step to take towards acting with (action, behavior with) empathy-and-compassion, including an understanding of how empathy-compassion relates to STEM and interconnected areas.
+Note: There may be a limited way to generalize an understanding of perception-maintenance needs ( 'low bar enlightenment' ) to other participants in a way that is consistent with empathy-compassion. Extending an understanding of low bar enlightenment from just your own situation (perceptions, roles, projects, etc.) to being something that applies in a larger space (in which one participates, or not, with other participants) to all participants and all other parts (e.g. definitions, perceptions, etc.) of any project(s) (including the effects and spread of system-failure between parts and between participants, between projects, etc.) is, if not sufficient for empathy-and-compassion in a broader or deeper sense, a consistent and concrete step to take towards acting with (action, behavior with) empathy-and-compassion, including an understanding of how empathy-compassion relates to STEM and interconnected areas.
 
 Note: 'Reality' (the meaning used here) is not a single, simple, uniform, static, homogeneous, thing made of only one type of system assumed to fit into a single framework. (not naive realist positivist) 
 
-Note: Low-bar enlightenment and or definition behavior studies may contradict the description or definition of anything information-related as being tautologically "anti-entropic." E.g. perhaps as a kind of higher-level-noise that ends up reducing all signals in the system to being the same predictable low-entropy noise. (...or perhaps this is a bad analogy or extension of signal integrity measures) [You might use the same overall case study of telephone messages traveling from the east coast to the west coast without being altered, degraded, collapsed, noise-ified, lost, etc. Note, using a moving-water-bottles-logistics project example, the collapse of definitions need not refer to any fuzzy higher order cultural concepts, with no need to wave arms about 'moot cultural meanings', low level metric, spec and instruction signal integrity can be the focus. (another possible analogy-overlap, social-engineering attacks used on a purely automated system)]
+Note: Low-bar enlightenment and or definition behavior studies may contradict the description or definition of anything information-related as being tautologically "anti-entropic." E.g. perhaps as a kind of higher-level-noise that ends up reducing all signals in the system to being the same predictable low-entropy noise. (...or perhaps this is a bad analogy or extension of signal integrity measures) [You might use the same overall case study of telephone messages traveling from an east coast to a west coast without being altered, degraded, collapsed, noise-ified, lost, etc. Note, using a moving-water-bottles-logistics project example, the collapse of definitions need not refer to any fuzzy higher-order cultural concepts, with no need to wave arms about 'moot cultural meanings', low level metric, spec and instruction signal integrity can be the focus. (another possible analogy-overlap: social-engineering attacks used on a purely automated system)]
+
+Note: There are many different kinds of non-automatic learning, or many ways that outcomes can be 'invisible,' from elusive past-future connections and non-obvious casual connections, to literally invisible events like radiation, to non-automatic skills such as literacy, to specific biases in a particular system (optical illusions, super-signals etc). And more overtly there is opposition to recognizing the basic concepts themselves: the existence of the phenomena of non-automatic learning, of failures or imperfections in perception, of both the importance of project management and the frailty of bad planning, the long history of psychological and social barriers to specific and general STEM concepts (including connecting areas of STEM), etc., even the general issue of not being able to easily see your own biases. 
 
  
 We can use Intersecting-Interlocking-Interconnecting-Areas:
 Intersecting-Interlocking-Interconnecting-Areas include:
 	- Clear & Functional Definitions
 	- Context
-	- Generalized STEM
+	- Generalized STEM/
 	- Generalized Projects (project-context)
 	- Generalized Participation (+functional qualifications to participate; 
    ~3 participation categories with pre & post)
@@ -125,7 +127,7 @@ We can communicate across succession gaps.
 We can communicate across languages.
 We can communicate across types of participants.(AI/bio + pre-participant to post-participant)
 We can communicate across roles.
-We can communicate across projects, and parts and phases of projects (schedules).
+We can communicate across projects, and parts and phases of projects (e.g. schedules).
 We can communicate across groups/teams.
 We can communicate across media of communication.
 We can communicate across Input-Output Measures.
