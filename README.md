@@ -1,5 +1,3 @@
-# definition_behavior_studies
-
 Definition Behavior Studies
 Summary of Definition Behavior Studies Mnemonic
 
@@ -12,31 +10,31 @@ What is the agenda?
 What are the goals and modus operandi? 
 What is the goals-means-method statement? (in a project-context, with project-participants)
 
+
 Goals (Agenda): goals-means-method statement / "we-can" statements:
 We can succeed. 
 We can make things work. 
 We can understand what is wrong.
 We can fix what is broken. 
-We can use non-automatically learned skills.
+We can use not-automatically-learned skills &  not-automatically-transferred skills.
 
 We can use STEM to connect signals and reality.
 We can connect STEM, project-management, and ethics.
 We can use intersecting-interlocking-interconnecting areas.
-We can communicate, learn, and solve problems.
-We can use patterns, protocols, and processes for and with skills, abilities, and learning. 
+We can learn, coordinate, and solve problems.
 We can manage types of, and terms for, generalization.
 We can use ~'low-bar enlightenment'.
 We can extend into or maintain a full range of motion, not only contraction(reducing/narrowing).
 We can participate to complete projects.
 We can learn from and correct the mistakes of the past.
 We can use and understand the effects of perception and abstraction.
+We can make and use tools and resources.
+We can use feedback, testability, measurability, & definability.
+We can use patterns, protocols, and processes for and with skills, abilities, and learning. 
 We can communicate.
 We can make progress.
 
 
-
-
- 
 We can generalize; We can distinguish between, and use, types of (and terms for) generalization. 
 We can generalize STEM.
 We can generalize participation.
@@ -48,58 +46,60 @@ We can generalize categories of types of systems.
 We can generalize system-fitness and system-epidemiology.
 We can generalize data-hygiene, system hygiene.
 We can generalize system collapse.
-We can generalize system defense, system health, system immune-systems, information immune-systems, system information-epidemiology, and system-and-definition-membranes.
+We can generalize system defense, system health, system-immune-systems, information-immune-systems, system information-epidemiology, and system-and-definition-membranes.
 We can generalize disinformation vs. definition-clarification.
-
-? generalize System-Externalization?
+We can generalize Signal-Data Processing and/vs. Instruction Management.
+We can generalize System-Externalization, task/step derivation/integration, and task/process-modularity.
 
 
 We Can Use "Low-Bar Enlightenment":
 	(Summary)
-We can use the idea of 'being trapped in potentially endless cycles of ~"rebirth" due to ~"ignorance" ' as a metaphor/analogy/simile/paradigmatic-model for repeated project-failures, where a lack of perception / understanding of the causes of project-failures is involved in self-perpetuating feedback cycles leading to such repeating failures (with invisible or misunderstood causes): 
-being endlessly (proverbially) 'reborn' into mismanaged projects that unnecessarily fail in the same correctable, but uncorrected, ways over and over again ad-infinitum.
-We can learn to perceive invisible (or previously unperceived and not-automatically-perceived) causes of failure and collapse ((definable, measurable, testable, falsifiable) project, system, definition failure and collapse), where this failure and collapse (this system-state of failure-collapse) can be the default state(s)/equilibrium(ia) that systems move and iterate towards.
-We can stop these cycles of failure by using information, perception, and learning.
-
-
+We can use the idea of 'being trapped in potentially endless cycles of ~"rebirth" due to ~"ignorance" ' as a metaphor/analogy/simile/paradigmatic-model/example for repeated project-failures, where a lack of perception / understanding of the causes of project-failure is involved in self-perpetuating feedback cycles leading to such repeating failures (with invisible or misunderstood causes): 
+The goal is ending cycles of being endlessly (proverbially) 'reborn' into mismanaged projects that unnecessarily fail in the same correctable, but uncorrected, ways over and over again ad-infinitum.
+We can learn to perceive invisible (or previously unperceived and / or not-automatically-perceived) causes of failure and collapse ((definable, measurable, testable, falsifiable) project, system, definition failure and collapse), where this failure and collapse (this system-state of failure-collapse) can be the default state(s)/equilibrium(ia) that systems move and iterate towards.
+We can stop these cycles of failure by using information/data, perception, and learning.
 
 
 Low-Bar Enlightenment (elements):
 1. The perception/understanding that repeating cycles of failed actions and projects can result from errors in perception and planning (a proverbial 'wheel of samsara').
-2. The perception/understanding that indefinately-repeating cycles-of-failed actions and projects can exist without inevitable-automatic-learning arising from raw feedback of experiential data about that failure 
-(i.e. where learning (that is sufficient to prevent the problem in future) does not automatically result from experiencing mistakes or overall-system-shocks, etc.).
+2. The perception/understanding that indefinately-repeating cycles-of-failed actions and projects can exist without inevitable-automatic-learning arising from raw feedback of experiential data about that failure. 
+I.e., learning (that is sufficient to prevent the problem in future) does not automatically result from experiencing mistakes or overall-system-shocks, etc.
 [Possibly related to ~'cultural/epiphenomena'-learning as an additional layer:  Q: How are "internally"-invisible skills/abilities/patterns learned? A: "Externally"?]
 3. The perception/understanding that perception/understanding can be fooled in principle and in practice.
 4. The perception/understanding that learning-from-failures does not happen automatically, and can indefinitely not-happen.
-5. The perception/understanding that non-automatic-learning and invisible-problems are not solved by 'system shocks,' the use of violence, or arbitrary low level (basal) system changes (also see basal-distal disjunctions).
-6. The perception/understanding that models of causality can be wrong in principle and in practice.
-7. The perception/understanding that plans/goals can be incorrectly defined (so that plans are not followed or follow-able as defined, and goals are not achieved or achievable as defined).
-8.  The perception/understanding that each participant's set of the shared definitions of the goals-and-structure-of-a-project can/will collapse and deform (by default) unless properly configured and continually and actively maintained and repaired. There is no static definition/perception/understanding equilibrium: Staying connected to reality requires constant fitness-training, data-hygiene, and upkeep. 
+5. The perception/understanding that learning-from-failures does transfer automatically from one perceived-recognized-learned area to other areas, and can indefinitely not-transfer.
+6. The perception/understanding that non-automatic-learning and invisible-problems are not solved by 'system shocks,' the use of violence, or arbitrary low level (basal) system changes (also see basal-distal disjunctions).
+7. The perception/understanding that models of causality can be wrong in principle and in practice.
+8. The perception/understanding that plans/goals can be incorrectly defined (so that plans are not followed or follow-able as defined, and goals are not achieved or achievable as defined).
+9.  The perception/understanding that each participant's set of the shared definitions of the goals-and-structure-of-a-project can/will collapse and deform (by default) unless properly configured and continually and actively maintained and repaired. There is no static definition/perception/understanding equilibrium: Staying connected to reality requires constant fitness-training, data-hygiene, and upkeep. 
 (Universality Question: specific biology[intelligence] vs. general[ai, etc]?)
-9.  The perception/understanding that there are different types of non-automatic learning.
-10.  The perception/understanding that low-bar-enlightenment-perception applies to and extends to all parts of and participants in a project (and connected-projects) including time, not just you here now. (~system-empathy/~system-compassion)
-11. Broad Accessibility: The perception/understanding that useful learning can occur without many other dependencies.
+10.  The perception/understanding that there are different types of non-automatic learning.
+11.  The perception/understanding that low-bar-enlightenment-perception applies to and extends to all parts of and participants in a project (and connected-projects) including time, not just you here now. (~system-empathy/~system-compassion)
+12. Broad Accessibility: The perception/understanding that useful learning can occur without many other dependencies (and is therefore broadly, generally, accessible to participants).
+?13. That the relationship between data, perception, learning, decisions, actions, and coordination, is not always simple, linear, or automatic.
 
-Notes
-Note: This "low-bar enlightenment" approach is ('democratically') broadly accessible to participants requiring minutes to learn rather than myriad lifetimes, does not require all-around perfection of person-ness, without context or requiring somehow all contexts, is not a reification that combines other abilities and insights to explain and solve all problems in all universes, nor does it include or require all possible types of consciousness, cognition, intelligence, etc.; "Low-bar enlightenment" is one humble step toward navigating the problem-space of problems and systems. 
 
-Note: There may be a limited way to generalize an understanding of perception-maintenance needs ( 'low bar enlightenment' ) to other participants in a way that is consistent with empathy-compassion. Extending an understanding of low bar enlightenment from just your own situation (perceptions, roles, projects, etc.) to being something that applies in a larger space (in which one participates with other participants) to all participants and all other parts (e.g. definitions, signals, perceptions, function-operations, participants, schedules, etc.) of any project(s) (including the effects and spread of system-failure between parts and between participants, between projects, etc.) is, if not sufficient for empathy-and-compassion in a broader or deeper sense, a consistent and concrete step to take towards acting with (action, behavior with) empathy-and-compassion, including an understanding of how empathy-compassion relates to STEM and interconnected areas.
+Detail Notes
+Note: This "low-bar enlightenment" approach is ('democratically') broadly accessible to participants requiring minutes to learn rather than myriad lifetimes, does not require all-around perfection of person-ness, is not without context or does not require (somehow) all contexts, is not a reification that combines other abilities and insights to explain and solve all problems in all universes, nor does it include or require all possible types of consciousness, cognition, intelligence, etc.; "Low-bar enlightenment" is one humble step toward navigating the problem-space of problems and systems. 
 
-Note: 'Reality' (the meaning used here) is not a single, simple, uniform, static, homogeneous, thing made of only one type of system assumed to fit into a single framework. (e.g. not naive realist positivist) 
+Note: There may be a limited way to generalize an understanding of perception-maintenance needs ( 'low bar enlightenment' ) to other participants in a way that is consistent with empathy-compassion. Extending an understanding of low bar enlightenment from only your own situation (perceptions, roles, projects, etc.) to being something that applies in a larger space (in which one participates with other participants) to all participants and all other parts of any and all projects (e.g. definitions, signals, perceptions, function-operations, participants, schedules, etc.)(including the effects and spread of system-failure between parts and between participants, between projects, etc.) is, if not sufficient for empathy-and-compassion in a broader or deeper sense, a consistent and concrete step to take towards acting with, or that is consistent-with acting-with, (action, behavior with) empathy-and-compassion, including an understanding of how empathy-compassion relates to STEM and interconnected areas.
+
+Note: 'Reality' (the meaning used here) is not a single, simple, uniform, static, homogeneous, linear, thing made of only one type of system assumed to fit into a single framework. (e.g. not naive realist positivist) 
 
 Note: Low-bar enlightenment and or definition behavior studies may contradict the description or definition of anything information-related as being tautologically "anti-entropic." E.g. perhaps as a kind of higher-level-noise that ends up reducing signals in a system to the same predictable low-entropy noise. (...or perhaps this is a bad analogy or extension of signal integrity measures). [You might use the same overall case study of telephone messages traveling from an east coast to a west coast without being altered, degraded, collapsed, noise-ified, lost, etc. Note: Using a moving-water-bottles-logistics project example, the collapse of definitions need not refer to any fuzzy higher-order cultural concepts, with no need to wave arms about 'moot cultural meanings'; low level metric, spec and instruction signal integrity can be the focus. (Another possible analogy-overlap: social-engineering attacks used on purely automated systems.)]
 
-Note: There are many different kinds of non-automatic learning, or many ways that outcomes can be 'invisible,' from elusive past-future connections and non-obvious casual connections, to literally invisible events like radiation, to non-automatic skills such as literacy, to specific biases in a particular system (optical illusions, super-signals etc), to unclear sets of correlations (some of which are incidental), to sometimes confusing system spaces such as indeterminacy(incompetence and malice perhaps) and exponential-elbows(fractal static sometimes and dynamic changing sometimes). And more overtly there is opposition to recognizing the basic concepts themselves: the existence of the phenomena of non-automatic learning, of failures or imperfections in perception, of the existence of basic parts of an agile project, of both the importance of project management and risk of bad planning, the long history of psychological and social barriers to specific and general STEM concepts (including connecting areas of STEM (including by STEM professionals)), etc., even the general issue of not being able to easily see your own biases (or assumptions and context, fish-in-water). 
+Note: There are many different kinds of non-automatic learning, or many ways that outcomes can be 'invisible,' from elusive past-future connections and non-obvious casual connections, to literally invisible events like radiation, to non-automatic skills such as literacy, to specific biases in a particular system (optical illusions, super-signals etc), to unclear sets of correlations (some of which are incidental), to sometimes confusing system spaces such as indeterminacy(incompetence and malice perhaps) and exponential-elbows(fractal static sometimes and dynamic changing sometimes). And more overtly there is opposition to recognizing the basic concepts themselves: the existence of the phenomena of non-automatic learning, of failures or imperfections in perception, of the existence of basic parts of an agile project, of both the importance of project management and risk of bad planning, the long history of psychological and social barriers to specific and general STEM concepts (including connecting areas of STEM (including by STEM professionals)), etc., even the general issue of not being able to easily see your own biases (or assumptions and context, fish-in-water). Input-output measure may be a helpful tool.
 
 
 We can use Intersecting-Interlocking-Interconnecting-Areas:
 Intersecting-Interlocking-Interconnecting-Areas include:
 	- Clear & Functional Definitions
 	- Context
-	- Generalized STEM/
+	- Generalized STEM
 	- Generalized Projects (project-context)
 	- Generalized Participation (+functional qualifications to participate; 
-   ~3 participation categories with pre & post)
+   ~3 participation categories with pre-participants & 
+   post-participants)
       - Generalized Decision Coordination (voting etc).
 	- Generalized System Collapse
 	- Generalized Categories of Types of Systems
@@ -112,9 +112,8 @@ Intersecting-Interlocking-Interconnecting-Areas include:
 ? - Generalized object-relationship space(s)
 	? (Generalized low-bar-enlightenment?)
 	? - Generalized setting-location-items
-
-
-
+	? feedback...about errors & mistakes?
+	? system defense / system epidemiology action?
 
 
 We can use system-fitness-health-status-indicators.
@@ -135,6 +134,7 @@ We can have policies on errors-and-mistakes.(e.g. positive constructive use of d
 
 We can improve and cultivate perception by observing perception (including: indirectly observing perception).
 We can observe the effects of abstraction (effects of observation and definition).
+We can identify and correct distortions in signals, perception, processing, coordination, decision, and transmission.
 We can operationally define 'policy' as algorithms for non-collapse based on dynamics of system and definition collapse. (plus context?)
 We can better understand the relationship between disinformation and system collapse.
 We can define indeterminate-incompetence-and-malice as part of system collapse.
@@ -161,19 +161,22 @@ We can communicate across Input-Output Measures.
 We can communicate across different locations with different setting-location-items for projects.
 We can communicate between different setting-location-items for projects.
 We can communicate using tools in a project-context for coordination 
- and decision making. (votes in elections/polls/surveys/questionnaires/planning-meetings)
-? We can communicate through externalized-project space.
+ and decision making, including tasks, processes, and steps. (votes in elections/polls/surveys/questionnaires/planning-meetings)
+We can communicate through externalized-project space.
 (We can communicate across modular, scaled, break-down build-up, protocols and methods.)
+We can communicate across Signal Processing types and Instruction Management types.
 We can communicate across networks.
 
 
+We can recognize past problems.
 We can understand a spectrum of disinformation and clarification-of-information.
 We can implement sustainable solutions.
+We can implement sustainable productivity.
 We can prevent future problems.
 We can reverse damage from past problems.
 We can learn from the past.
 We can collect data.
-We can ratchet forward (towards project completion) using methods that work. (opposite of https://en.wikipedia.org/wiki/Muller%27s_ratchet)
+We can ratchet forward (towards project completion) using methods that work. (~opposite of https://en.wikipedia.org/wiki/Muller%27s_ratchet)
 
 
 
@@ -190,9 +193,10 @@ We can make and use models.
 We can make and use modular recombinant frameworks.
 We can make and use feedback, tests & evaluations / assessment in various forms at various process stages (pre, formative, summative, post, 'aftermarket,' longitudinal, etc).
 We can make and use clear functional and operational definitions that keep their meaning over time.
-We can complete /  succeed-in / finish / progress-through projects.
 We can make system-membranes.
-We can meet / deliver the needs of the target /user.
+
+We can complete /  succeed-in / finish / progress-through projects.
+We can meet / deliver the needs of the target/user.
 We can make progress.
 
 We can make progress by using information about the behavior of definitions: This (topic) is System and Definition Behavior Studies, the field of study pertaining to the behavior of definitions. (These we-can goals-statements may be a measurable proxy-defintion for 'progress.')
@@ -203,10 +207,11 @@ These can-do statements (the goals and agenda for definition behavior studies) c
 We can combine (narrative summaries of) principles and applications with instrumentalist, modular, tool set areas.
 
 
-        
+
+
 Narratives, Principles and Applications:
 I have constructed a mnemonic device to cover a narrative survey of principles and applications. 
-We will do a first/Introductory pass/sweep through the material to map the overall features and layout before doing later sweeps/passes: zoom in, zoom out. (Like NASA missions.)
+We will do a first/Introductory pass/sweep through the material to map the overall features and layout before doing later sweeps/passes: zoom in, zoom out [improve map; repeat]. (Like NASA missions.)
 
 The main tools that we will use to go through the (definition behavior studies) mnemonic include:
 - (by analogy) perspectograph: non-automatically learned skills (context: checking perception, e.g. Vetruvian eggshell) 
@@ -278,7 +283,7 @@ trustworthy,
 loyal,
 helpful,
 friendly,
-courteous,
+courteous
 kind,
 obedient,
 cheerful, 
@@ -287,7 +292,7 @@ brave,
 clean, and 
 revenant.
 
-On my honor, I will do my best to, to do my duty to, to guide my projects:
+On my honor, I will do my best to, to do my duty to, to guide projects:
 obey the scout law,
 to help other people at all times,
 to keep myself,
@@ -368,12 +373,10 @@ Four Sections:
 
 
 
-
-
 1. Value Statements Section
 
-The Target is ______ . (e.g. Homo sapiens and Earth)
-Hello, my name is ___, the current project location is _____.
+The Target is ______ . (e.g. Homo sapiens and Earth, definition behavior studies.)
+Hello, my name is ___, the current project location _____ (time, place).
 
 This project/framework should be generalizable and specifically applicable given an array of 5x5 items:
 
@@ -399,7 +402,7 @@ phase transitions,
 directions, dimensions, (cardinal et al),
 post-participants,
 linear time,
-nonlinear time.	
+nonlinear time,
 
 Q: Why are we talking about setting-location-items? 
 A: 
@@ -408,8 +411,7 @@ A:
 - You have local factors. 
 - Other people have different local factors.
 - You need policies to cover all these areas.
-e.g. The classic example of two distant sister-cities communicating and coordinating about "natural disasters" (flood, storm, quake, etc.) relief and disturbance regimes (modeling/policy/management.) 
-[e.g. two internationally distant sister-cities]
+e.g. The classic example of two internationally distant sister-cities communicating and coordinating about "natural disasters" (flood, storm, quake, etc.) relief and disturbance regimes (modeling/policy/management.) 
 
 
 2. Love, Act Responsibly Towards, Fulfill Duties Towards
@@ -420,12 +422,10 @@ including:
 3. Shannon/Turing Information, 
 4. Definition behaviors
 
-
 Q: Why are we talking about ethics (love, duty, and responsibility)? 
 A: There is an epidemic of anti-best-practice action and rhetoric. There should be:
 1. a system medicine research area;
 2. a system epidemiology task-force.
-
 
 
 3. Reception And Reflection:
@@ -458,7 +458,7 @@ Participation Array, 5x5 items:
 [5x5 array]
 Four Areas of Interaction: (e.g. four comparison criteria for each cell in 5x5 array)
 
-1. (Participant Diversity) Love, Duty, Responsibility Including Boundary Dissolution Areas, 
+1. (Participant Diversity) Love, Duty, Responsibility, Including Boundary Dissolution Areas
 Connection, disconnection, and ambiguity, in the following areas:
 1.1 time space location
 1.2 perception
@@ -483,7 +483,7 @@ Sub-Participants can, should, will, want to, do, help, and / or help with, serve
 
 4.1  Sensory Motor (Lear: Use My Eyes) Areas (Plus Electromagnetism)
 4.2  Benzaiten Saraswati Areas (Plus historical continuity, minus high definition input output data-literacy/numeracy) (Note: translation and transmission)
-?4.3  Embodyment / channeling items: theater-groups and community interaction, CRV, active-imagination
+?4.3  Embodyment / Channeling Items: theater-groups and community interaction, CRV, active-imagination
 4.4  Functions and Operations:
 4.4.1 Null, Void
 4.4.1.1 negative choices and definitions
@@ -491,25 +491,27 @@ Sub-Participants can, should, will, want to, do, help, and / or help with, serve
 4.4.1.2.1  time, body
 4.4.1.2.2  object location event
 4.4.1.2.3  behaviors, policies 
-4.4.1.2.3.1 Behaviors: in / out;  
+4.4.1.2.3.1 behaviors details: 
+in / out;  
 on / off; 
 start / stop; 
 begin / end; 
 dual / non-dual; 
 mundane / non-mundane
-4.4.1.2.3.2 Policies: perception, translation, coordination, collaboration non-discrimination, non-collapse
-4.4.2 Reception Reflection Absorption
+4.4.1.2.3.2 Policies details: 
+perception, translation, coordination, collaboration, non-discrimination, non-collapse
+4.4.2 Reception, Reflection, Absorption
 4.4.3 Something-hard, Something-Soft Areas
 4.4.4 (basal) Input-Output Processing Areas
 4.4.5 Cross Context Areas
 
 5. Definition Dark Areas / off the one-tree
 
-6. World Dancing, World Singing, the song and dance of compromise
+6. World Dancing, World Singing: the song and dance of compromise
 
 7. Professional Technical Production Advice: six sigma for rivers, grains of sand, ecosystems, keystone species
 
-8. Number 8 (kind of a separate branch-area)
+8. Number 8 (misc)
 Help others at all times:
 
 1.  I will do my best to help all parties according to all known best practice standards and protocols; to manage down or manage to equilibrium system-collapse, to manage up or manage to equilibrium system-value-function-and-meaning.
@@ -566,7 +568,8 @@ is bad, is wrong, it causes system collapse, it should not be done, and I will n
 
 (Tautology Area 2)
 2.2 Tautology Area 2: Positive and Negatively Defined Areas ("top and bottom" chart areas)
-Identifying system collapse as a goal, not indirectly as in dark lighthouse but directly as in exacerbating system collapse, as part of (defining / in any area of) the standard set of agreed upon goal means method areas, is bad, is wrong, it causes system collapse, it should not be done, and I will not do it.
+Identifying system collapse as a goal, not indirectly as in dark lighthouse but directly as in exacerbating system collapse, as part of (defining / in any area of) the standard set of agreed upon goal means method areas, is bad, is wrong, it causes system collapse, it should not be done, and I will not do it: e.g.
+
 2.2.1  Following worst-possible-options
 	is bad, is wrong, it causes system collapse, it should not be done, and I will not do it.
 
@@ -576,8 +579,7 @@ Identifying system collapse as a goal, not indirectly as in dark lighthouse but 
 2.2.3  Mismanaging categories of types of systems
 	is bad, is wrong, it causes system collapse, it should not be done, and I will not do it.
 
-2.2.4  Mismanaging Cross-Context-Areas:
-	e.g.
+2.2.4  Mismanaging Cross-Context-Areas: e.g.
 	- exponential elbows
 	- perception abstraction
 	- indeterminate incompetence and malice
@@ -604,6 +606,7 @@ For example:
 3. Standard Error and Damage Report in Four Sub-Sections
 
 _______  = target (population)
+
 3.1 Overall Infection Level
 3.1.1 _________ is extremely infected.
 3.1.2 There are most likely autonomous infections.
@@ -619,7 +622,6 @@ The standard side-effects of not having system membranes include: (speculative)
 3.2.2.3 growth racing
 3.2.2.4 self/child cannibalism
 3.2.2.5 increasingly uninhabitable habitat seeking
-
 
 
 3.3 Diagnostic Array
@@ -652,7 +654,7 @@ _________ shows (no) signs of having a concept of types of generality.
 (types, scales, levels, recursive, etc.)
 
 3.4 Policy Areas:
-_________ is (or is not) dedicated to the: 
+_________ (target) is (or is not) dedicated to the: 
 3.2.1  Destruction
 3.2.2  Exploitation 
 3.2.3  Misuse
@@ -660,8 +662,7 @@ _________ is (or is not) dedicated to the:
 3.2.5  Torture
 3.2.6  Scapegoating &
 3.2.7  Coverup
-of general system management areas.
-
+_________ (above list) of general system management areas.
 
 
 4. Macro Model
@@ -670,7 +671,6 @@ of general system management areas.
 - duty
 - collaboration
 (maybe) - values
-
 
 4.2 Array:
 1. Development / Population
@@ -695,7 +695,6 @@ accretion
 4.3.4  Defense, immune systems
 
 
-
 4.4 Hospital-Areas & Modeling Areas:
 4.4.1  Hopital areas:
 - system helping healing repair
@@ -703,8 +702,6 @@ accretion
 - disentangling good and bad elements
 - grafting and synthetics
 - apoptosis and necrosis
-
-
 
 
 4.4.2 Modeling Areas:
@@ -768,7 +765,7 @@ What is the nature of how parts of projects and STEM are (or are not) connected?
 
 
 
-aspects of ati-data ideologies:
+aspects of anti-data ideologies:
 - anti data
 - anti progress
 - anti STEM
