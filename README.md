@@ -1,4 +1,4 @@
-[https://medium.com/@GeoffreyGordonAshbrook/overview-of-a-definition-behavior-studies-mnemonic-d496b36e6bd5
+https://medium.com/@GeoffreyGordonAshbrook/overview-of-a-definition-behavior-studies-mnemonic-d496b36e6bd5
 		4.2.10 Definitions and Ethics: Overview of A Definition 
                     Behavior Studies Mnemonic
 
