@@ -1,8 +1,7 @@
 https://medium.com/@GeoffreyGordonAshbrook/overview-of-a-definition-behavior-studies-mnemonic-d496b36e6bd5
 
 		4.2.10 Definitions and Ethics: Overview of A Definition 
-                    Behavior Studies Mnemonic 2023.12.24-2024.03.23
-
+                    Behavior Studies Mnemonic v21
 
 Overview of A Definition Behavior Studies Mnemonic
 Essay-Instructional Overview
