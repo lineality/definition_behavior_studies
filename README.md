@@ -1,7 +1,7 @@
 https://medium.com/@GeoffreyGordonAshbrook/overview-of-a-definition-behavior-studies-mnemonic-d496b36e6bd5
 
 		4.2.10 Definitions and Ethics: Overview of A Definition 
-                    Behavior Studies Mnemonic v21
+                    Behavior Studies Mnemonic
 
 Overview of A Definition Behavior Studies Mnemonic
 Essay-Instructional Overview
@@ -27,7 +27,11 @@ communication signal production. (any of myriad categories of signals)
 
 2. Learning and improving skills, ability, fitness
 
-3. Formation of thoughts, decisions, conclusions, plans, etc.
+3. Perception
+
+4. Formation of thoughts, decisions, conclusions, plans, etc. (conspicuous proxy)
+
+All are entwined with articulation; without articulation, the others are sub-optimal.
 
 Warmup Brainstorm 1: concepts of improvement
 - naive positivism
@@ -55,7 +59,7 @@ What are other agendas around studying definition behaviors?
 
 Active-Learning Project/Activity 3:
 (Similar to doing your own Needs & Goals Evaluation)
-For each item in the checklist, record the following data:
+1. For each item in the checklist, record the following data:
 - You have experience with this
 - You did have experience with this
 - Want to have experience with this
@@ -66,6 +70,7 @@ For each item in the checklist, record the following data:
 - Questions about this
 - Suggestions for this
 
+2. Speculate on the proxy for: "3. Formation of thoughts, decisions, conclusions, plans, etc. (proxy)" What are advantages and disadvantages of loosely lumping together these largely undefined category-concepts?
 
 (I will try to have an open-agenda here and lay out what (at least I think) my agenda is. The following open-agenda happens to fit right in with, and can be a template for, the part of the workflow-process of a project where you draw up, and coordinate decisions about, a group-agreed-upon-goal-means-methods-statement, a preliminary checklist that can guide discussion of what people agree to for a project.)
 
