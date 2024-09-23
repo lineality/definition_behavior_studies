@@ -5,7 +5,7 @@ https://medium.com/@GeoffreyGordonAshbrook/overview-of-a-definition-behavior-stu
 
 Overview of A Definition Behavior Studies Mnemonic
 Essay-Instructional Overview
- updated – 2024.07.12
+ updated – 2024.07.18
 
 
 Definition Behavior Studies is an interdisciplinary area of study, part Computer Science, statistical process analysis, hypothesis testing, Data Science, religious studies, ethics and mindfulness, and AI.
@@ -214,6 +214,16 @@ We can act with ethics, empathy and compassion.
 We can maintain extended ranges (e.g. [vitruvian] range of motion). (e.g. vs. contraction and collapse) (context for 'vitruvian' nickname here : en.wikipedia.org/wiki/Vitruvian_Man)
 We can find and follow patterns that lead to better outcomes.
 We can follow best practice.
+
+We can do projects.
+We can coordinate and collaborate to do projects.
+We can externalize data in projects.
+We can do projects focused on stakeholder-user-feature needs.
+We can meet the needs of a user with a project.
+We can align on goals and scope for projects.
+We can track the progress of the project (formative, summative).
+We can report on the progress of the project (formative, summative).
+We can monitor the system-health-fitness or system-collapse of the project.
 
 We can communicate and coordinate in these areas and ways: 
 We can communicate across space.
