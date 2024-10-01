@@ -33,6 +33,8 @@ communication signal production. (any of myriad categories of signals)
 
 All are entwined with articulation; without articulation, the others are sub-optimal.
 
+Chemistry-Analogy for non-automatic equilibrium and a topology of equilibria in systems, in this case: collaboration, project-management, productivity, and coordinated decisions. 
+
 Warmup Brainstorm 1: concepts of improvement
 - naive positivism
 - equilibria
@@ -224,6 +226,7 @@ We can align on goals and scope for projects.
 We can track the progress of the project (formative, summative).
 We can report on the progress of the project (formative, summative).
 We can monitor the system-health-fitness or system-collapse of the project.
+We can connect metrics for habitability and sustainability to project management.
 
 We can communicate and coordinate in these areas and ways: 
 We can communicate across space.
