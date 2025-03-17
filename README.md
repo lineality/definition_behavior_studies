@@ -5,7 +5,7 @@ https://medium.com/@GeoffreyGordonAshbrook/overview-of-a-definition-behavior-stu
 
 Overview of A Definition Behavior Studies Mnemonic
 Essay-Instructional Overview
- updated – 2025.01.24
+ updated – 2025.03.17
 
 Definition Behavior Studies is an interdisciplinary area of study, part Computer Science, statistical process analysis, hypothesis testing, Data Science, religious studies, ethics and mindfulness, and AI.
 
@@ -30,7 +30,6 @@ What is the goals-means-method statement (in a project-context, with project-par
 2. Features
 3. Tools
 
-Many activities do not include these characteristics. That is fine. If a project does, Uma should be useful.  
 
 # Best Practice
 ## Definition Behavior & System Collapse
@@ -262,6 +261,24 @@ We can align on - Features: User-Features & Subfeatures (or hidden features)
 We can align on - Scope: MVPs (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'
 We can align on - Feedback: Tests, Ecological Effects, Communication & Iteration
 
+Project Areas:
+We can identify project areas where when undefined will cause the project to fail and become a liability most of the time, often for unobserved and misunderstood reasons (self-referentially due to mis-alignment.
+We can more identify more abstract higher level project areas such as: 
+- Aligned 
+- Hygienic 
+- Coordinated/Collaborative 
+- Data-STEM 
+- Productive 
+- Projects
+We can identify specific project definition and coordination areas such as:
+- Process: Workflow Type, STEM Integration, Values, Agenda, Methods, Coordinated Decisions, (Data/System)Ecology: Collapse & Productivity (default option: Agile, Kahneman-Tversky, Definition-Studies)
+- Schedule: (Duration; Start date)
+- Users: Stakeholders & Needs & Goals Evaluation (of users) 
+- Features: User-Features & Subfeatures/Under-The-Hood Features
+- MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'
+- Feedback_Learning: Learning, Tests, Communication, Signals, Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~agile)
+We can communicate about, coordinate about, and align reasonably on specific project definition areas and prevent projects from failing and turning into liabilities for misunderstood, unobserved, undocumented, reasons over and over in endless cycles of failure due to preventable ignorance and blindness.
+
 We can communicate and coordinate in these areas and ways: 
 We can communicate across space.
 We can communicate across time.
@@ -298,7 +315,8 @@ We can learn from the past.
 We can collect data.
 We can ratchet forward (towards project completion) using methods that work. (~opposite of https://en.wikipedia.org/wiki/Muller%27s_ratchet)
 
-
+We can navigate heterogeneity.
+we can (not automatically) learn to perceive and navigate heterogeneous landscapes and propensities to hallucinate causality and sustainability of systems and productivity. 
 
 we can make/generate/cultivate and use/utilize:
 We can make and use clear descriptions (vs. liabilities of jargon & undefined terms).
