@@ -5,7 +5,7 @@ https://medium.com/@GeoffreyGordonAshbrook/overview-of-a-definition-behavior-stu
 
 Overview of A Definition Behavior Studies Mnemonic
 Essay-Instructional Overview
- updated – 2025.03.17
+ updated – 2025.05.05
 
 Definition Behavior Studies is an interdisciplinary area of study, part Computer Science, statistical process analysis, hypothesis testing, Data Science, religious studies, ethics and mindfulness, and AI.
 
@@ -260,6 +260,15 @@ We can align on - Users: Stakeholders & Needs & Goals Evaluation (of users)
 We can align on - Features: User-Features & Subfeatures (or hidden features) 
 We can align on - Scope: MVPs (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'
 We can align on - Feedback: Tests, Ecological Effects, Communication & Iteration
+
+
+Intertwined Parts of Learning
+We can manage intertwined parts of learning individually and in coordination.
+We can Articulate and Express see input output measures
+We can Learn and improve skills, ability, fitness
+We can perceive, see, apprehend.
+We can map and model
+We can make decisions, conclusions, plans, etc.
 
 Project Areas:
 We can identify project areas where when undefined will cause the project to fail and become a liability most of the time, often for unobserved and misunderstood reasons (self-referentially due to mis-alignment.
