@@ -5,7 +5,7 @@ https://medium.com/@GeoffreyGordonAshbrook/overview-of-a-definition-behavior-stu
 
 Overview of A Definition Behavior Studies Mnemonic
 Essay-Instructional Overview
- updated – 2025.05.05
+ updated – 2025.05.07
 
 Definition Behavior Studies is an interdisciplinary area of study, part Computer Science, statistical process analysis, hypothesis testing, Data Science, religious studies, ethics and mindfulness, and AI.
 
@@ -323,6 +323,15 @@ We can reverse damage from past problems.
 We can learn from the past.
 We can collect data.
 We can ratchet forward (towards project completion) using methods that work. (~opposite of https://en.wikipedia.org/wiki/Muller%27s_ratchet)
+
+We can make basic long term asset liability distinctions and identifications:
+We can identify and distinguish short term vs. long term.
+We can identify and distinguish liability vs. asset.
+We can identify and distinguish bad investment vs. good investment.
+We can identify and distinguish junkfood vs. health-food.
+We can identify and distinguish bad habit vs. good habit.
+We can identify and distinguish nihilism vs. value function and meaning.
+We can identify and distinguish process vs. stochastic outcomes.
 
 We can navigate heterogeneity.
 we can (not automatically) learn to perceive and navigate heterogeneous landscapes and propensities to hallucinate causality and sustainability of systems and productivity. 
