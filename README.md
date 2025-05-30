@@ -5,7 +5,7 @@ https://medium.com/@GeoffreyGordonAshbrook/overview-of-a-definition-behavior-stu
 
 Overview of A Definition Behavior Studies Mnemonic
 Essay-Instructional Overview
- updated – 2025.05.07
+ updated – 2025.05.12
 
 Definition Behavior Studies is an interdisciplinary area of study, part Computer Science, statistical process analysis, hypothesis testing, Data Science, religious studies, ethics and mindfulness, and AI.
 
@@ -169,7 +169,7 @@ I.e., learning (that is sufficient to prevent the problem in future) does not au
 
 
 Detail Notes
-Note: This "low-bar enlightenment" approach is ('democratically') broadly accessible to participants requiring minutes to learn rather than myriad lifetimes, does not require all-around perfection of person-ness, is not without context or does not require (somehow) all contexts, is not a reification that combines other abilities and insights to explain and solve all problems in all universes, nor does it include or require all possible types of consciousness, cognition, intelligence, etc.; "Low-bar enlightenment" is one humble step toward navigating the problem-space of problems and systems. 
+Note: This "low-bar enlightenment" approach is (~'democratically') broadly accessible to participants requiring minutes to learn rather than myriad lifetimes, does not require all-around perfection of person-ness, is not without context or does not require (somehow) all contexts, is not a reification that combines other abilities and insights to explain and solve all problems in all universes, nor does it include or require all possible types of consciousness, cognition, intelligence, etc.; "Low-bar enlightenment" is one humble step toward navigating the problem-space of problems and systems. 
 
 Note: There may be a limited way to generalize an understanding of perception-maintenance needs ( 'low bar enlightenment' ) to other participants in a way that is consistent with empathy-compassion. Extending an understanding of low bar enlightenment from only your own situation (perceptions, roles, projects, etc.) to being something that applies in a larger space (in which one participates with other participants) to all participants and all other parts of any and all projects (e.g. definitions, signals, perceptions, function-operations, participants, schedules, etc.)(including the effects and spread of system-failure between parts and between participants, between projects, etc.) is, if not sufficient for empathy-and-compassion in a broader or deeper sense, a consistent and concrete step to take towards acting with, or that is consistent-with acting-with, (action, behavior with) empathy-and-compassion, including an understanding of how empathy-compassion relates to STEM and interconnected-intersecting-interlocking areas.
 
@@ -210,6 +210,84 @@ Intersecting-Interlocking-Interconnecting-Areas include:
 	? Generalized feedback
 ? Generalized models, policies and best practice for errors & mistakes
 	? Generalized system-defense / system-epidemiology
+
+
+We can manage Definitions in Projects and STEM (version 2025 05 30)
+We can manage Categories of Types of Systems and Linearity
+We can manage Data-Types & Type-Strict/Type-Safe Code
+We can manage ~Data-Structures
+We can manage "Structured" vs. "Unstructured" Data
+
+# Contents / Areas:
+1. Categories of Types of Systems and Linearity
+2. Data-Types & Type-Strict/Type-Safe Code
+3. ~Data-Structures
+4. "Structured" vs. "Unstructured" Data
+
+There are a few levels of organization and clarification that are important for clearly defining the scope and goals of projects, for example so that you know in sufficient detail what you are dealing with, what you are doing, what processes are involved, and what tools you can use.
+
+As with STEM itself there is often, sadly, so far no clear shared vocabulary for these topics, but the topics are very real empirically and whatever they are called you will face them doing projects.
+
+For example, any policy or feature defining or described with the term/topic 'model explainability' should be clearly described in the areas outlined here.
+
+
+# 1. Categories of Types of Systems and Linearity:
+1. null-core
+2. jump-gap [null-core]
+3. one tree
+4. near off the one tree
+5. jump-gap [off-the-one-tree]
+6. (far) off the one tree
+
+Note: The role of 'statistics' in tethering the one-tree to the null-core.
+
+A key issue in miscommunication and misunderstandings around STEM is the assumption that there is a single kind of 'STEM-stuff,' which might by analogy be similar to a beginner programmer having trouble because they don't believe in 'data-types' or 'data-structures' thinking that all code is one uniform type of 'Code-stuff.' There is no single type of 'code-stuff' (though Python goes a good job of bridging types for non-production code) and there is no single type of 'STEM-stuff.'
+
+1. The null-core is the purely conceptual, tautological ('by-definition') area. Pure math and logic are here.
+
+3. The one-tree is an interlocking STEM aggregate structure of empirical and measurable world-phenomena that are sufficiently close to (especially simple and linear) null-core principles. It is a kind of functional-map that is one big interlocking tree of inter-operable definitions that sufficiently describes those patterns that are stable enough to be mapped. That this area is generally unified may give rise to the misunderstanding that all of STEM is one homogenous thing.
+
+2. There is an important gap between the null-core of concepts (which is rules floating in rule-space) and the one-tree of sufficient simple models pragmatically pasted over real-world empirical phenomena. This is a kind of cluster of blindspots and neglected definitions for most people but is absolutely crucial when doing projects. This is one area where the rubber meets the road, where conceptual models do or don't describe and help navigate reality. 'Statistics' is one of the arm-wavy dismissive terms used to wave-away this area, and 'statistics' is yet another punt: Is statistics math? logic? probability? empirical? conceptual? Doing projects you will need to navigate this jump-gap, and the tools needed such as statistics, and the definition problems (is what you need 'statistics' and what exactly does 'statistics' mean, or otherwise what exactly do you need even if there is no word or it?) and the social-cultural-psychological challenges which are a massive set-of-areas, for example the life's works of Daniel Kahneman and Amous Tversky are (if more that you can absorb in a lifetime) one of many pieces of this frontier quagmire).  
+
+4. Near-Off-The-One-Tree:
+The one-tree is often best defined as simple linear relationship, but as systems get nonlinear, dynamical, and even "chaotic." As empirical phenomena and models get less-linear, the coherence and utility of the one-tree (in short) breaks down. Near-off the one tree can be, and needs to be, described as an asset to the one-tree. 
+
+6. (Far)-Off-The-Nne-Tree is real and empirical but often not able to be modeled and connected to the one tree. This is a frontier in many respects.
+
+5. jump-gap [off-the-one-tree]
+One way (if provisional) of describing this area is that slightly non-linear behavior can still be effectively be connected to the one tree, such as mostly being described as linear (case by case the details of this likely vary a lot). But once phenomena are highly nonlinear (or highly whatever-problem) they cannot be cleanly connected to the one-tree and there is another jump-gap (or more likely a cluster of myriad types-of-jumpgaps for the many different ways something may not fit on the one tree). While the null-core-jump-gap is somewhat 'solved' and somewhat understood, this next jump-gap is something STEM professionals have struggled to articulate and describe from the late 1800's through the 1900's and beyond to time of writing in 2025.
+
+
+# 2. Data-Types & Type-Strict/Type-Safe Code:
+Whether or not you are dealing with code directly in your project
+
+Depending on your project, you may or may not be able to effectively lump-together data-types. For example, a non-production Python project requires less type-strictness, a production Rust project requires more type-strictness. Strictness is not always important in and of itself, but it can be essential depending on the details of a project. Neglecting this (in either direction) can result in total failure in a state of confusion and misunderstanding, which is bad.
+
+
+# 3. ~Data-Structures:
+- ~dict
+- json
+- hash-table
+- ~table
+
+Similar to data-types, data-structures vary across language and environment and across disciplines/professions. As with data-types, sometimes you need to be strict (sometimes you need to be flexible) depending on the details of the project. 
+
+
+# 4. Structured vs. Unstructured Data:
+- tabular-data
+- dictionary/hash-table data
+- ~"semi-structured"
+
+This is a crucial area in many projects but it has perhaps the worse lexicon and miscommunication and insufficient definitions are significant risks here.
+
+'Structured' data is roughly tabular or 'dictionary' data, but 'dictionary' is defined differently across and within various programming languages with no single overall lexicon.
+
+'semi-structured' language is confusingly used to refer to either dictionaries (as opposed to tables with rows and columns, even if the data-defined is identical) or to hybrid data such as json-dictionary that contains unstructured natural language.
+
+You will need to clearly describe your project manually, not being able to use a lexicon that does not exist.
+
+Note:
+Undefined terms (one might say 'undefined behaviors') such as the term 'complexity' and 'complex' are often lethally toxic in project management. These terms defy definition and are weapons of system-collapse whether wielded by incompetence, malice, or perhaps more often 'indeterminate incompetence and malice' (which is not even recognized by most people as the real threat and actor that it is). If you encounter such a term, require that it is clearly defined or prohibit its use in planning. "I don't know what I want and I don't know what I'm doing and I don't know what I'm talking about." is not a project plan, outline, or proposal regardless of how much lipstick is used to rephrase it.
 
 
 We can use system-fitness-health-status-indicators.
@@ -331,7 +409,7 @@ We can identify and distinguish bad investment vs. good investment.
 We can identify and distinguish junkfood vs. health-food.
 We can identify and distinguish bad habit vs. good habit.
 We can identify and distinguish nihilism vs. value function and meaning.
-We can identify and distinguish process vs. stochastic outcomes.
+We can identify and distinguish process vs. using stochastic outcomes for fantasy-reification-exploitation for sport-entertainment or addiction.
 
 We can navigate heterogeneity.
 we can (not automatically) learn to perceive and navigate heterogeneous landscapes and propensities to hallucinate causality and sustainability of systems and productivity. 
@@ -363,6 +441,7 @@ We can meet / deliver the needs of the target/user.
 We can make progress.
 
 We can make progress by using information about the behavior of definitions: This (topic) is System and Definition Behavior Studies, the field of study pertaining to the behavior of definitions. (These we-can goals-statements may be a measurable proxy-definition for 'progress.')
+
 
 Active-Learning Project/Activity 4:
 1. What factors may affect and shape agendas? 
