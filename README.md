@@ -5,7 +5,7 @@ https://medium.com/@GeoffreyGordonAshbrook/overview-of-a-definition-behavior-stu
 
 Overview of A Definition Behavior Studies Mnemonic
 Essay-Instructional Overview
- updated – 2025.11.17
+ updated – 2025.11.26
 
 Definition Behavior Studies is an interdisciplinary area of study, part Computer Science, statistical process analysis, hypothesis testing, Data Science, religious studies, ethics and mindfulness, and AI.
 
@@ -182,6 +182,26 @@ Note 5: There are many different kinds of non-automatic learning, or many ways t
 Note 6: There are many ways that perception data or process can be not-automatically-perceived and not-automatically-learned (and perhaps not easily externalized, communicated, and recorded). If a project is, however often and however visibly, failing in a way related to (or due entirely to) one of those not-perceived, not-learned, not communicated, areas, then that project may continue to fail in the same ways over and over indefinitely without with seeing how, learning how, or communicating about how, in the absence of any automatic process by which seeing, learning, or communicating would happen or be possible. (E.g. harmful effects of invisible radiation from something like radon-gas that in the past people had no way to detect or understand or learn or communicate about could occur over and over; the effective optical illusions of short-term vs. long term in planning and causality that are very significant barriers in perception, learning, and daily-life logistics and decision making blunders.
 
 Note 7: In some cases a 'proxy' might overlap such as avoiding the entire area or situation, but proxies and taboos in culture usually involve considerable deliberate effort to (at least attempt) to perceive, learn and teach.
+
+## Landscape:
+Given that perception is not automatic, many can probably start to trace out basic features of the definition landscape, though high quality models will take time, peer-reviewed study, and empirical research. E.g. We should be able to identify common categories and options for how perception can fail, and most likely this should agree with some historical observations about or trends in human behavior.
+
+For example task/skill of goal(task) identification is something that is known to be a process that can go wrong, but historical attempts to model this have been conspicuously insufficient (e.g. the comic-tragic extreme stances that 'everyone is always wrong' or 'everyone is always right' are plainly not credible, yet are strangely prominent (e.g. 1970's 'rational' individual and market ideology, and doom-hell-religiosity that labels everything is pejorative (if also passive-agressively or cynically denying that it is doing so, while also doing so). 
+
+Goal-Articulation is a skill/task that famously can go awry, from genie-in-the-lamp 'wished for the wrong thing over and over' stories to Dumbledore's "The trouble is, humans do have a knack of choosing precisely those things that are worst for them," to the general sun-moth-cargo-cult-fireworks-delight behavior of essentially worshiping the last-largest explosion, believing that it has caused and created everything, and that it is the only way to run everything: not the best administrative strategy for managing project areas, but it seems to be at least a mammalian stubbornly default perception. 
+
+To be a bit more concrete, the vague abstractions of 'power and greatness' tend to follow a Heike-Monogatari cycle, which arguably is also the plot of one of the oldest known stories of Gilgamesh: a strong-man picks the wrong goal, gets really pumped up believing they 'solved the universe', and then everything falls apart because they were clearly stupid, disconnected from reality, delusional, and their actions had real consequences that they were too short sighted and unskilled to understand.
+
+1. blunt event misrepresentation: moth to a flame
+2. nihilism, disinformation
+3. abstraction and reification-illusions
+4. hybrid fragments of categories of types of systems
+5. Escalating cycles of increasingly extreme abstraction or nihilism: extremism, radicalization as system-and definition epidemiology hygiene public-health situations to which no individual or population is innately immune (per se (a blind person is arguably immune to visual stimulation)). 
+
+
+And explicit explicitly topic of a concept of being, and capacity to be, able to learn to navigate this landscape of project and definition spaces and outcomes, and that this is an imperative or at least a prerequisite, and that this is inherently part of learning and education practices, is curiously sparse, missing, and slow to develop in human communications and records over the time and space of history, yet fragments of the concept of being able to learn to perceive and navigate are arguably nascent (or nascently explicit) in works such as Thomas Hobbes's Leviathan. 
+
+Also, this is not a one-way ratchet of progress: while an ambivalently-toxic concept of 'sport' thrill-seeking (usually ending in harm and loss) can develop into a constructive-learning-skill concept of 'sportsmanship,' the default equilibrium of toxic-sport-destruction continues to be the default, e.g. where learning is interrupted, ineffective, or too sparse. Non-automatic-learning does not cease to be non-automatic.
 
 It is practical and pragmatic to have a practical and pragmatic policy of deliberate learning and to ever more recognize the threats and challenges of non-automatic-learning and of proverbial (non-literal) samsara-cycles of collapse and failure that can repeat indefinately given ignorance or a lack of learning. But non-automatic learning does not mean tautologically impossible learning or precluded learning. Data do not support a literal samsara scenario where learning and navigation are impossible. We need to navigate our conceptions between the apparently attractive absolutes of simplistic absolute automatic perfect learning and rationalism and on the other hand simplistic absolute impossibility of learning; neither absolute fits the data well.
 
