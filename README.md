@@ -5,7 +5,7 @@ https://medium.com/@GeoffreyGordonAshbrook/overview-of-a-definition-behavior-stu
 
 Overview of A Definition Behavior Studies Mnemonic
 Essay-Instructional Overview
- updated – 2025.11.26
+ updated – 2025.12.16
 
 Definition Behavior Studies is an interdisciplinary area of study, part Computer Science, statistical process analysis, hypothesis testing, Data Science, religious studies, ethics and mindfulness, and AI.
 
@@ -179,7 +179,9 @@ Note: Low-bar enlightenment and or definition behavior studies may contradict th
 
 Note 5: There are many different kinds of non-automatic learning, or many ways that outcomes can be 'invisible,' from elusive past-future connections and non-obvious casual connections, to literally invisible events like radiation, to non-automatic skills such as literacy, to specific biases in a particular system (optical illusions, super-signals etc), to unclear sets of correlations (some of which are incidental), to sometimes confusing system spaces such as indeterminacy(incompetence and malice perhaps) and exponential-elbows(fractal static sometimes and dynamic changing sometimes). And more overtly there is opposition to recognizing the basic concepts themselves: the existence of the phenomena of non-automatic learning, of failures or imperfections in perception, of the existence of basic parts of an agile project, of both the importance of project management and risk of bad planning, the long history of psychological and social barriers to specific and general STEM concepts (including connecting areas of STEM (including by STEM professionals)), etc., even the general issue of not being able to easily see your own biases (or assumptions and context, "fish in water", "If all you have is a hammer, everything looks like a nail.", "It is difficult to get a man to understand something, when his salary depends on his not understanding it.”― Upton Sinclair). Input-output measure may be a helpful tool.
 
-Note 6: There are many ways that perception data or process can be not-automatically-perceived and not-automatically-learned (and perhaps not easily externalized, communicated, and recorded). If a project is, however often and however visibly, failing in a way related to (or due entirely to) one of those not-perceived, not-learned, not communicated, areas, then that project may continue to fail in the same ways over and over indefinitely without with seeing how, learning how, or communicating about how, in the absence of any automatic process by which seeing, learning, or communicating would happen or be possible. (E.g. harmful effects of invisible radiation from something like radon-gas that in the past people had no way to detect or understand or learn or communicate about could occur over and over; the effective optical illusions of short-term vs. long term in planning and causality that are very significant barriers in perception, learning, and daily-life logistics and decision making blunders.
+Note 6: There are many ways that perception data or process can be not-automatically-perceived and not-automatically-learned (and perhaps not easily externalized, communicated, and recorded). If a project is, however often and however visibly, failing in a way related to (or due entirely to) one of those not-perceived, not-learned, not communicated, areas, then that project may continue to fail in the same ways over and over indefinitely without with seeing how, learning how, or communicating about how, in the absence of any automatic process by which seeing, learning, or communicating would happen or be possible. (Examples may include 
+1. harmful effects of invisible radiation from something like radon-gas that in the past people had no way to detect or understand or learn or communicate about could occur over and over 
+2. the effects of optical illusions of short-term vs. long term in planning and causality that are very significant barriers in perception, learning, and daily-life logistics and decision making blunders.
 
 Note 7: In some cases a 'proxy' might overlap such as avoiding the entire area or situation, but proxies and taboos in culture usually involve considerable deliberate effort to (at least attempt) to perceive, learn and teach.
 
@@ -486,6 +488,7 @@ We can make progress.
 We can make progress by using information about the behavior of definitions: This (topic) is System and Definition Behavior Studies, the field of study pertaining to the behavior of definitions. (These we-can goals-statements may be a measurable proxy-definition for 'progress.')
 
 Unless you have a sufficient process and data-feedback management framework, you (your perceptions and actions) will by default be like a ghost ship drifting randomly at sea, or a flag flapping stochastically in the winds, driven not by data-informed choices based on perceptions of reality but by illusions, superstitions, and fantasies, all while believing that you are a rational-actor who is connected to reality and not a delusional and divorced from reality; from market signals to interpreting close at hand event outcomes, connection-to-reality and 'survival of mind' are not free and automatic, and minds untethered from reality are distorted and far from sanity and various respects.(2025 06 11)
+There are standard, common, observable paths that such dysfunction follows and indications by which it can and should be diagnosed. There should likewise be standard available practices and remediation solutions to treat the situation such as following the best practice that was not being followed (such as standard Project Areas) and actively increasing the non-automatic fitness and skill areas that have atrophied as a predictable-result of passivity, (as well as managing and monitoring disturbance regimes, out-of-regime-disturbance, chain reactions, defences and immune systems, etc.).
 
 
 Active-Learning Project/Activity 4:
@@ -888,7 +891,7 @@ For example:
 3. System inversion (is a standard data artifact)
 4. Basal distal disjunction (is a proxy(model) for (operationally defined system) 'violence')
 5. Negative choices and definitions (do not ignore them)
-6. Turning on and off (running) system processes ((for example) comparing policy from Roman Catholicism, South Korea, and Judaeica)
+6. Turning on and off (running) system processes ((for example) comparing policy from Roman Catholicism, South Korea, and Judaica)
 7. Half-dark dichotomies (more on that later)
 
 
@@ -1023,10 +1026,10 @@ I will work harder.
 
 
 
-Active Learning Project/Activity 11:
+## Active Learning Project/Activity 11:
 Use or create a routine to build and maintain a full "range of motion," 'yoga' for body, mind, and language, etc.
 
-Example:
+#### Example:
 1. Ethics and Projects: Definition Study Mnemonic
 2. Body: Parkinson's Body-Extension Exercises/Yoga
 https://github.com/lineality/parkinsons_resources 
@@ -1035,22 +1038,25 @@ https://github.com/lineality/parkinsons_resources
 Activity: Create and use your own system and use feedback and perception to find and communicate what methods work to maintain fitness. 
 
 
-Summary Brainstorm 1: concepts of improvement
+### Summary Brainstorm 1: concepts of improvement
 - naive positivism
 - equilibria
 - system collapse
 - positive and negative definition
 - cycles longevity, sequence
 
-Summary Brainstorm 2: STEM
+### Summary Brainstorm 2: STEM
 What is the nature of how parts of projects and STEM are (or are not) connected? What are categories of types of systems? How do systems, processes, projects, and definitions fail and collapse? Is there any interface between discussion of ethics, morals, even compassion and mindfulness, and the realm of systems and projects and STEM? What are mistakes? What does it mean to learn or course-correct based on mistakes? Can problem-with-perception be themselves perceived? Can obstacles to learning be overcome by learning about those obstacles? 
 
-Summary Brainstorm 3: Clear & Testable Definitions
+### Summary Brainstorm 3: Clear & Testable Definitions
 - What definitions are not sufficiently clear or testable?
 
-Summary Brainstorm 4: Ethical Fitness
+### Summary Brainstorm 4: Ethical Fitness
 The boyscout goal of keeping physically strong, mentally awake, and morally straight, is likely at least 2:3 clear as of 2024. Physical diet and exercise and healthy food are reasonably non-controversial. But 'daily ethical-exercise' is less clear in general terms. Brainstorm what methods and measures of daily ethics-fitness-training-exercise might look like.
 
+### Acknowledging Nuance and Being Wary of Oversimplification
+Regarding "6. Turning on and off (running) system processes ((for example) comparing policy from Roman Catholicism, South Korea, and Judaica)" 
+Brainstorm on general and specific examples of cases of starting or stopping a running process.  
 
 # Part 2. Implementation in Projects
 ### Six items for the use-case/context for Uma: 
@@ -1067,11 +1073,10 @@ Saying you want to coordinate around tasks, goals, and bits of information (such
 Even given all the technology in 2024, with the caveat that you can't use an expensive subscription service to make the problem go away (which may resemble a similar clear-web deep-web problem as well as simply cost) 
 
 ### Three Questions on Collaboration Tools.
-1. Timeline: Could Agile-Khaneman-Decision tools have been built in the 1960's?
-2. Features: What User-Features/Functionalities are needed for a project to use best-practice satisfying the standards of (if not using all methods of) Agile Agile-Khaneman-Tversky-Decision Project-Product Management?
-3. Tools: What tools are needed to effect what features? (E.g. In 2024 what if any tools could a non-clearweb business/ngo/institution/municipality/etc. use to effect 
+1. Features: What User-Features/Functionalities are needed for a project to use best-practice satisfying the standards of (if not using all methods of) Agile Agile-Khaneman-Tversky-Decision Project-Product Management?
+2. Tools: What tools are needed to affect what features? (E.g. In 2024 what if any tools could a non-clearweb business/ngo/institution/municipality/etc. use to effect 
 Administration and productivity tools Agile Agile-Kahneman-Tversky-Decision best practice Project-Product Management? [GGA answer: None that I know of in 2024])
-
+3. Timeline: Could Agile-Khaneman-Decision tools for project management have been built in the 1960's?
 
 Active Learning Project/Activity 12:
 ### Three Questions on Collaboration Tools.
