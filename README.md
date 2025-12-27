@@ -5,7 +5,7 @@ https://medium.com/@GeoffreyGordonAshbrook/overview-of-a-definition-behavior-stu
 
 Overview of A Definition Behavior Studies Mnemonic
 Essay-Instructional Overview
- updated – 2025.12.16
+ updated – 2025.12.27
 
 Definition Behavior Studies is an interdisciplinary area of study, part Computer Science, statistical process analysis, hypothesis testing, Data Science, religious studies, ethics and mindfulness, and AI.
 
@@ -192,7 +192,7 @@ For example task/skill of goal(task) identification is something that is known t
 
 Goal-Articulation is a skill/task that famously can go awry, from genie-in-the-lamp 'wished for the wrong thing over and over' stories to Dumbledore's "The trouble is, humans do have a knack of choosing precisely those things that are worst for them," to the general sun-moth-cargo-cult-fireworks-delight behavior of essentially worshiping the last-largest explosion, believing that it has caused and created everything, and that it is the only way to run everything: not the best administrative strategy for managing project areas, but it seems to be at least a mammalian stubbornly default perception. 
 
-To be a bit more concrete, the vague abstractions of 'power and greatness' tend to follow a Heike-Monogatari cycle, which arguably is also the plot of one of the oldest known stories of Gilgamesh: a strong-man picks the wrong goal, gets really pumped up believing they 'solved the universe', and then everything falls apart because they were clearly stupid, disconnected from reality, delusional, and their actions had real consequences that they were too short sighted and unskilled to understand.
+To be a bit more concrete, the vague abstractions of 'power and greatness' tend to follow a Heike-Monogatari cycle, which arguably is also the plot of one of the oldest known stories, Gilgamesh: a strong-man picks the wrong goal, gets really pumped up believing they 'solved the universe' (being fooled by illusions, tricked by misunderstanding causality based on reified entertainment stimulation in the short term) and in the long term everything falls apart because they were wrong, disconnected from reality, delusional, and their actions had real consequences that they were too short sighted, unskilled to understand.
 
 1. blunt event misrepresentation: moth to a flame
 2. nihilism, disinformation
@@ -200,10 +200,9 @@ To be a bit more concrete, the vague abstractions of 'power and greatness' tend 
 4. hybrid fragments of categories of types of systems
 5. Escalating cycles of increasingly extreme abstraction or nihilism: extremism, radicalization as system-and definition epidemiology hygiene public-health situations to which no individual or population is innately immune (per se (a blind person is arguably immune to visual stimulation)). 
 
-
 And explicit explicitly topic of a concept of being, and capacity to be, able to learn to navigate this landscape of project and definition spaces and outcomes, and that this is an imperative or at least a prerequisite, and that this is inherently part of learning and education practices, is curiously sparse, missing, and slow to develop in human communications and records over the time and space of history, yet fragments of the concept of being able to learn to perceive and navigate are arguably nascent (or nascently explicit) in works such as Thomas Hobbes's Leviathan. 
 
-Also, this is not a one-way ratchet of progress: while an ambivalently-toxic concept of 'sport' thrill-seeking (usually ending in harm and loss) can develop into a constructive-learning-skill concept of 'sportsmanship,' the default equilibrium of toxic-sport-destruction continues to be the default, e.g. where learning is interrupted, ineffective, or too sparse. Non-automatic-learning does not cease to be non-automatic.
+Learning is not a one-way ratchet of progress: while an ambivalently-toxic concept of 'sport' thrill-seeking (usually ending in harm and loss) can develop into a constructive-learning-skill concept of 'sportsmanship,' the default equilibrium of toxic-sport-destruction continues to be the default, e.g. where learning is interrupted, ineffective, or too sparse. Non-automatic-learning does not cease to be non-automatic.
 
 It is practical and pragmatic to have a practical and pragmatic policy of deliberate learning and to ever more recognize the threats and challenges of non-automatic-learning and of proverbial (non-literal) samsara-cycles of collapse and failure that can repeat indefinately given ignorance or a lack of learning. But non-automatic learning does not mean tautologically impossible learning or precluded learning. Data do not support a literal samsara scenario where learning and navigation are impossible. We need to navigate our conceptions between the apparently attractive absolutes of simplistic absolute automatic perfect learning and rationalism and on the other hand simplistic absolute impossibility of learning; neither absolute fits the data well.
 
@@ -266,6 +265,8 @@ Note: The role of 'statistics' in tethering the one-tree to the null-core.
 
 A key issue in miscommunication and misunderstandings around STEM is the assumption that there is a single kind of 'STEM-stuff,' which might by analogy be similar to a beginner programmer having trouble because they don't believe in 'data-types' or 'data-structures' thinking that all code is one uniform type of 'Code-stuff.' There is no single type of 'code-stuff' (though Python goes a good job of bridging types for non-production code) and there is no single type of 'STEM-stuff.'
 
+(Note, the following list is deliberately out of order for explanation-clarity.)
+
 1. The null-core is the purely conceptual, tautological ('by-definition') area. Pure math and logic are here.
 
 3. The one-tree is an interlocking STEM aggregate structure of empirical and measurable world-phenomena that are sufficiently close to (especially simple and linear) null-core principles. It is a kind of functional-map that is one big interlocking tree of inter-operable definitions that sufficiently describes those patterns that are stable enough to be mapped. That this area is generally unified may give rise to the misunderstanding that all of STEM is one homogenous thing.
@@ -273,9 +274,9 @@ A key issue in miscommunication and misunderstandings around STEM is the assumpt
 2. There is an important gap between the null-core of concepts (which is rules floating in rule-space) and the one-tree of sufficient simple models pragmatically pasted over real-world empirical phenomena. This is a kind of cluster of blindspots and neglected definitions for most people but is absolutely crucial when doing projects. This is one area where the rubber meets the road, where conceptual models do or don't describe and help navigate reality. 'Statistics' is one of the arm-wavy dismissive terms used to wave-away this area, and 'statistics' is yet another punt: Is statistics math? logic? probability? empirical? conceptual? Doing projects you will need to navigate this jump-gap, and the tools needed such as statistics, and the definition problems (is what you need 'statistics' and what exactly does 'statistics' mean, or otherwise what exactly do you need even if there is no word or it?) and the social-cultural-psychological challenges which are a massive set-of-areas, for example the life's works of Daniel Kahneman and Amous Tversky are (if more that you can absorb in a lifetime) one of many pieces of this frontier quagmire).  
 
 4. Near-Off-The-One-Tree:
-The one-tree is often best defined as simple linear relationship, but as systems get nonlinear or dynamical. As empirical phenomena and models get less-linear, the coherence and utility of the one-tree (in short) breaks down. Near-off the one tree can be, and needs to be, described as an asset to the one-tree. 
+The one-tree is often best defined as an interlocking set of simple linear relationships (or sufficiently approximated as linear). Let's think of a spectrum of more or less linear systems: More-linear systems fit most cleanly and completely onto the 'one-tree' of stem. But as we move further along the spectrum to systems that are  more nonlinear (dynamical, etc.), the more difficult it is to fit those systems onto the one-tree. As the empirical phenomena and models become less-linear, the coherence and utility of the one-tree breaks down. So an important area of techniques is finding various methods to increase what is 'close enough' or what can be bridged and translated to the one-tree. This not-too-far-off or "Near-off" the one-tree can be, and needs to be, described as an asset to the one-tree. 
 
-6. (Far)-Off-The-Nne-Tree is real and empirical but often not able to be modeled and connected to the one tree. This is a frontier in many respects.
+6. (Far)-Off-The-One-Tree is real and empirical but often not able to be modeled and connected to the one tree. This is a frontier in many respects.
 
 5. jump-gap [off-the-one-tree]
 One way (if provisional) of describing this area is that slightly non-linear behavior can still be effectively be connected to the one tree, such as mostly being described as linear (case by case the details of this likely vary a lot). But once phenomena are highly nonlinear (or highly whatever-problem) they cannot be cleanly connected to the one-tree and there is another jump-gap (or more likely a cluster of myriad types-of-jumpgaps for the many different ways something may not fit on the one tree). While the null-core-jump-gap is somewhat 'solved' and somewhat understood, this next jump-gap is something STEM professionals have struggled to articulate and describe from the late 1800's through the 1900's and beyond to time of writing in 2025.
@@ -301,11 +302,11 @@ Similar to data-types, data-structures vary across language and environment and 
 - dictionary/hash-table data
 - ~"semi-structured"
 
-This is a crucial area in many projects but it has perhaps the worse lexicon and miscommunication and insufficient definitions are significant risks here.
+This is a crucial area in many projects but it has perhaps the worst lexicon and miscommunication and insufficient definitions are significant risks here.
 
 'Structured' data is roughly tabular or 'dictionary' data, but 'dictionary' is defined differently across and within various programming languages with no single overall lexicon.
 
-'semi-structured' language is confusingly used to refer to either dictionaries (as opposed to tables with rows and columns, even if the data-defined is identical) or to hybrid data such as json-dictionary that contains unstructured natural language.
+'Semi-structured' language is confusingly used to refer to either dictionaries (as opposed to tables with rows and columns, even if the data-defined is identical) or to hybrid data such as json-dictionary that contains unstructured natural language.
 
 
 # 5. Project-Areas & Coordinated-Decisions:
@@ -326,7 +327,7 @@ You will need to clearly describe your project manually, not being able to use a
 
 
 Note:
-Undefined terms (one might say 'undefined behaviors') such as the term 'complexity' and 'complex' are usually detrimental in project-definition and clear process management. Undefined and undefinable terms increase a risk of system-collapse whether wielded by incompetence, malice, or perhaps more often 'indeterminate incompetence and malice' (which is not even recognized by most people as the real threat and actor that it is). If you encounter such a term, require that it is clearly defined or prohibit its use in planning. "I don't know what I want and I don't know what I'm doing and I don't know what I'm talking about." is not a project plan, outline, or proposal regardless of how much lipstick is used to characterize it a transparent report on the above very commonly required definition areas.
+Undefined terms (one might say 'undefined behaviors') such as the term 'complexity' and 'complex' are usually detrimental in project-definition and clear process management. Undefined and undefinable terms increase a risk of system-collapse whether wielded by incompetence, malice, or perhaps more often 'indeterminate incompetence and malice' (which is often not recognized as existing). If you encounter such a term, require that it is clearly defined or prohibit its use in planning. "I don't know what I want, and I don't know what I'm doing and, I don't know what I'm talking about." is not a project plan, outline, or proposal regardless of how much lipstick is used to characterize it a transparent report on the above very commonly required definition areas.
 
 
 We can use system-fitness-health-status-indicators.
@@ -388,21 +389,23 @@ We can map and model
 We can make decisions, conclusions, plans, etc.
 
 Project Areas:
-We can identify project areas where when undefined will cause the project to fail and become a liability most of the time, often for unobserved and misunderstood reasons (self-referentially due to mis-alignment.
-We can more identify more abstract higher level project areas such as: 
-- Aligned 
-- Hygienic 
-- Coordinated/Collaborative 
-- Data-STEM 
-- Productive 
-- Projects
+We can identify project areas that when undefined will cause the project to fail and become a liability most of the time, often for unobserved and misunderstood reasons, often involving cascades of failed perception and communication (termed "mis-alignment") where perceptions of different people drift apart from both those of other people and from reality itself.
+
+We can more identify project areas priorities such as: 
+- Alignment 
+- data/information hygiene 
+- Coordination/Collaboration 
+- Data-STEM connection or definition
+- Productivity
+- Project contexts and project-object databases
+
 We can identify specific project definition and coordination areas such as:
-- Process: Workflow Type, STEM Integration, Values, Agenda, Methods, Coordinated Decisions, (Data/System)Ecology: Collapse & Productivity (default option: Agile, Kahneman-Tversky, Definition-Studies)
-- Schedule: (Duration; Start date)
-- Users: Stakeholders & Needs & Goals Evaluation (of users) 
-- Features: User-Features & Subfeatures/Under-The-Hood Features
-- MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'
-- Feedback_Learning: Learning, Tests, Communication, Signals, Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~agile)
+1. Process: Workflow Type, STEM Integration, Values, Agenda, Methods, Coordinated Decisions, (Data/System)Ecology: Collapse & Productivity (default option: Agile, Kahneman-Tversky, Definition-Studies)
+2. Schedules: (Duration; Start date)
+3. Users: Stakeholders & Needs & Goals Evaluation (of users) 
+4. Features: User-Features & Subfeatures/Under-The-Hood Features
+5. MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'
+6. Feedback_Learning: Learning, Tests, Communication, Signals, Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~agile)
 We can communicate about, coordinate about, and align reasonably on specific project definition areas and prevent projects from failing and turning into liabilities for misunderstood, unobserved, undocumented, reasons over and over in endless cycles of failure due to preventable ignorance and blindness.
 
 We can manage Alignment (with reality) vs. Misalignment (with reality) or disconnection (from reality) including: 
@@ -1070,7 +1073,7 @@ Brainstorm on general and specific examples of cases of starting or stopping a r
 "Easy things are hard."
 Saying you want to coordinate around tasks, goals, and bits of information (such as blurbs, notes and message) sounds easy, but it is not only difficult but invisibly difficult.
 
-Even given all the technology in 2024, with the caveat that you can't use an expensive subscription service to make the problem go away (which may resemble a similar clear-web deep-web problem as well as simply cost) 
+Even given all the technology in 2024, with the caveat that you cannot use an expensive subscription service to make the problem go away (which may resemble a similar clear-web deep-web problem as well as simply cost): 
 
 ### Three Questions on Collaboration Tools.
 1. Features: What User-Features/Functionalities are needed for a project to use best-practice satisfying the standards of (if not using all methods of) Agile Agile-Khaneman-Tversky-Decision Project-Product Management?
