@@ -5,7 +5,7 @@ https://medium.com/@GeoffreyGordonAshbrook/overview-of-a-definition-behavior-stu
 
 Overview of A Definition Behavior Studies Mnemonic
 Essay-Instructional Overview
- updated – 2025.12.27
+ updated – 2025.12.28
 
 Definition Behavior Studies is an interdisciplinary area of study, part Computer Science, statistical process analysis, hypothesis testing, Data Science, religious studies, ethics and mindfulness, and AI.
 
@@ -16,16 +16,17 @@ What is the agenda?
 What are the goals and modus operandi? 
 What is the goals-means-method statement (in a project-context, with project-participants)?
 
-1. Principles & Concepts
-2. Implementation in Projects
-### Six items for the use-case/context for Uma: 
-- Aligned 
-- Hygienic 
-- Coordinated/Collaborative 
-- Data-STEM 
-- Productive 
-- Projects
-### Three Questions on Collaboration Tools.
+1. Part 1: Principles & Concepts of Definition Studies
+2. Implementation of Tools for Doing Projects
+### Conceptual items for the use-case/context for Collaborating on Projects: 
+- Alignment
+- Hygiene
+- Coordination & Collaboration 
+- STEM & Data 
+- Production and Productivity 
+- Values, Morals, & Ethics
+### Project Areas that should be well defined  
+### Three Questions on Collaboration Tools:
 1. Timeline
 2. Features
 3. Tools
@@ -41,11 +42,13 @@ What is the goals-means-method statement (in a project-context, with project-par
 - Externalization
 
 
-
-Non-Automatic-Learning, Active-Learning, Project-Based Learning:
+## Non-Automatic-Learning, Active-Learning, Project-Based Learning:
 'The person who does the articulation does the learning; passive observers do not learn: 'Direct instruction' is backwards."
 
-Intertwined: not separate, not sequential
+
+## Active Learning and Areas Intertwined With Learning: not separate, not sequential
+The rule of thumb that 'The person who does the talking does the learning.' has the right idea but we can and should add more detail to this basic observation that being active and articulating-language is part of learning. Here is an example of four areas, which can still be further elaborated on.
+
 1. Articulation and Expression: verbal, written, diagrams, pictorial-visual, etc. (also see input output measures): any 
 communication signal production. (any of myriad categories of signals)
 
@@ -53,13 +56,15 @@ communication signal production. (any of myriad categories of signals)
 
 3. Perception
 
-4. Formation of thoughts, decisions, conclusions, plans, etc. (conspicuous proxy)
+4. Mapping, modeling, decision-making, forming conclusions, planning, initiative-taking, leadership, etc. (assorted areas lumped together here)
 
-All are entwined with articulation; without articulation, the others are sub-optimal.
+The above areas are entwined, for example: they are entwined with articulation; without articulation, the others are sub-optimal.
 
-Chemistry-Analogy for non-automatic equilibrium and a topology of equilibria in systems, in this case: collaboration, project-management, productivity, and coordinated decisions. 
+A Chemistry-Analogy for non-automatic equilibrium and a topology of equilibria in systems: Collaboration, project-management, productivity, coordinated decisions, and navigating system-spaces, project-spaces, and problem-spaces can be subject to default passive equilibria or can with investment and catalysts (and perhaps some luck and time) find non-passive equilibria. As we will see, the passive equilibria tend to be system collapse and dissolution, and the invested-in equilibria that must be worked-for include membrane and functionality formation and make productivity possible. 
 
-Warmup Brainstorm 1: concepts of improvement
+(Projects and learning seem to be inherently related.)
+
+Warmup Brainstorm 1: concepts relating to improvement
 - naive positivism
 - equilibria
 - system collapse
@@ -371,7 +376,7 @@ We can monitor the system-health-fitness or system-collapse of the project.
 We can connect metrics for habitability and sustainability to project management.
 
 Goals & Scope Alignment: definition items 
-We can align in main areas where a lack of alignment routines causes problems, which is a focus an impetus in some versions of/approaches to 'agile.'
+We can align in main areas where a lack of alignment routines causes problems, which is a focus and impetus in some versions of/approaches to 'agile.'
 We can align on - Process, Values, Agenda: [Data/System]Ecology: Collapse & Productivity
 We can align on - Schedule: (?; whole; this iteration)
 We can align on - Users: Stakeholders & Needs & Goals Evaluation (of users) 
@@ -393,10 +398,11 @@ We can identify project areas that when undefined will cause the project to fail
 
 We can more identify project areas priorities such as: 
 - Alignment 
-- data/information hygiene 
+- Data/information hygiene 
 - Coordination/Collaboration 
 - Data-STEM connection or definition
 - Productivity
+- Values, morals, & ethics
 - Project contexts and project-object databases
 
 We can identify specific project definition and coordination areas such as:
