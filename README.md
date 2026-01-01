@@ -5,49 +5,60 @@ https://medium.com/@GeoffreyGordonAshbrook/overview-of-a-definition-behavior-stu
 
 Overview of A Definition Behavior Studies Mnemonic
 Essay-Instructional Overview
- updated – 2025.12.28
+ updated – 2026.01.01
 
 Definition Behavior Studies is an interdisciplinary area of study, part Computer Science, statistical process analysis, hypothesis testing, Data Science, religious studies, ethics and mindfulness, and AI.
 
 System and definition behavior studies is the field of study pertaining to the behavior of definitions, in particular collapse behaviors in a context of general system collapse. 
 
 This is an inquiry based approach where we learn by asking questions and where we ask the difficult questions. 
-What is the agenda?
-What are the goals and modus operandi? 
-What is the goals-means-method statement (in a project-context, with project-participants)?
+- What is the agenda?
+- What are the goals and modus operandi? 
+- What is the goals-means-method statement (in a project-context, with project-participants)?
 
-1. Part 1: Principles & Concepts of Definition Studies
-2. Implementation of Tools for Doing Projects
-### Conceptual items for the use-case/context for Collaborating on Projects: 
-- Alignment
-- Hygiene
-- Coordination & Collaboration 
-- STEM & Data 
-- Production and Productivity 
-- Values, Morals, & Ethics
-### Project Areas that should be well defined  
-### Three Questions on Collaboration Tools:
-1. Timeline
-2. Features
-3. Tools
+## Sections:
+1. Part One: Principles & Concepts of Definition Studies
+- statement of agenda and values (as 'we can' statements)
+- Four sections of definition-behavior-studies analysis:
+ -- 1.  Value Statements
+ -- 2.  Clarification Statements (for contracts)
+ -- 3.  Standard Error and Damage Report (in four subsections)
+ -- 4.  Macro-Model
 
+2. Part Two: Implementation of Tools for Doing Projects
+- Conceptual Use-case/Context Items/Areas for Collaborating on Projects: 
+ -- Alignment
+ -- Hygiene
+ -- Coordination & Collaboration 
+ -- STEM & Data 
+ -- Production and Productivity 
+ -- Values, Morals, & Ethics
+- Project Areas that should be well defined  
+- Three Questions on Collaboration Tools:
+ -- 1. Timeline
+ -- 2. Features
+ -- 3. Tools
 
 # Best Practice
-## Definition Behavior & System Collapse
-## Tools for Project Management (non-collapsing projects)
-- Alignments
-- Scope
-- Tasks
-- Needs & Goals Definitions (not process reification illusion or goal reification illusion)
-- Externalization
 
+## Definition Behavior & System Collapse
+
+## Tools for Projects (non-collapse)
+Projects, and the tools and techniques needed to carry out projects, are more than just good examples of systems and definitions in the real world. While STEM may have started without a clear focus on project management and product management and also without even a rough concept of the different areas of STEM, both facilitating projects across STEM areas and facilitating projects themselves will be practical and useful steps for learning, getting things done, and not reverting to a square-one one of impotent ignorance. Important areas related to projects include:
+- Alignment
+- Scope Definition
+- Task Definition
+- Needs & Goals Definitions (not process-reification, fantasy-illusion, or goal-reification, that is disconnected from reality)
+- Externalization
+- Decisions & Coordination
 
 ## Non-Automatic-Learning, Active-Learning, Project-Based Learning:
-'The person who does the articulation does the learning; passive observers do not learn: 'Direct instruction' is backwards."
+- "The person who does the articulation does the learning"
+- passive observers do not learn
+- 'Direct instruction' is backwards
 
-
-## Active Learning and Areas Intertwined With Learning: not separate, not sequential
-The rule of thumb that 'The person who does the talking does the learning.' has the right idea but we can and should add more detail to this basic observation that being active and articulating-language is part of learning. Here is an example of four areas, which can still be further elaborated on.
+### Active Learning and Areas Intertwined With Learning: not separate, not sequential
+The rule of thumb that 'The person who does the talking does the learning.' has the right idea but we can and should take this pattern further and add more detail to the basic observation that being active and articulating-language is part of learning. Here is an example of four areas (which can still be further elaborated on, but four-areas may be a decent starting point):
 
 1. Articulation and Expression: verbal, written, diagrams, pictorial-visual, etc. (also see input output measures): any 
 communication signal production. (any of myriad categories of signals)
@@ -60,9 +71,9 @@ communication signal production. (any of myriad categories of signals)
 
 The above areas are entwined, for example: they are entwined with articulation; without articulation, the others are sub-optimal.
 
-A Chemistry-Analogy for non-automatic equilibrium and a topology of equilibria in systems: Collaboration, project-management, productivity, coordinated decisions, and navigating system-spaces, project-spaces, and problem-spaces can be subject to default passive equilibria or can with investment and catalysts (and perhaps some luck and time) find non-passive equilibria. As we will see, the passive equilibria tend to be system collapse and dissolution, and the invested-in equilibria that must be worked-for include membrane and functionality formation and make productivity possible. 
+As a Chemistry-Analogy for non-automatic equilibrium and a topology of equilibria in systems: Collaboration, project-management, productivity, coordinated decisions, and navigating system-spaces, project-spaces, and problem-spaces can be subject to default passive equilibria or they can, with investment and catalysts (and perhaps some luck and time), find different non-passive, non-default, equilibria. As we will see, the passive equilibria tend to be or lead to system collapse and dissolution of systems and definitions. The invested-in equilibria that must be worked-for include membrane and functionality formation and make productivity possible. 
 
-(Projects and learning seem to be inherently related.)
+(Note: Projects and learning seem to be inherently related.)
 
 Warmup Brainstorm 1: concepts relating to improvement
 - naive positivism
@@ -997,7 +1008,7 @@ accretion
 
 
 4.4 Hospital-Areas & Modeling Areas:
-4.4.1  Hopital areas:
+4.4.1  Hospital areas:
 - system helping healing repair
 - looking for lost elements
 - disentangling good and bad elements
@@ -1101,4 +1112,4 @@ What are the time-line curiosities here?
 e.g. STEM timeline
 +
 4. Are tools for features pragmatically available in 2024?
-5. What is the role of 'technology,' as in the 1936 paper outlining a turing machine. 
+5. What is the role of 'technology,' as in the 1936 paper outlining a turing machine.
