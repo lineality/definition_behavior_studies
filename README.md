@@ -5,7 +5,7 @@ https://medium.com/@GeoffreyGordonAshbrook/overview-of-a-definition-behavior-stu
 
 Overview of A Definition Behavior Studies Mnemonic
 Essay-Instructional Overview
- updated – 2026.01.01
+ updated – 2026.01.02
 
 Definition Behavior Studies is an interdisciplinary area of study, part Computer Science, statistical process analysis, hypothesis testing, Data Science, religious studies, ethics and mindfulness, and AI.
 
@@ -287,7 +287,7 @@ A key issue in miscommunication and misunderstandings around STEM is the assumpt
 
 3. The one-tree is an interlocking STEM aggregate structure of empirical and measurable world-phenomena that are sufficiently close to (especially simple and linear) null-core principles. It is a kind of functional-map that is one big interlocking tree of inter-operable definitions that sufficiently describes those patterns that are stable enough to be mapped. That this area is generally unified may give rise to the misunderstanding that all of STEM is one homogenous thing.
 
-2. There is an important gap between the null-core of concepts (which is rules floating in rule-space) and the one-tree of sufficient simple models pragmatically pasted over real-world empirical phenomena. This is a kind of cluster of blindspots and neglected definitions for most people but is absolutely crucial when doing projects. This is one area where the rubber meets the road, where conceptual models do or don't describe and help navigate reality. 'Statistics' is one of the arm-wavy dismissive terms used to wave-away this area, and 'statistics' is yet another punt: Is statistics math? logic? probability? empirical? conceptual? Doing projects you will need to navigate this jump-gap, and the tools needed such as statistics, and the definition problems (is what you need 'statistics' and what exactly does 'statistics' mean, or otherwise what exactly do you need even if there is no word or it?) and the social-cultural-psychological challenges which are a massive set-of-areas, for example the life's works of Daniel Kahneman and Amous Tversky are (if more that you can absorb in a lifetime) one of many pieces of this frontier quagmire).  
+2. There is an important gap between the null-core of concepts (which is rules floating in rule-space) and the one-tree of sufficient simple models pragmatically pasted over real-world empirical phenomena. This is a kind of cluster of blindspots and neglected definitions for most people but is absolutely crucial when doing projects. This is one area where the rubber meets the road, where conceptual models do or don't describe and help navigate reality. 'Statistics' is one of the arm-wavy dismissive terms used to wave-away this area, and 'statistics' is yet another punt: Is statistics math? logic? probability? empirical? conceptual? Doing projects you will need to navigate this jump-gap, and the tools needed such as statistics, and the definition problems (is what you need 'statistics' and what more specifically does 'statistics' mean, or otherwise what do you need even if there is no word for it?) and the social-cultural-psychological challenges which are a massive set-of-areas, for example the life's works of Daniel Kahneman and Amous Tversky are (if more that you can absorb in a lifetime) one of many pieces of this frontier quagmire).  
 
 4. Near-Off-The-One-Tree:
 The one-tree is often best defined as an interlocking set of simple linear relationships (or sufficiently approximated as linear). Let's think of a spectrum of more or less linear systems: More-linear systems fit most cleanly and completely onto the 'one-tree' of stem. But as we move further along the spectrum to systems that are  more nonlinear (dynamical, etc.), the more difficult it is to fit those systems onto the one-tree. As the empirical phenomena and models become less-linear, the coherence and utility of the one-tree breaks down. So an important area of techniques is finding various methods to increase what is 'close enough' or what can be bridged and translated to the one-tree. This not-too-far-off or "Near-off" the one-tree can be, and needs to be, described as an asset to the one-tree. 
@@ -432,6 +432,7 @@ We can manage Alignment (with reality) vs. Misalignment (with reality) or discon
 - We can distinguish and make judgements between instrumentalist and realist interpretations and goals.
 
 We can communicate and coordinate in these areas and ways: 
+We can communicate across participants, for example accomplishing coordination and coordinated decisions, for example using externalization of data.
 We can communicate across space.
 We can communicate across time.
 We can communicate across cultures.
