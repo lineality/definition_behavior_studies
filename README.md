@@ -5,7 +5,7 @@ https://medium.com/@GeoffreyGordonAshbrook/overview-of-a-definition-behavior-stu
 
 Overview of A Definition Behavior Studies Mnemonic
 Essay-Instructional Overview
- updated – 2026.01.02
+ updated – 2026.01.04
 
 Definition Behavior Studies is an interdisciplinary area of study, part Computer Science, statistical process analysis, hypothesis testing, Data Science, religious studies, ethics and mindfulness, and AI.
 
@@ -345,7 +345,6 @@ You will need to clearly describe your project manually, not being able to use a
 Note:
 Undefined terms (one might say 'undefined behaviors') such as the term 'complexity' and 'complex' are usually detrimental in project-definition and clear process management. Undefined and undefinable terms increase a risk of system-collapse whether wielded by incompetence, malice, or perhaps more often 'indeterminate incompetence and malice' (which is often not recognized as existing). If you encounter such a term, require that it is clearly defined or prohibit its use in planning. "I don't know what I want, and I don't know what I'm doing and, I don't know what I'm talking about." is not a project plan, outline, or proposal regardless of how much lipstick is used to characterize it a transparent report on the above very commonly required definition areas.
 
-
 We can use system-fitness-health-status-indicators.
 We can use system-defense to prevent collapse.
 We can design systems to protect against system collapse. (e.g. we can construct system-membranes)
@@ -388,13 +387,12 @@ We can connect metrics for habitability and sustainability to project management
 
 Goals & Scope Alignment: definition items 
 We can align in main areas where a lack of alignment routines causes problems, which is a focus and impetus in some versions of/approaches to 'agile.'
-We can align on - Process, Values, Agenda: [Data/System]Ecology: Collapse & Productivity
-We can align on - Schedule: (?; whole; this iteration)
+We can align on - Process, Values, and Agenda: [Data/System]Ecology: Collapse & Productivity
+We can align on - Schedules: (We can test and evaluate problems with schedule perception.)
 We can align on - Users: Stakeholders & Needs & Goals Evaluation (of users) 
 We can align on - Features: User-Features & Subfeatures (or hidden features) 
-We can align on - Scope: MVPs (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'
+We can align on - MVP Targets (Minimum Viable Product Targets); Tools & 'Tool Stack / Tech Stack'
 We can align on - Feedback: Tests, Ecological Effects, Communication & Iteration
-
 
 Intertwined Parts of Learning
 We can manage intertwined parts of learning individually and in coordination.
