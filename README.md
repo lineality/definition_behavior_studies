@@ -5,7 +5,7 @@ https://medium.com/@GeoffreyGordonAshbrook/overview-of-a-definition-behavior-stu
 
 Overview of A Definition Behavior Studies Mnemonic
 Essay-Instructional Overview
- updated – 2026.01.04
+ updated – 2026.01.06
 
 Definition Behavior Studies is an interdisciplinary area of study, part Computer Science, statistical process analysis, hypothesis testing, Data Science, religious studies, ethics and mindfulness, and AI.
 
@@ -131,7 +131,7 @@ We can use "low-bar enlightenment."
 We can extend into or maintain a full range of motion, not only contraction(reducing/narrowing).
 We can participate to complete projects.
 We can learn from and correct the mistakes of the past.
-We can use and understand the effects of perception and abstraction.
+We can use and understand the effects of perception and abstraction (including how and where perception and abstraction affect, effect, interfere with or disturb what is being observed).
 We can make and use tools and resources.
 We can use feedback, testability, measurability, & definability.
 We can use patterns, protocols, and processes for and with skills, abilities, and learning. 
@@ -393,6 +393,15 @@ We can align on - Users: Stakeholders & Needs & Goals Evaluation (of users)
 We can align on - Features: User-Features & Subfeatures (or hidden features) 
 We can align on - MVP Targets (Minimum Viable Product Targets); Tools & 'Tool Stack / Tech Stack'
 We can align on - Feedback: Tests, Ecological Effects, Communication & Iteration
+
+We can learn to recognize and solve the most-common types of problems, especially where problems are are invisible by default but assumed to be automatically-visible, and where problems require active solutions but are assumed to be automatically self-fixing: (such as)
+- cyclic invisible recurring problems
+- returning to square one
+- schedule problems
+- mis-alignment problems
+- decision problems
+- definition problems (including CS data-types, broader STEM categories of types of systems, project-area definitions, goal definitions, etc.)
+- collapse of systems and definitions
 
 Intertwined Parts of Learning
 We can manage intertwined parts of learning individually and in coordination.
