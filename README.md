@@ -210,11 +210,14 @@ Goal-Articulation is a skill/task that famously can go awry, from genie-in-the-l
 
 To be a bit more concrete, the vague abstractions of 'power and greatness' tend to follow a Heike-Monogatari cycle, which arguably is also the plot of one of the oldest known stories, Gilgamesh: a strong-man picks the wrong goal, gets really pumped up believing they 'solved the universe' (being fooled by illusions, tricked by misunderstanding causality based on reified entertainment stimulation in the short term) and in the long term everything falls apart because they were wrong, disconnected from reality, delusional, and their actions had real consequences that they were too short sighted, unskilled to understand.
 
-1. blunt event misrepresentation: moth to a flame
-2. nihilism, disinformation
-3. abstraction and reification-illusions
-4. hybrid fragments of categories of types of systems
-5. Escalating cycles of increasingly extreme abstraction or nihilism: extremism, radicalization as system-and definition epidemiology hygiene public-health situations to which no individual or population is innately immune (per se (a blind person is arguably immune to visual stimulation)). 
+1. event and causality misapprehension and misrepresentation: moth to a flame; traumatizing shocks and random-sport-gambling entertainment mis-perceived as causing productivity and skill acquisition making thrill-sport the goal
+2. replacement of STEM rigor with populist nihilism & disinformation
+3. abstraction and reification-illusions: erosion of perception and skills as perceived mystical causality from random sport-win chaotic outcomes becomes entrenched, habitual, learned, and institutionalized
+4. hybrid fragments of categories of types of systems: fantasy over STEM
+5. Escalating cycles of increasingly extreme thrill-seeking, risk-taking, and disconnection from reality. 
+
+
+Extremism and radicalization are system-and-definition epidemiology hygiene public-health situations to which no individual or population is innately immune. 
 
 And explicit explicitly topic of a concept of being, and capacity to be, able to learn to navigate this landscape of project and definition spaces and outcomes, and that this is an imperative or at least a prerequisite, and that this is inherently part of learning and education practices, is curiously sparse, missing, and slow to develop in human communications and records over the time and space of history, yet fragments of the concept of being able to learn to perceive and navigate are arguably nascent (or nascently explicit) in works such as Thomas Hobbes's Leviathan. 
 
