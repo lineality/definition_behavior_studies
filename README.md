@@ -5,7 +5,7 @@ https://medium.com/@GeoffreyGordonAshbrook/overview-of-a-definition-behavior-stu
 
 Overview of A Definition Behavior Studies Mnemonic
 Essay-Instructional Overview
- updated – 2026.01.06
+ updated – 2026.01.28
 
 Definition Behavior Studies is an interdisciplinary area of study, part Computer Science, statistical process analysis, hypothesis testing, Data Science, religious studies, ethics and mindfulness, and AI.
 
@@ -208,7 +208,7 @@ For example task/skill of goal(task) identification is something that is known t
 
 Goal-Articulation is a skill/task that famously can go awry, from genie-in-the-lamp 'wished for the wrong thing over and over' stories to Dumbledore's "The trouble is, humans do have a knack of choosing precisely those things that are worst for them," to the general sun-moth-cargo-cult-fireworks-delight behavior of essentially worshiping the last-largest explosion, believing that it has caused and created everything, and that it is the only way to run everything: not the best administrative strategy for managing project areas, but it seems to be at least a mammalian stubbornly default perception. 
 
-To be a bit more concrete, the vague abstractions of 'power and greatness' tend to follow a Heike-Monogatari cycle, which arguably is also the plot of one of the oldest known stories, Gilgamesh: a strong-man picks the wrong goal, gets really pumped up believing they 'solved the universe' (being fooled by illusions, tricked by misunderstanding causality based on reified entertainment stimulation in the short term) and in the long term everything falls apart because they were wrong, disconnected from reality, delusional, and their actions had real consequences that they were too short sighted, unskilled to understand.
+To be a bit more concrete: Vague perception-abstractions of 'power and greatness' tend to follow a Heike-Monogatari cycle, which arguably is also the plot of one of the oldest known stories, Gilgamesh: a strong-man picks the wrong goal, gets really pumped up believing he 'solved the universe' (being fooled by illusions, tricked by misunderstanding causality based on reified entertainment stimulation in the short term) and in the long term everything falls apart because he was was wrong, disconnected from reality, delusional, and his actions had real consequences that he was too short sighted and unskilled to understand.
 
 1. event and causality misapprehension and misrepresentation: moth to a flame; traumatizing shocks and random-sport-gambling entertainment mis-perceived as causing productivity and skill acquisition making thrill-sport the goal
 2. replacement of STEM rigor with populist nihilism & disinformation
@@ -518,7 +518,7 @@ We can make progress.
 
 We can make progress by using information about the behavior of definitions: This (topic) is System and Definition Behavior Studies, the field of study pertaining to the behavior of definitions. (These we-can goals-statements may be a measurable proxy-definition for 'progress.')
 
-Unless you have a sufficient process and data-feedback management framework, you (your perceptions and actions) will by default be like a ghost ship drifting randomly at sea, or a flag flapping stochastically in the winds, driven not by data-informed choices based on perceptions of reality but by illusions, superstitions, and fantasies, all while believing that you are a rational-actor who is connected to reality and not a delusional and divorced from reality; from market signals to interpreting close at hand event outcomes, connection-to-reality and 'survival of mind' are not free and automatic, and minds untethered from reality are distorted and far from sanity and various respects.(2025 06 11)
+Unless you have a sufficient process and data-feedback management framework, you (your perceptions and actions) will by default be like a ghost ship drifting randomly at sea, or a flag flapping stochastically in the winds, driven not by data-informed choices based on perceptions of reality but by illusions, superstitions, and fantasies, all while believing that you are a rational-actor who is connected to reality and not a delusional actor divorced from reality; from market signals to interpreting close at hand event outcomes, connection-to-reality and 'survival of mind' are not free and automatic, and minds untethered from reality are distorted and far from sanity and various respects.(2025 06 11)
 There are standard, common, observable paths that such dysfunction follows and indications by which it can and should be diagnosed. There should likewise be standard available practices and remediation solutions to treat the situation such as following the best practice that was not being followed (such as standard Project Areas) and actively increasing the non-automatic fitness and skill areas that have atrophied as a predictable-result of passivity, (as well as managing and monitoring disturbance regimes, out-of-regime-disturbance, chain reactions, defences and immune systems, etc.).
 
 
@@ -734,9 +734,14 @@ A:
 
 e.g. The classic example of two internationally distant sister-cities communicating and coordinating about "natural disaster" relief (flood, storm, quake, etc.) and disturbance regimes (modeling/policy/management.) 
 
+1. There is some set of shared concepts, such as a 'natural disaster' (or any disaster) 'aid and relief,' 'recovery,' and 'a failure to recover from a disaster,' that all locations are familiar with and engaged with. All areas have some periodic challenges that they need the skills to sustainably deal with.
+2. The types of disaster regimes native to one geographically defined area may be either mostly unknown or entirely alien to other geographically defined areas: forest fires, tornados, blizzards, tsunamis, river-flooding, etc., do not all occur (or are known of at all) in all locations and situations. It is not practical for a given geography to insist that all geographies relate to the world only in terms of that one geography's concepts and experiences. It is practical to learn about the needs and skills of other geographies, especially in cases of less common but inevitable disturbances with which more distant locations have more familiarity (e.g. snowfall very occasionally causes preventable issues in areas that lack familiarity with that disturbance). 
+3. Having a 'sister-city' connection can significantly increase resilience and improve perception. 
+4. The topic of disturbance-types overlaps with a more general topic of 'setting location areas' that is likewise generally (or abstractly) shared, where details are location-specific, and where a balance of shared information can be either beneficial or necessary for long term maintainable survival.
+
 
 2. Love, Act Responsibly Towards, Fulfill Duties Towards
-including a framework borrowed from biology containing "comensal",
+including a framework borrowed from biology containing "commensal",
 including:
 1. Energy, 
 2. Nutrients, 
