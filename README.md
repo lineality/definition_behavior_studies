@@ -5,7 +5,7 @@ https://medium.com/@GeoffreyGordonAshbrook/overview-of-a-definition-behavior-stu
 
 Overview of A Definition Behavior Studies Mnemonic
 Essay-Instructional Overview
- updated – 2026.01.28
+ updated – 2026.02.14
 
 Definition Behavior Studies is an interdisciplinary area of study, part Computer Science, statistical process analysis, hypothesis testing, Data Science, religious studies, ethics and mindfulness, and AI.
 
@@ -223,7 +223,7 @@ And explicit explicitly topic of a concept of being, and capacity to be, able to
 
 Learning is not a one-way ratchet of progress: while an ambivalently-toxic concept of 'sport' thrill-seeking (usually ending in harm and loss) can develop into a constructive-learning-skill concept of 'sportsmanship,' the default equilibrium of toxic-sport-destruction continues to be the default, e.g. where learning is interrupted, ineffective, or too sparse. Non-automatic-learning does not cease to be non-automatic.
 
-It is practical and pragmatic to have a practical and pragmatic policy of deliberate learning and to ever more recognize the threats and challenges of non-automatic-learning and of proverbial (non-literal) samsara-cycles of collapse and failure that can repeat indefinately given ignorance or a lack of learning. But non-automatic learning does not mean tautologically impossible learning or precluded learning. Data do not support a literal samsara scenario where learning and navigation are impossible. We need to navigate our conceptions between the apparently attractive absolutes of simplistic absolute automatic perfect learning and rationalism and on the other hand simplistic absolute impossibility of learning; neither absolute fits the data well.
+It is practical and pragmatic to have a practical and pragmatic policy of deliberate learning and to ever more recognize the threats and challenges of non-automatic-learning and of proverbial (non-literal) samsara-cycles of collapse and failure that can repeat indefinately given ignorance or a lack of learning. But non-automatic learning does not mean tautologically impossible learning or precluded learning. Data do not support a literal samsara scenario where learning and navigation are impossible. We need to navigate our conceptions between the apparently attractive absolutes of simplistic absolute automatic perfect learning and rationalism and on the other hand simplistic absolute impossibility of learning; neither of these absolute models or paradigms fit the data well.
 
 We can use Intersecting-Interlocking-Interconnecting-Areas:
 Intersecting-Interlocking-Interconnecting-Areas include:
@@ -286,7 +286,7 @@ A key issue in miscommunication and misunderstandings around STEM is the assumpt
 
 (Note, the following list is deliberately out of order for explanation-clarity.)
 
-1. The null-core is the purely conceptual, tautological ('by-definition') area. Pure math and logic are here.
+1. The null-core is the purely conceptual, tautological ('by-definition') area. Pure math and logic are here. This is the domain of definitions and relationships that are not applied to anything empirical. (Note: varying uses and definitions of the term 'abstract' are one of the obsticle to clear communication about this area.)
 
 3. The one-tree is an interlocking STEM aggregate structure of empirical and measurable world-phenomena that are sufficiently close to (especially simple and linear) null-core principles. It is a kind of functional-map that is one big interlocking tree of inter-operable definitions that sufficiently describes those patterns that are stable enough to be mapped. That this area is generally unified may give rise to the misunderstanding that all of STEM is one homogenous thing.
 
@@ -325,7 +325,7 @@ This is a crucial area in many projects but it has perhaps the worst lexicon and
 
 'Structured' data is roughly tabular or 'dictionary' data, but 'dictionary' is defined differently across and within various programming languages with no single overall lexicon.
 
-'Semi-structured' language is confusingly used to refer to either dictionaries (as opposed to tables with rows and columns, even if the data-defined is identical) or to hybrid data such as json-dictionary that contains unstructured natural language.
+'Semi-structured' language is confusingly used to refer to either dictionaries (as opposed to tables with rows and columns, even if the data-defined are identical) or to hybrid data such as json-dictionary that contains unstructured natural language.
 
 
 # 5. Project-Areas & Coordinated-Decisions:
@@ -483,9 +483,35 @@ We can identify and distinguish short term vs. long term.
 We can identify and distinguish liability vs. asset.
 We can identify and distinguish bad investment vs. good investment.
 We can identify and distinguish junkfood vs. health-food.
-We can identify and distinguish bad habit vs. good habit.
+We can identify and distinguish a bad habit vs. a good habit.
 We can identify and distinguish nihilism vs. value function and meaning.
-We can identify and distinguish process vs. using stochastic outcomes for fantasy-reification-exploitation for sport-entertainment or addiction.
+We can identify and distinguish processes vs. using stochastic outcomes for fantasy-reification-exploitation for sport-entertainment or addiction.
+
+We can generally distinguish between a reality approaching direction vs. reality-divergent illusory directions:
+We can identify known issues and distortions for perception including: 
+- potemkin villages
+- absence of feedback
+- illegitimate or low-quality feedback feedback
+- corrupted data
+- bad definition frameworks
+- nihilism, defeatism, appeasement, and divergence from boy-scout values
+- invalid causality models
+- garbage-in, garbage-out (spotting garbage in)
+- adversarial attacks to data and perception
+- erroneous perceptions of perception
+We can identify best practices conducive to alignment with reality such as:
+- getting and using feedback
+- sound definitions and system-type identifications
+- sound project-area definitions
+- nuance
+- patience and continual-process breaks
+- attention to local knowledge
+- attention to local setting-location-items
+- sustainable productivity
+- continual improvement, skill acquisition and learning, 
+- cultivating value, function, and meaning
+- awareness of non-automatic perception and other perception snares
+- vigilance regarding system-collapse
 
 We can navigate heterogeneity.
 we can (not automatically) learn to perceive and navigate heterogeneous landscapes and propensities to hallucinate causality and sustainability of systems and productivity. 
@@ -1128,4 +1154,4 @@ What are the time-line curiosities here?
 e.g. STEM timeline
 +
 4. Are tools for features pragmatically available in 2024?
-5. What is the role of 'technology,' as in the 1936 paper outlining a turing machine.
+5. What is the role of 'technology,' as in the 1936 paper outlining a turing machine. 
