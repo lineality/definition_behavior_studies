@@ -67,7 +67,11 @@ communication signal production. (any of myriad categories of signals)
 
 3. Perception
 
-4. Mapping, modeling, decision-making, forming conclusions, planning, initiative-taking, leadership, etc. (assorted areas lumped together here)
+4. Project Areas
+(This fourth area is a combination that can be approached in different ways. 
+see: https://github.com/lineality/project_areas_for_project_and_product_management  
+or
+Mapping, modeling, decision-making, forming conclusions, planning, initiative-taking, leadership, etc. (assorted areas lumped together here)
 
 The above areas are entwined, for example: they are entwined with articulation; without articulation, the others are sub-optimal.
 
@@ -161,7 +165,7 @@ We Can Use "Low-Bar Enlightenment":
 	(Summary)
 We can use the idea of 'being trapped in potentially endless cycles of ~"rebirth" due to ~"ignorance" ' as a metaphor/analogy/simile/paradigmatic-model/example for repeated project-failures, where a lack of perception / understanding of the causes of project-failure is involved in self-perpetuating feedback cycles leading to such repeating failures (with invisible or misunderstood causes): 
 The goal is ending cycles of being endlessly-'reborn' into mismanaged-projects that unnecessarily-fail in the same correctable, but uncorrected, ways over and over again.
-We can learn to perceive invisible (or previously unperceived and / or not-automatically-perceived) causes of failure and collapse ((definable, measurable, testable, falsifiable) project, system, definition failure and collapse), where this failure and collapse (this system-state of failure-collapse) can be the default state(s)/equilibrium(ia) that systems move and iterate towards.
+We can learn to perceive invisible (or previously unperceived and / or not-automatically-perceived) causes of failure and collapse ((definable, measurable, testable, falsifiable) project, system, definition failure and collapse), where this failure and collapse (this system-state of failure-collapse) can be the default state/equilibrium (or states/equilibria) that systems move and iterate towards.
 We can stop these cycles of failure by using information/data, perception, and learning.
 
 
@@ -269,7 +273,7 @@ There are a few levels of organization and clarification that are important for 
 
 As with STEM itself there is often, sadly, so far no clear shared vocabulary for these topics, but the topics are very real empirically and whatever they are called you will face them doing projects.
 
-For example, any policy or feature defining or described with the term/topic 'model explainability' should be clearly described in the areas outlined here.
+(Note: a policy or feature defining, or described with, the term/topic "explainability" (an area that has many different branches and also socially has a tendency towards undiscussed habitual perfunctory proxies) should be clearly discussed and described in the areas outlined here (not merely shoved under the carpet with the first excuse to 'be done with' what should be an ongoing effort.)
 
 
 # 1. Categories of Types of Systems and Linearity:
@@ -286,7 +290,7 @@ A key issue in miscommunication and misunderstandings around STEM is the assumpt
 
 (Note, the following list is deliberately out of order for explanation-clarity.)
 
-1. The null-core is the purely conceptual, tautological ('by-definition') area. Pure math and logic are here. This is the domain of definitions and relationships that are not applied to anything empirical. (Note: varying uses and definitions of the term 'abstract' are one of the obsticle to clear communication about this area.)
+1. The null-core is the purely conceptual, tautological ('by-definition') area. Pure math and logic are here. This is the domain of definitions and relationships that are not applied to anything empirical. (Note: varying uses and definitions of the term 'abstract' are one of the obstacles to clear communication about this area.)
 
 3. The one-tree is an interlocking STEM aggregate structure of empirical and measurable world-phenomena that are sufficiently close to (especially simple and linear) null-core principles. It is a kind of functional-map that is one big interlocking tree of inter-operable definitions that sufficiently describes those patterns that are stable enough to be mapped. That this area is generally unified may give rise to the misunderstanding that all of STEM is one homogenous thing.
 
@@ -1093,7 +1097,7 @@ Use or create a routine to build and maintain a full "range of motion," 'yoga' f
 
 #### Example:
 1. Ethics and Projects: Definition Study Mnemonic
-2. Body: Parkinson's Body-Extension Exercises/Yoga
+2. Body: Body-Extension Exercises/Yoga
 https://github.com/lineality/parkinsons_resources 
 3. Language: 般若心経 (link)
 
