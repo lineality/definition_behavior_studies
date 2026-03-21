@@ -5,7 +5,7 @@ https://medium.com/@GeoffreyGordonAshbrook/overview-of-a-definition-behavior-stu
 
 Overview of A Definition Behavior Studies Mnemonic
 Essay-Instructional Overview
- updated – 2026.03.13
+ updated – 2026.03.21
 
 Definition Behavior Studies is an interdisciplinary area of study, part Computer Science, statistical process analysis, hypothesis testing, Data Science, religious studies, ethics and mindfulness, and AI.
 
@@ -208,7 +208,7 @@ Note 7: In some cases a 'proxy' might overlap such as avoiding the entire area o
 ## Landscape:
 Given that perception is not automatic, many can probably start to trace out basic features of the definition landscape, though high quality models will take time, peer-reviewed study, and empirical research. E.g. We should be able to identify common categories and options for how perception can fail, and most likely this should agree with some historical observations about or trends in human behavior.
 
-For example task/skill of goal(task) identification is something that is known to be a process that can go wrong, but historical attempts to model this have been conspicuously insufficient (e.g. the comic-tragic extreme stances that 'everyone is always wrong' or 'everyone is always right' are plainly not credible, yet are strangely prominent (e.g. 1970's 'rational' individual and market ideology, and doom-hell-religiosity that labels everything is pejorative (if also passive-agressively or cynically denying that it is doing so, while also doing so). 
+For example task/skill of goal(task) identification is something that is known to be a process that can go wrong, but historical attempts to model this have been conspicuously insufficient (e.g. the comic-tragic extreme stances that 'everyone is always wrong' or 'everyone is always right' are plainly not credible, yet are strangely prominent (e.g. 1970's 'rational' individual and market ideology, and doom-hell-religiosity that labels everything as pejorative (if also passive-agressively, or cynically, denying that it is doing so). 
 
 Goal-Articulation is a skill/task that famously can go awry, from genie-in-the-lamp 'wished for the wrong thing over and over' stories to Dumbledore's "The trouble is, humans do have a knack of choosing precisely those things that are worst for them," to the general sun-moth-cargo-cult-fireworks-delight behavior of essentially worshiping the last-largest explosion, believing that it has caused and created everything, and that it is the only way to run everything: not the best administrative strategy for managing project areas, but it seems to be at least a mammalian stubbornly default perception. 
 
