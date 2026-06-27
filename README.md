@@ -5,7 +5,8 @@ https://medium.com/@GeoffreyGordonAshbrook/overview-of-a-definition-behavior-stu
 
 Overview of A Definition Behavior Studies Mnemonic
 Essay-Instructional Overview
- updated – 2026.06.23rd
+
+ updated – 2026.06.27th
 
 Definition Behavior Studies is an interdisciplinary area of study, part Computer Science, statistical process analysis, hypothesis testing, Data Science, religious studies, ethics and mindfulness, and AI.
 
@@ -58,7 +59,7 @@ Projects, and the tools and techniques needed to carry out projects, are more th
 - 'Direct instruction' is backwards
 
 ### Active Learning and Areas Intertwined With Learning: not separate, not sequential
-The rule of thumb that 'The person who does the talking does the learning.' has the right idea but we can and should take this pattern further and add more detail to the basic observation that being active and articulating-language is part of learning. Here is an example of four areas (which can still be further elaborated on, but four-areas may be a decent starting point):
+The rule of thumb that 'The person who does the talking does the learning.' has the right idea but we can and should take this pattern further and add more detail to the basic observation that being active and articulation (such as articulating language) is part of learning. Here is an example of four areas (which can still be further elaborated on, but four-areas may be a decent starting point):
 
 1. Articulation and Expression: verbal, written, diagrams, pictorial-visual, etc. (also see input output measures): any 
 communication signal production. (any of myriad categories of signals)
@@ -237,7 +238,7 @@ Given that perception is not automatic, many can probably start to trace out bas
 
 For example task/skill of goal(task) identification is something that is known to be a process that can go wrong, but historical attempts to model this have been conspicuously insufficient (e.g. the comic-tragic extreme stances that 'everyone is always wrong' or 'everyone is always right' are plainly not credible, yet are strangely prominent (e.g. 1970's 'rational' individual and market ideology, and doom-hell-religiosity that labels everything as pejorative (if also passive-agressively, or cynically, denying that it is doing so). 
 
-Goal-Articulation is a skill/task that famously can go awry, from genie-in-the-lamp 'wished for the wrong thing over and over' stories to Dumbledore's "The trouble is, humans do have a knack of choosing precisely those things that are worst for them," to the general sun-moth-cargo-cult-fireworks-delight behavior of essentially worshiping the last-largest explosion, believing that it has caused and created everything, and that it is the only way to run everything: not the best administrative strategy for managing project areas, but it seems to be at least a mammalian stubbornly default perception. 
+Goal-Articulation is a skill/task that famously can go awry, from genie-in-the-lamp 'wished for the wrong thing over and over' stories to Dumbledore's "The trouble is, humans do have a knack of choosing precisely those things that are worst for them," to the general sun-moth-cargo-cult-fireworks-delight behavior of essentially worshiping the last-largest explosion, believing that it has caused and created everything, and that it is the only way to run everything: not the best administrative strategy for managing project areas, but it seems to be a stubbornly default mammalian perception. 
 
 To be a bit more concrete: Vague perception-abstractions of 'power and greatness' tend to follow a Heike-Monogatari cycle, which arguably is also the plot of one of the oldest known stories, Gilgamesh: a strong-man picks the wrong goal, gets really pumped up believing he 'solved the universe' (being fooled by illusions, tricked by misunderstanding causality based on reified entertainment stimulation in the short term) and in the long term everything falls apart because he was was wrong, disconnected from reality, delusional, and his actions had real consequences that he was too short sighted and unskilled to understand.
 
