@@ -1,12 +1,11 @@
 https://medium.com/@GeoffreyGordonAshbrook/overview-of-a-definition-behavior-studies-mnemonic-d496b36e6bd5
 
-		4.2.10 Definitions and Ethics: Overview of A Definition 
-                    Behavior Studies Mnemonic
+4.2.10 Definitions and Ethics: Overview of A Definition Behavior Studies Mnemonic
 
 Overview of A Definition Behavior Studies Mnemonic
 Essay-Instructional Overview
 
- updated – 2026.06.27th
+Geoffrey Gordon Ashbrook, Updated 2026.07.26th
 
 Definition Behavior Studies is an interdisciplinary area of study, part Computer Science, statistical process analysis, hypothesis testing, Data Science, religious studies, ethics and mindfulness, and AI.
 
@@ -182,11 +181,18 @@ While 'people' cherish cult-ish beliefs in automatically ideal situations, the e
 
 In the case of biochemistry there should be no doubt or disagreement about the existence and role of membranes: biological cells usually cannot survive, exist, function, be-maintained, etc., without some functional system of membranes.
 
-However, this same role, functionality, and concept of membranes has (as of 2026) yet to be applied to definitions and systems more broadly. That a bio-chemical 'system collapse' of a cell will happen in the absence of membrane-functionality and features is not seriously in question. 
+However, this same role, functionality, and concept of membranes has (as of 2026) yet to be applied to definitions and systems more broadly. That a bio-chemical 'system collapse' of a cell will happen in the absence of membrane-functionality and features is not seriously in question. To make the analogy more explicit, we can look at the integrity, dissolution, and maintainability (and behavior such as sheltering in refugia such as geographical isolation/insulation) of various scales of project-management and 'governance' from individual-person projects, to small group projects, to medium and large scale institutional projects, include private sector, public sector, academic, and other contexts. Relying on a fortuitous incidental absence of local signal-environment disruption and not formally recognizing or studying the signal and definition-state environment in terms of system-collapse do not represent long term architectural strategy. 
 
 The system-collapse of definitions and systems in the absence of membrane-functionality occurs very much in the same way that a cell can very rarely continue to function for long in an openly-reactive environment without membranes. Signals, communications, coordinated decisions, alignment, perception, orientation, learning, and project management, are conspicuous examples of rapid default system-collapse, where not only does the coordinated-decision and project-state collapse but the capacity to perceive the collapse-event (and pattern of collapse events in time) collapses, resulting in an endless return to a default oblivion of repeating the same ignorant failures indefinately.
 
 The argument here, aside from the perhaps insurmountable challenge of teaching basic concepts of self-preservation to violent hominids, is a 'we can' statement: We can value, study, engineer, cultivate, and maintain system-and-definition sustainability-features that may be described or analogized as 'System Membranes.'
+
+We can manage nihilist-disinformation and value vs. junkfood distinctions:
+- We can recognize the pejorative existence of nihilist-disinformation, related attacks, and behavioral tendencies towards such violence.
+- We can reject and defend against nihilist-disinformation.
+- We can make value-function-meaning or 'healthfood vs. junkfood' distinctions, including learning how to make such distinctions and recognitions.
+- We can deliberately select for (literal and proverial) health-food with maintainability.
+- We can deliberately reject, de-incentivize, and guard against junk-food options.
 
 
 We Can Use "Low-Bar Enlightenment":
@@ -238,7 +244,7 @@ Given that perception is not automatic, many can probably start to trace out bas
 
 For example task/skill of goal(task) identification is something that is known to be a process that can go wrong, but historical attempts to model this have been conspicuously insufficient (e.g. the comic-tragic extreme stances that 'everyone is always wrong' or 'everyone is always right' are plainly not credible, yet are strangely prominent (e.g. 1970's 'rational' individual and market ideology, and doom-hell-religiosity that labels everything as pejorative (if also passive-agressively, or cynically, denying that it is doing so). 
 
-Goal-Articulation is a skill/task that famously can go awry, from genie-in-the-lamp 'wished for the wrong thing over and over' stories to Dumbledore's "The trouble is, humans do have a knack of choosing precisely those things that are worst for them," to the general sun-moth-cargo-cult-fireworks-delight behavior of essentially worshiping the last-largest explosion, believing that it has caused and created everything, and that it is the only way to run everything: not the best administrative strategy for managing project areas, but it seems to be a stubbornly default mammalian perception. 
+Goal-Articulation is a skill/task that famously can go awry, from genie-in-the-lamp 'wished for the wrong thing over and over' stories to Dumbledore's "The trouble is, humans do have a knack of choosing precisely those things that are worst for them," to the general sun-moth-cargo-cult-fireworks-delight behavior of essentially worshiping the last-largest explosion, believing that it has caused and created everything, and that it is the only way to run everything. This appears to be a stubborn default mammalian perception and this is unambiguously a very bad administrative strategy for managing project areas. 
 
 To be a bit more concrete: Vague perception-abstractions of 'power and greatness' tend to follow a Heike-Monogatari cycle, which arguably is also the plot of one of the oldest known stories, Gilgamesh: a strong-man picks the wrong goal, gets really pumped up believing he 'solved the universe' (being fooled by illusions, tricked by misunderstanding causality based on reified entertainment stimulation in the short term) and in the long term everything falls apart because he was was wrong, disconnected from reality, delusional, and his actions had real consequences that he was too short sighted and unskilled to understand.
 
