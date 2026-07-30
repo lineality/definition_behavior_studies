@@ -5,7 +5,7 @@ https://medium.com/@GeoffreyGordonAshbrook/overview-of-a-definition-behavior-stu
 Overview of A Definition Behavior Studies Mnemonic
 Essay-Instructional Overview
 
-Geoffrey Gordon Ashbrook, Updated 2026.07.26th
+Geoffrey Gordon Ashbrook, Updated 2026.07.30th
 
 Definition Behavior Studies is an interdisciplinary area of study, part Computer Science, statistical process analysis, hypothesis testing, Data Science, religious studies, ethics and mindfulness, and AI.
 
@@ -193,6 +193,8 @@ We can manage nihilist-disinformation and value vs. junkfood distinctions:
 - We can make value-function-meaning or 'healthfood vs. junkfood' distinctions, including learning how to make such distinctions and recognitions.
 - We can deliberately select for (literal and proverial) health-food with maintainability.
 - We can deliberately reject, de-incentivize, and guard against junk-food options.
+
+We can identify and defend 'soft-target' areas of development and infrastructure where incentives can be distorted.
 
 
 We Can Use "Low-Bar Enlightenment":
