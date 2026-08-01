@@ -5,7 +5,7 @@ https://medium.com/@GeoffreyGordonAshbrook/overview-of-a-definition-behavior-stu
 Overview of A Definition Behavior Studies Mnemonic
 Essay-Instructional Overview
 
-Geoffrey Gordon Ashbrook, Updated 2026.07.30th
+Geoffrey Gordon Ashbrook, Updated 2026.08.1st
 
 Definition Behavior Studies is an interdisciplinary area of study, part Computer Science, statistical process analysis, hypothesis testing, Data Science, religious studies, ethics and mindfulness, and AI.
 
@@ -73,7 +73,7 @@ see: https://github.com/lineality/project_areas_for_project_and_product_manageme
 or
 Mapping, modeling, decision-making, forming conclusions, planning, initiative-taking, leadership, etc. (assorted areas lumped together here)
 
-The above areas are entwined, for example: they are entwined with articulation; without articulation, the others are sub-optimal.
+The above areas are entwined, for example: they are entwined with articulation; without articulation, the others are sub-optimal. (Note: This flexibly includes multiple types of learning including task-outcome-based learning and reading-oriented learning, etc.)
 
 As a Chemistry-Analogy for non-automatic equilibrium and a topology of equilibria in systems: Collaboration, project-management, productivity, coordinated decisions, and navigating system-spaces, project-spaces, and problem-spaces can be subject to default passive equilibria or they can, with investment and catalysts (and perhaps some luck and time), find different non-passive, non-default, equilibria. As we will see, the passive equilibria tend to be or lead to system collapse and dissolution of systems and definitions. The invested-in equilibria that must be worked-for include membrane and functionality formation and make productivity possible. 
 
