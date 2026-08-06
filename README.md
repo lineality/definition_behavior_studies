@@ -1,5 +1,4 @@
-[
-](https://medium.com/@GeoffreyGordonAshbrook/overview-of-a-definition-behavior-studies-mnemonic-d496b36e6bd5
+https://medium.com/@GeoffreyGordonAshbrook/overview-of-a-definition-behavior-studies-mnemonic-d496b36e6bd5
 
 4.2.10 Definitions and Ethics: Overview of A Definition Behavior Studies Mnemonic
 
@@ -1214,4 +1213,3 @@ e.g. STEM timeline
 +
 4. Are tools for features pragmatically available in 2024?
 5. What is the role of 'technology,' as in the 1936 paper outlining a turing machine. 
-)
