@@ -5,7 +5,7 @@ https://medium.com/@GeoffreyGordonAshbrook/overview-of-a-definition-behavior-stu
 Overview of A Definition Behavior Studies Mnemonic
 Essay-Instructional Overview
 
-Geoffrey Gordon Ashbrook, Updated 2026.08.1st
+Geoffrey Gordon Ashbrook, Updated 2026.08.10th
 
 Definition Behavior Studies is an interdisciplinary area of study, part Computer Science, statistical process analysis, hypothesis testing, Data Science, religious studies, ethics and mindfulness, and AI.
 
@@ -190,7 +190,7 @@ To make one further step into the analogy, common features of speculation about 
 
 Lacking a formal or informal field of informational-epidemiology or a corresponding set of concepts and perception skills, societies may be with regards to system and definition collapse as they were in medicine and hygiene before STEM notions and institutions of infectious disease matured, where live existed either ravaged by outbreaks or fatalistically enjoying the periods between disturbance with the two sides of debates being whether the causes of disease were mysteriously supernatural or whether the topic was boring and unimportant. 
 
-The argument here, aside from the perhaps insurmountable challenge of teaching basic concepts of self-preservation to violent hominids, is a 'we can' statement: We can value, study, engineer, cultivate, and maintain system-and-definition sustainability-features that may be described or analogized as 'System Membranes' as maintainable solutions to understandable risks and challenges of system and definition collapse.
+The argument here, perhaps as part of a larger challenge of teaching basic concepts of self-preservation to violent hominids, is a 'we can' statement: We can value, study, engineer, cultivate, and maintain system-and-definition sustainability-features that may be described or analogized as 'System Membranes' as maintainable solutions to understandable risks and challenges of system and definition collapse.
 
 
 We can manage nihilist-disinformation and value vs. junkfood distinctions:
