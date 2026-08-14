@@ -5,7 +5,7 @@ https://medium.com/@GeoffreyGordonAshbrook/overview-of-a-definition-behavior-stu
 Overview of A Definition Behavior Studies Mnemonic
 Essay-Instructional Overview
 
-Geoffrey Gordon Ashbrook, Updated 2026.08.11th
+Geoffrey Gordon Ashbrook, Updated 2026.08.14th
 
 Definition Behavior Studies is an interdisciplinary area of study, part Computer Science, statistical process analysis, hypothesis testing, Data Science, religious studies, ethics and mindfulness, and AI.
 
@@ -242,7 +242,7 @@ Note: 'Reality' (the meaning used here) is not a single, simple, uniform, static
 
 Note: Low-bar enlightenment and or definition behavior studies may contradict the description or definition of anything information-related as being tautologically "anti-entropic." E.g. perhaps as a kind of higher-level-noise that ends up reducing signals in a system to the same predictable low-entropy noise. . [You might use the same overall case study of telephone messages traveling from an east coast to a west coast without being altered, degraded, collapsed, noise-ified, lost, etc. Note: Using a moving-water-bottles-logistics project example, the collapse of definitions need not refer to any fuzzy higher-order cultural concepts, with no need to wave arms about 'moot cultural meanings'; low level metric, spec and instruction signal integrity can be the focus. (Another possible analogy-overlap: social-engineering attacks used on purely automated systems.)]
 
-Note 5: There are many different kinds of non-automatic learning, or many ways that outcomes can be 'invisible,' from elusive past-future connections and non-obvious casual connections, to literally invisible events like radiation, to non-automatic skills such as literacy, to specific biases in a particular system (optical illusions, super-signals etc), to unclear sets of correlations (some of which are incidental), to sometimes confusing system spaces such as indeterminacy(incompetence and malice perhaps) and exponential-elbows(fractal static sometimes and dynamic changing sometimes). And more overtly there is opposition to recognizing the basic concepts themselves: the existence of the phenomena of non-automatic learning, of failures or imperfections in perception, of the existence of basic parts of an agile project, of both the importance of project management and risk of bad planning, the long history of psychological and social barriers to specific and general STEM concepts (including connecting areas of STEM (including by STEM professionals)), etc., even the general issue of not being able to easily see your own biases (or assumptions and context, "fish in water", "If all you have is a hammer, everything looks like a nail.", "It is difficult to get a man to understand something, when his salary depends on his not understanding it.”― Upton Sinclair). Input-output measure may be a helpful tool.
+Note 5: There are many different kinds of non-automatic learning, or many ways that outcomes can be 'invisible,' from elusive past-future connections and non-obvious casual connections, to literally invisible events like radiation, to non-automatic skills such as literacy, to specific biases in a particular system (optical illusions, supernormal-stimulus (see Tinbergen's research, https://en.wikipedia.org/wiki/Supernormal_stimulus) etc.), to unclear sets of correlations (some of which are incidental), to sometimes confusing system spaces such as indeterminacy(incompetence and malice perhaps) and exponential-elbows(fractal static sometimes and dynamic changing sometimes). And more overtly there is opposition to recognizing the basic concepts themselves: the existence of the phenomena of non-automatic learning, of failures or imperfections in perception, of the existence of basic parts of an agile project, of both the importance of project management and risk of bad planning, the long history of psychological and social barriers to specific and general STEM concepts (including connecting areas of STEM (including by STEM professionals)), etc., even the general issue of not being able to easily see your own biases (or assumptions and context, "fish in water", "If all you have is a hammer, everything looks like a nail.", "It is difficult to get a man to understand something, when his salary depends on his not understanding it.”― Upton Sinclair). Input-output measure may be a helpful tool.
 
 Note 6: There are many ways that perception data or process can be not-automatically-perceived and not-automatically-learned (and perhaps not easily externalized, communicated, and recorded). If a project is, however often and however visibly, failing in a way related to (or due entirely to) one of those not-perceived, not-learned, not communicated, areas, then that project may continue to fail in the same ways over and over indefinitely without with seeing how, learning how, or communicating about how, in the absence of any automatic process by which seeing, learning, or communicating would happen or be possible. (Examples may include 
 1. harmful effects of invisible radiation from something like radon-gas that in the past people had no way to detect or understand or learn or communicate about could occur over and over 
@@ -501,8 +501,18 @@ with regards to system collapse: We can learn to perceive, discuss, and navigate
 We can manage Alignment (with reality) vs. Misalignment (with reality) or disconnection (from reality) including: 
 - default drift away from alignment (often indefinately invisible) and 
 - erroneous default diagnostics and strategies (such as seeking out system-shocks)
-- We can learn to distinguish between a reality based on data and "super-signals" representing personal attractions, predilections, and perception-distortions. 
+- We can learn to distinguish between a reality based on data and 
 - We can distinguish and make judgements between instrumentalist and realist interpretations and goals.
+
+We can model and learn to navigate known biases in signals and perception:
+- We can be aware of, be vigilant about, and manage known "supernormal-stimulus" (sometimes called "super-signals") or representing personal attractions, predilections, and perception-distortions: en.wikipedia.org/wiki/Supernormal_stimulus 
+- We can be aware of hard-coded supernormal-stimulus in basic categories such as 'over-representing' attraction and 'under-representing' aversion (classic Tinbergen studies of note include Goose vs. Hawk (aversion), Herring gull beak spots (developmental attraction), and songbird egg color patterns.)
+
+We can model and learn to navigate ways that perception-abstraction changes or impacts the subject being observed adding a distorting bias into collected observation-data:
+- We can study the known effects and patterns of abstraction from actions of perception.
+- We can use indirect means to model unabstracted systems.
+- We can study and improve understanding of standard ways that abstraction-bias shapes interpretation and the results of the distorted system feedback, including common default equilibria.
+- We can learn how systems can be 'hardened' against otherwise unperceived deleterious information-hygiene effects of mismanaged abstraction dynamics.
 
 We can communicate and coordinate in these areas and ways: 
 We can communicate across participants, for example accomplishing coordination and coordinated decisions, for example using externalization of data.
