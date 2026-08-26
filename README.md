@@ -1240,7 +1240,6 @@ e.g. STEM timeline
 
 
 
-
 Appendix 1: Short Term & Long Term
 
 Perhaps in a context of the debate around the book, or the title of post cold war the book by Francis Fukuyama, we should be moving beyond the stage of debating whether there is a difference between short-term and long-term and instead progress to building up our understanding of the problem space of these two. 
