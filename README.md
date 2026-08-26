@@ -500,13 +500,11 @@ We can communicate about, coordinate about, and align reasonably on specific pro
 - Defining Agile-Type Areas of Projects as a set of predictable recurring problems, such as can be checked for after each iteration of a project, and that evaluated used in future planning: I.e. Here are lists of known issues; Are any of these happening? If so, there are likely invisible problems that are entirely solvable on the level of process, communication, and (except for extremes) universally accessible skills and practices. The approach here is not to try to micro-manage a one-size fits all positive-definition that should apply to everything, but rather a negative-definition of problem-areas that every unique project in a unique situation in a unique place needs to (and can) figure out how to address. 
 - Schedule-issues may be the most demonstrably relatable for any participants (if also not easy to communicate about smoothly even in extremely remedial ways). It may be helpful to think of a kind of 'schedule object permanence' in a kind of project-space-sally-anne test. Some people are skilled at perceiving and managing schedule-object permanence space, many people are not, but likely ~all people are able to learn basic schedule object permanence skills and have basic fitness. A key problem is that many people do not understand the possibility of there being a lack of schedule-object-perminance-space fitness (and other project areas), assuming that all world fitness is automatic. The concept of not-automatically-learned-skills, is itself not automatically learned.
 
-
 System-Collapse Object-Perminance
 - We can develop, and measure the presence or absence of, a corollary to object permanence (in developmental stages of perception-learning)
 with regards to system collapse: We can learn to perceive, discuss, and navigate, system-collapse. 
 
-
-We can manage Alignment (with reality) vs. Misalignment (with reality) or disconnection (from reality) including: 
+We can manage alignment (with reality) vs. misalignment (with reality)' or disconnection (from reality) including: 
 - default drift away from alignment (often indefinately invisible) and 
 - erroneous default diagnostics and strategies (such as seeking out system-shocks)
 - We can learn to distinguish between a reality based on data and 
