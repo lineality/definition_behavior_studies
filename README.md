@@ -58,7 +58,7 @@ Projects, and the tools and techniques needed to carry out projects, are more th
 - 'Direct instruction' is backwards
 
 ### Active Learning and Areas Intertwined With Learning: not separate, not sequential
-The rule of thumb that 'The person who does the talking does the learning.' has the right idea but we can and should take this pattern further and add more detail to the basic observation that being active and articulation (such as articulating language) is part of learning. Here is an example of four areas (which can still be further elaborated on, but four-areas may be a decent starting point):
+The rule of thumb that 'The person who does the talking does the learning.' has the right idea but we can and should take this pattern further and add more detail to the basic observation that being active and articulation (such as articulating language) is part of learning. Here is an example of four areas (which can still be further elaborated on and sub-divided):
 
 1. Articulation and Expression: verbal, written, diagrams, pictorial-visual, etc. (also see input output measures): any 
 communication signal production. (any of myriad categories of signals)
@@ -1237,6 +1237,7 @@ e.g. STEM timeline
 +
 4. Are tools for features pragmatically available in 2024?
 5. What is the role of 'technology,' as in the 1936 paper outlining a turing machine. 
+
 
 
 
