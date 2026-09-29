@@ -5,15 +5,15 @@ https://medium.com/@GeoffreyGordonAshbrook/overview-of-a-definition-behavior-stu
 Overview of A Definition Behavior Studies Mnemonic
 Essay-Instructional Overview
 
-Geoffrey Gordon Ashbrook, Updated 2026.09.26th
+Geoffrey Gordon Ashbrook, Updated 2026.09.29th
 
 Definition Behavior Studies is an interdisciplinary area of study, part Computer Science, statistical process analysis, hypothesis testing, Data Science, religious studies, ethics and mindfulness, and AI.
 
-System and definition behavior studies is the field of study pertaining to the behavior of definitions, in particular collapse behaviors in a context of general system collapse.
+System and definition behavior studies is the field of study pertaining to the behavior of definitions, in particular collapse behaviors in a context of general system collapse. 
 
-This is an inquiry based approach. Identifying good questions has value in and of itself, inquiry is a useful process to make use of as a matter of policy and method, and there are particular questions that can form a starting point:
+This is an inquiry based approach. Identifying good questions has value in and of itself, inquiry is a useful process to make use of as a matter of policy and method, and there are particular questions that can form a starting point: 
 - What is the agenda?
-- What are the goals and modus operandi?
+- What are the goals and modus operandi? 
 - What is the goals-means-method statement (in a project-context, with project-participants)?
 
 ## Sections:
@@ -26,14 +26,14 @@ This is an inquiry based approach. Identifying good questions has value in and o
  -- 4.  Macro-Model
 
 2. Part Two: Implementation of Tools for Doing Projects
-- Conceptual Use-case/Context Items/Areas for Collaborating on Projects:
+- Conceptual Use-case/Context Items/Areas for Collaborating on Projects: 
  -- Alignment
  -- Hygiene
- -- Coordination & Collaboration
- -- STEM & Data
- -- Production and Productivity
+ -- Coordination & Collaboration 
+ -- STEM & Data 
+ -- Production and Productivity 
  -- Values, Morals, & Ethics
-- Project Areas that should be well defined
+- Project Areas that should be well defined  
 - Three Questions on Collaboration Tools:
  -- 1. Timeline
  -- 2. Features
@@ -60,7 +60,7 @@ Projects, and the tools and techniques needed to carry out projects, are more th
 ### Active Learning and Areas Intertwined With Learning: not separate, not sequential
 The rule of thumb that 'The person who does the talking does the learning.' has the right idea but we can and should take this pattern further and add more detail to the basic observation that being active and articulation (such as articulating language) is part of learning. Here is an example of four areas (which can still be further elaborated on and sub-divided):
 
-1. Articulation and Expression: verbal, written, diagrams, pictorial-visual, etc. (also see input output measures): any
+1. Articulation and Expression: verbal, written, diagrams, pictorial-visual, etc. (also see input output measures): any 
 communication signal production. (any of myriad categories of signals)
 
 2. Learning and improving skills, ability, fitness
@@ -68,14 +68,14 @@ communication signal production. (any of myriad categories of signals)
 3. Perception
 
 4. Project Areas
-(This fourth area is a combination that can be approached in different ways.
-see: https://github.com/lineality/project_areas_for_project_and_product_management
+(This fourth area is a combination that can be approached in different ways. 
+see: https://github.com/lineality/project_areas_for_project_and_product_management  
 or
 Mapping, modeling, decision-making, forming conclusions, planning, initiative-taking, leadership, etc. (assorted areas lumped together here)
 
 The above areas are entwined, for example: they are entwined with articulation; without articulation, the others are sub-optimal. (Note: This flexibly includes multiple types of learning including task-outcome-based learning and reading-oriented learning, etc.)
 
-As a Chemistry-Analogy for non-automatic equilibrium and a topology of equilibria in systems: Collaboration, project-management, productivity, coordinated decisions, and navigating system-spaces, project-spaces, and problem-spaces can be subject to default passive equilibria or they can, with investment and catalysts (and perhaps some luck and time), find different non-passive, non-default, equilibria. As we will see, the passive equilibria tend to be or lead to system collapse and dissolution of systems and definitions. The invested-in equilibria that must be worked-for include membrane and functionality formation and make productivity possible.
+As a Chemistry-Analogy for non-automatic equilibrium and a topology of equilibria in systems: Collaboration, project-management, productivity, coordinated decisions, and navigating system-spaces, project-spaces, and problem-spaces can be subject to default passive equilibria or they can, with investment and catalysts (and perhaps some luck and time), find different non-passive, non-default, equilibria. As we will see, the passive equilibria tend to be or lead to system collapse and dissolution of systems and definitions. The invested-in equilibria that must be worked-for include membrane and functionality formation and make productivity possible. 
 
 (Note: Projects and learning seem to be inherently related.)
 
@@ -86,7 +86,7 @@ Warmup Brainstorm 1: concepts relating to improvement
 - positive and negative definition
 - cycles longevity, sequence
 
-Active-Learning Project/Activity 1
+Active-Learning Project/Activity 1 
 What is your agenda?
 
 Active-Learning Project/Activity 2
@@ -122,10 +122,10 @@ Active-Learning Project/Activity 3:
 
 Goals (Agenda): goals-means-method statement / "we-can" statements:
 
-We can succeed.
-We can make things work.
+We can succeed. 
+We can make things work. 
 We can understand what is wrong.
-We can fix what is broken.
+We can fix what is broken. 
 We can use not-automatically-learned skills &  not-automatically-transferred skills.
 We can use STEM to connect signals and reality.
 We can connect STEM, project-management, and ethics.
@@ -139,18 +139,18 @@ We can learn from and correct the mistakes of the past.
 We can use and understand the effects of perception and abstraction (including how and where perception and abstraction affect, effect, interfere with or disturb what is being observed).
 We can make and use tools and resources.
 We can use feedback, testability, measurability, & definability.
-We can use patterns, protocols, and processes for and with skills, abilities, and learning.
+We can use patterns, protocols, and processes for and with skills, abilities, and learning. 
 We can communicate.
 We can make progress.
 
 
-We can generalize; We can distinguish between, and use, types of (and terms for) generalization.
+We can generalize; We can distinguish between, and use, types of (and terms for) generalization. 
 We can generalize STEM.
 We can generalize participation.
 We can generalize projects (project-context).
 We can generalize decision-coordination (voting etc).
 We can generalize indirectly defined Value-Function-&-Meaning (non-collapse).
-We can generalize object-relationship-spaces.
+We can generalize object-relationship-spaces. 
 We can generalize categories of types of systems.
 We can generalize system-fitness and system-epidemiology.
 We can generalize data-hygiene, system hygiene.
@@ -166,40 +166,44 @@ We Can Use System-Membranes:
 (Summary)
 We can value, study, engineer, cultivate, and maintain system-and-definition sustainability-features that may be described or analogized as 'System Membranes.'
 
-The analogy, or it may be a direct reference to a category of functionality rather than an analogy, is (using the terminology of the study of biology) with the role of a membrane in the regulation of reactions and reactivity in and around 'cells' (where to some extent 'cells' are significantly defined by the functionality of membranes).
+The analogy, or it may be a direct reference to a category of functionality rather than an analogy, is (using the terminology of the study of biology) with the role of a membrane in the regulation of reactions and reactivity in and around 'cells' (where to some extent 'cells' are significantly defined by the functionality of membranes). 
 
-While it is likely that we will not know in high detail the history of the evolution of biochemistry on a given planet, we should speculate that there was a pre or proto-biological time-period that lacked membranes. The analogy here focuses on the comparative difference between the earlier no-membrains-environment on the one hand and on the other hand the with-membranes-environment.
+While it is likely that we will not know in high detail the history of the evolution of biochemistry on a given planet, we should speculate that there was a pre or proto-biological time-period that lacked membranes. The analogy here focuses on the comparative difference between the earlier no-membrains-environment on the one hand and on the other hand the with-membranes-environment. 
 
-In the pre-membrane, without-membraines, environment, reactions and reactivity happen openly in larger environments. More specifically, aside from not being able to manage an environment specifically for constructive functionality, the 'defensive' features and functionalities are so lacking that there is barely, if any, delineation of there being 'things' to survive or be maintained.
+In the pre-membrane, without-membraines, environment, reactions and reactivity happen openly in larger environments. More specifically, aside from not being able to manage an environment specifically for constructive functionality, the 'defensive' features and functionalities are so lacking that there is barely, if any, delineation of there being 'things' to survive or be maintained. 
 
 (See early-biochemistry works such as by A.G. Cairns-Smith.)
 
-The membrane is not merely a title to be bestowed or a social-nicety to draw an artistic boundary of convenience around this and that 'thing.'
+The membrane is not merely a title to be bestowed or a social-nicety to draw an artistic boundary of convenience around this and that 'thing.' 
 
-We could try to imagine a hypothetical conveniently-hospitable environment in which 'things' similar to cells (or parts found in cells) existed and were maintained in a no-membrane world where we could still say 'here is thing-1' and 'here is thing-2' in the same way that in reality we say 'here is cell-1' and 'here is cell-2.'
+We could try to imagine a hypothetical conveniently-hospitable environment in which 'things' similar to cells (or parts found in cells) existed and were maintained in a no-membrane world where we could still say 'here is thing-1' and 'here is thing-2' in the same way that in reality we say 'here is cell-1' and 'here is cell-2.' 
 
-Fantasy-hypotheticals (about evolutionary environment that would in some unknown way side-step the need for membranes) aside, membrane functionality is a requisite part of maintainable bio-chemistry; if you removed all membrane functionality from cells then those cells would cease to be 'things'; It is not merely that the legalistic lines of where they were would become diffuse, it is that those necessary functionalities would be degraded, destroyed, collapsed, weathered, and eroded, and rapidly so, so that there was no 'thing' to point to. While people like to imagine disembodied free-floating functionalities, there is no such thing (that is currently known).
+Fantasy-hypotheticals (about evolutionary environment that would in some unknown way side-step the need for membranes) aside, membrane functionality is a requisite part of maintainable bio-chemistry; if you removed all membrane functionality from cells then those cells would cease to be 'things'; It is not merely that the legalistic lines of where they were would become diffuse, it is that those necessary functionalities would be degraded, destroyed, collapsed, weathered, and eroded, and rapidly so, so that there was no 'thing' to point to. While people like to imagine disembodied free-floating functionalities, there is no such thing (that is currently known). 
 
-As in the case of a pre-membrane time period, various individual reactions of (abstracted out of a cell-with-membrain context) can and likely did happen in an openly-reactive no-membrains (pre-biology/proto-biology) environment. The lack of membranes means that degradation, destruction, erosion, weathering, etc., would predominantly have quickly destroyed whatever was able to form or be formed. This is part of the developmental question about how cellular life may have formed in an openly reactive environment, given the significant difficulty of maintaining anything for long enough to do anything before everything is rapidly destroyed and collapsed back to the default-equilibria of non-biology and less-useful reactive states.
+As in the case of a pre-membrane time period, various individual reactions of (abstracted out of a cell-with-membrain context) can and likely did happen in an openly-reactive no-membrains (pre-biology/proto-biology) environment. The lack of membranes means that degradation, destruction, erosion, weathering, etc., would predominantly have quickly destroyed whatever was able to form or be formed. This is part of the developmental question about how cellular life may have formed in an openly reactive environment, given the significant difficulty of maintaining anything for long enough to do anything before everything is rapidly destroyed and collapsed back to the default-equilibria of non-biology and less-useful reactive states. 
 
 While 'people' cherish cult-ish beliefs in automatically ideal situations, the existence of the concept of a membrane (either for a biological cell or for definitions and systems) stands in stark contrast to the cult of automatic passive productive formation and maintenance.
 
 In the case of biochemistry there should be no doubt or disagreement about the existence and role of membranes: biological cells usually cannot survive, exist, function, be-maintained, etc., without some functional system of membranes. That a bio-chemical 'system collapse' of a cell will happen in the absence of membrane-functionality and features is not seriously in question.
 
-However, this same role, functionality, and concept of membranes has (as of 2026) yet to be applied to systems and definitions more broadly. To make the analogy more explicit, we can look at the integrity, dissolution, and maintainability (and behavior such as sheltering in refugia such as geographical isolation/insulation) of various scales of project-management and 'governance' from individual-person projects, to small group projects, to medium and large scale institutional projects, include private sector, public sector, academic, and other contexts. Relying on a fortuitous incidental absence of local signal-environment disruption and not formally recognizing or studying the signal and definition-state environment in terms of system-collapse do not represent long term architectural strategy.
+However, this same role, functionality, and concept of membranes has (as of 2026) yet to be applied to systems and definitions more broadly. To make the analogy more explicit, we can look at the integrity, dissolution, and maintainability (and behavior such as sheltering in refugia such as geographical isolation/insulation) of various scales of project-management and 'governance' from individual-person projects, to small group projects, to medium and large scale institutional projects, include private sector, public sector, academic, and other contexts. 
+
+After we can understand and describe (for example after sufficient hands on observation under a microscope and measures of properties and gradients inside and outside of a cell) the 'corrosive' 'environmental' 'exposure' effects that happen when a "cell" membrane is removed, we should look at other phenomena in the world where regulatable habitability conditions are corrosive: practices, people, skills, institutions and administrations, languages, STEM developments, art and culture skills and traditions, can (at least in many instances) be unambiguously observed to be affected by spacial-geographic, exposure or boundary, membrane-like dynamics. Trade, property, and rule of law type systems of regulated maintainable interactions are built around active engineering and defense of spaces of interactivity that do not automatically self-organize and self-maintain. 
+
+Relying on a fortuitous incidental absence of local signal-environment disruption and not formally recognizing or studying the signal and definition-state environment in terms of system-collapse do not represent long term architectural strategy. 
 
 The system-collapse of definitions and systems in the absence of membrane-functionality occurs very much in the same way that a cell can very rarely continue to function for long in an openly-reactive environment without membranes. Signals, communications, coordinated decisions, alignment, perception, orientation, learning, and project management, are conspicuous examples of rapid default system-collapse, where not only does the coordinated-decision and project-state collapse but the capacity to perceive the collapse-event (and pattern of collapse events in time) collapses, resulting in an endless return to a default oblivion of repeating the same ignorant failures indefinately.
 
 To make one further step into the analogy, common features of speculation about how the chicken-and-egg cells vs. membranes development may have started involve arguments not unlike the 'safe-refuge' puzzle of geography and demography where perennially hunted and exited contributors such as Hugo Grotius and Thomas Hobbes (to name but two out of perhaps a majority of historical writers not content to be yes-men) survived in locations beyond the reach threats to habitability. Pre-Cell theories have included coastal slate with mostly-bubble-like micro-pits where the reactivity-environment inside the nearly-enclosed-spaces may have been sufficiently shielded developing innovations from the uninhabitable reactive open environment, a kind of physical-geographic membrane-proxy.
 
-Lacking a formal or informal field of informational-epidemiology or a corresponding set of concepts and perception skills, societies may be with regards to system and definition collapse as they were in medicine and hygiene before STEM notions and institutions of infectious disease matured, where live existed either ravaged by outbreaks or fatalistically enjoying the periods between disturbance with the two sides of debates being whether the causes of disease were mysteriously supernatural or whether the topic was boring and unimportant.
+Lacking a formal or informal field of informational-epidemiology or a corresponding set of concepts and perception skills, societies may be with regards to system and definition collapse as they were in medicine and hygiene before STEM notions and institutions of infectious disease matured, where live existed either ravaged by outbreaks or fatalistically enjoying the periods between disturbance with the two sides of debates being whether the causes of disease were mysteriously supernatural or whether the topic was boring and unimportant. 
 
 The argument here, perhaps as part of a larger challenge of teaching basic concepts of self-preservation to violent hominids, is a 'we can' statement: We can value, study, engineer, cultivate, and maintain system-and-definition sustainability-features that may be described or analogized as 'System Membranes' as maintainable solutions to understandable risks and challenges of system and definition collapse.
 
 To Recap:
-For known biology, membranes are a functional spatial-boundary that defines (by actively mechanically enabling) where a given 'cell' is. This is part of the chicken and egg problem of trying to understand the historical origins of cell chemistry, and of membranes. There may be more than superficial similarity between two contexts of the search for historical environmental refugia and chains of constructive reactions that were maintainable over time; we examine biological cells in this way, and this also describes the nearer-history of trying to understand the less-maintainable formations, and frequent dissolutions, of governments and various administrative institutions (including the 'institution' of STEM itself that was built largely in hiding, in exile, or en-route of escape from threat of violence).
+For known biology, membranes are a functional spatial-boundary that defines (by actively mechanically enabling) where a given 'cell' is. This is part of the chicken and egg problem of trying to understand the historical origins of cell chemistry, and of membranes. There may be more than superficial similarity between two contexts of the search for historical environmental refugia and chains of constructive reactions that were maintainable over time; we examine biological cells in this way, and this also describes the nearer-history of trying to understand the less-maintainable formations, and frequent dissolutions, of governments and various administrative institutions (including the 'institution' of STEM itself that was built largely in hiding, in exile, or en-route of escape from threat of violence).  
 
-(For a corroborating reference: See 'Chapter 15. Geography' in Francis Fukuyama's "Political Order and Political Decay," where he reviews various publications and arguments in the literature on this topic (Book 2 of 2 in a series, both of which I recommend)
+(For a corroborating reference: See 'Chapter 15. Geography' in Francis Fukuyama's "Political Order and Political Decay," where he reviews various publications and arguments in the literature on this topic (Book 2 of 2 in a series, both of which I recommend) 
 https://www.amazon.com/Political-Order-Decay-Industrial-Globalization/dp/B00LU3YM8C )
 
 
@@ -215,7 +219,7 @@ We can identify and defend 'soft-target' areas of development and infrastructure
 
 We Can Use "Low-Bar Enlightenment":
 	(Summary)
-We can use the idea of 'being trapped in potentially endless cycles of ~"rebirth" due to ~"ignorance" ' as a metaphor/analogy/simile/paradigmatic-model/example for repeated project-failures, where a lack of perception / understanding of the causes of project-failure is involved in self-perpetuating feedback cycles leading to such repeating failures (with invisible or misunderstood causes):
+We can use the idea of 'being trapped in potentially endless cycles of ~"rebirth" due to ~"ignorance" ' as a metaphor/analogy/simile/paradigmatic-model/example for repeated project-failures, where a lack of perception / understanding of the causes of project-failure is involved in self-perpetuating feedback cycles leading to such repeating failures (with invisible or misunderstood causes): 
 The goal is ending cycles of being endlessly-'reborn' into mismanaged-projects that unnecessarily-fail in the same correctable, but uncorrected, ways over and over again.
 We can learn to perceive invisible (or previously unperceived and / or not-automatically-perceived) causes of failure and collapse ((definable, measurable, testable, falsifiable) project, system, definition failure and collapse), where this failure and collapse (this system-state of failure-collapse) can be the default state/equilibrium (or states/equilibria) that systems move and iterate towards.
 We can stop these cycles of failure by using information/data, perception, and learning.
@@ -223,7 +227,7 @@ We can stop these cycles of failure by using information/data, perception, and l
 
 Low-Bar Enlightenment (elements of):
 1. The perception/understanding that repeating cycles of failed actions and projects can result from errors in perception and planning (a proverbial 'wheel of samsara').
-2. The perception/understanding that indefinately-repeating cycles-of-failed actions and projects can exist without inevitable-automatic-learning arising from raw feedback of experiential data about that failure.
+2. The perception/understanding that indefinately-repeating cycles-of-failed actions and projects can exist without inevitable-automatic-learning arising from raw feedback of experiential data about that failure. 
 I.e., learning (that is sufficient to prevent the problem in future) does not automatically result from experiencing mistakes or overall-system-shocks, etc.
 [Possibly related to ~'cultural/epiphenomena'-learning as an additional layer:  Q: How are "internally"-invisible skills/abilities/patterns learned? A: "Externally"?]
 3. The perception/understanding that perception/understanding can be fooled in principle and in practice.
@@ -232,7 +236,7 @@ I.e., learning (that is sufficient to prevent the problem in future) does not au
 6. The perception/understanding that non-automatic-learning and invisible-problems are not solved by 'system shocks,' the use of violence, or arbitrary low level (basal) system changes (also see basal-distal disjunctions).
 7. The perception/understanding that models of causality can be wrong in principle and in practice.
 8. The perception/understanding that plans/goals can be incorrectly defined (so that plans are not followed or follow-able as defined, and goals are not achieved or achievable as defined).
-9.  The perception/understanding that each participant's set of the shared definitions of the goals-and-structure-of-a-project can/will erode, weather, corrode, contract, deform and collapse (by default) unless properly configured and continually and actively maintained and repaired. There is no static definition/perception/understanding equilibrium: Staying connected to reality requires constant fitness-training, data-hygiene, and upkeep.
+9.  The perception/understanding that each participant's set of the shared definitions of the goals-and-structure-of-a-project can/will erode, weather, corrode, contract, deform and collapse (by default) unless properly configured and continually and actively maintained and repaired. There is no static definition/perception/understanding equilibrium: Staying connected to reality requires constant fitness-training, data-hygiene, and upkeep. 
 (Universality Question: specific biology[intelligence] vs. general[ai, etc]?)
 10.  The perception/understanding that there are different types of non-automatic learning.
 11.  The perception/understanding that low-bar-enlightenment-perception applies to and extends to all parts of and participants in a project (and connected-projects) including time, not just you (being) here now. (~system-empathy/~system-compassion)
@@ -241,18 +245,18 @@ I.e., learning (that is sufficient to prevent the problem in future) does not au
 
 
 Detail Notes
-Note: This "low-bar enlightenment" approach is (~'democratically') broadly accessible to participants requiring minutes to learn rather than myriad lifetimes, does not require all-around perfection of person-ness, is not without context or does not require (somehow) all contexts, is not a reification that combines other abilities and insights to explain and solve all problems in all universes, nor does it include or require all possible types of consciousness, cognition, intelligence, etc.; "Low-bar enlightenment" is one humble step toward navigating the problem-space of problems and systems.
+Note: This "low-bar enlightenment" approach is (~'democratically') broadly accessible to participants requiring minutes to learn rather than myriad lifetimes, does not require all-around perfection of person-ness, is not without context or does not require (somehow) all contexts, is not a reification that combines other abilities and insights to explain and solve all problems in all universes, nor does it include or require all possible types of consciousness, cognition, intelligence, etc.; "Low-bar enlightenment" is one humble step toward navigating the problem-space of problems and systems. 
 
 Note: There may be a limited way to generalize an understanding of perception-maintenance needs ( 'low bar enlightenment' ) to other participants in a way that is consistent with empathy-compassion. Extending an understanding of low bar enlightenment from only your own situation (perceptions, roles, projects, etc.) to being something that applies in a larger space (in which one participates with other participants) to all participants and all other parts of any and all projects (e.g. definitions, signals, perceptions, function-operations, participants, schedules, etc.)(including the effects and spread of system-failure between parts and between participants, between projects, etc.) is, if not sufficient for empathy-and-compassion in a broader or deeper sense, a consistent and concrete step to take towards acting with, or that is consistent-with acting-with, (action, behavior with) empathy-and-compassion, including an understanding of how empathy-compassion relates to STEM and interconnected-intersecting-interlocking areas.
 
-Note: 'Reality' (the meaning used here) is not a single, simple, uniform, static, homogeneous, linear, thing made of only one type of system assumed to fit into a single framework. (e.g. not naive realist positivist)
+Note: 'Reality' (the meaning used here) is not a single, simple, uniform, static, homogeneous, linear, thing made of only one type of system assumed to fit into a single framework. (e.g. not naive realist positivist) 
 
 Note: Low-bar enlightenment and or definition behavior studies may contradict the description or definition of anything information-related as being tautologically "anti-entropic." E.g. perhaps as a kind of higher-level-noise that ends up reducing signals in a system to the same predictable low-entropy noise. . [You might use the same overall case study of telephone messages traveling from an east coast to a west coast without being altered, degraded, collapsed, noise-ified, lost, etc. Note: Using a moving-water-bottles-logistics project example, the collapse of definitions need not refer to any fuzzy higher-order cultural concepts, with no need to wave arms about 'moot cultural meanings'; low level metric, spec and instruction signal integrity can be the focus. (Another possible analogy-overlap: social-engineering attacks used on purely automated systems.)]
 
 Note 5: There are many different kinds of non-automatic learning, or many ways that outcomes can be 'invisible,' from elusive past-future connections and non-obvious casual connections, to literally invisible events like radiation, to non-automatic skills such as literacy, to specific biases in a particular system (optical illusions (("Isomorphic mimicry" L. Pritchett, M. Woolcock)), supernormal-stimulus (see Tinbergen's research, https://en.wikipedia.org/wiki/Supernormal_stimulus) etc.), to unclear sets of correlations (some of which are incidental), to sometimes confusing system spaces such as indeterminacy(incompetence and malice perhaps) and exponential-elbows(fractal static sometimes and dynamic changing sometimes). And more overtly there is opposition to recognizing the basic concepts themselves: the existence of the phenomena of non-automatic learning, of failures or imperfections in perception, of the existence of basic parts of an agile project, of both the importance of project management and risk of bad planning, the long history of psychological and social barriers to specific and general STEM concepts (including connecting areas of STEM (including by STEM professionals)), etc., even the general issue of not being able to easily see your own biases (or assumptions and context, "fish in water", "If all you have is a hammer, everything looks like a nail.", "It is difficult to get a man to understand something, when his salary depends on his not understanding it.”― Upton Sinclair). Input-output measure may be a helpful tool.
 
-Note 6: There are many ways that perception data or process can be not-automatically-perceived and not-automatically-learned (and perhaps not easily externalized, communicated, and recorded). If a project is, however often and however visibly, failing in a way related to (or due entirely to) one of those not-perceived, not-learned, not communicated, areas, then that project may continue to fail in the same ways over and over indefinitely without with seeing how, learning how, or communicating about how, in the absence of any automatic process by which seeing, learning, or communicating would happen or be possible. (Examples may include
-1. harmful effects of invisible radiation from something like radon-gas that in the past people had no way to detect or understand or learn or communicate about could occur over and over
+Note 6: There are many ways that perception data or process can be not-automatically-perceived and not-automatically-learned (and perhaps not easily externalized, communicated, and recorded). If a project is, however often and however visibly, failing in a way related to (or due entirely to) one of those not-perceived, not-learned, not communicated, areas, then that project may continue to fail in the same ways over and over indefinitely without with seeing how, learning how, or communicating about how, in the absence of any automatic process by which seeing, learning, or communicating would happen or be possible. (Examples may include 
+1. harmful effects of invisible radiation from something like radon-gas that in the past people had no way to detect or understand or learn or communicate about could occur over and over 
 2. the effects of optical illusions of short-term vs. long term in planning and causality that are very significant barriers in perception, learning, and daily-life logistics and decision making blunders.
 
 Note 7: In some cases a 'proxy' might overlap such as avoiding the entire area or situation, but proxies and taboos in culture usually involve considerable deliberate effort to (at least attempt) to perceive, learn and teach.
@@ -260,9 +264,9 @@ Note 7: In some cases a 'proxy' might overlap such as avoiding the entire area o
 ## Landscape:
 Given that perception is not automatic, many can probably start to trace out basic features of the definition landscape, though high quality models will take time, peer-reviewed study, and empirical research. E.g. We should be able to identify common categories and options for how perception can fail, and most likely this should agree with some historical observations about or trends in human behavior.
 
-For example task/skill of goal(task) identification is something that is known to be a process that can go wrong, but historical attempts to model this have been conspicuously insufficient (e.g. the comic-tragic extreme stances that 'everyone is always wrong' or 'everyone is always right' are plainly not credible, yet are strangely prominent (e.g. 1970's 'rational' individual and market ideology, and doom-hell-religiosity that labels everything as pejorative (if also passive-agressively, or cynically, denying that it is doing so).
+For example task/skill of goal(task) identification is something that is known to be a process that can go wrong, but historical attempts to model this have been conspicuously insufficient (e.g. the comic-tragic extreme stances that 'everyone is always wrong' or 'everyone is always right' are plainly not credible, yet are strangely prominent (e.g. 1970's 'rational' individual and market ideology, and doom-hell-religiosity that labels everything as pejorative (if also passive-agressively, or cynically, denying that it is doing so). 
 
-Goal-Articulation is a skill/task that famously can go awry, from genie-in-the-lamp 'wished for the wrong thing over and over' stories to Dumbledore's "The trouble is, humans do have a knack of choosing precisely those things that are worst for them," to the general sun-moth-cargo-cult-fireworks-delight behavior of essentially worshiping the last-largest explosion, believing that it has caused and created everything, and that it is the only way to run everything. This appears to be a stubborn default mammalian perception and this is unambiguously a very bad administrative strategy for managing project areas.
+Goal-Articulation is a skill/task that famously can go awry, from genie-in-the-lamp 'wished for the wrong thing over and over' stories to Dumbledore's "The trouble is, humans do have a knack of choosing precisely those things that are worst for them," to the general sun-moth-cargo-cult-fireworks-delight behavior of essentially worshiping the last-largest explosion, believing that it has caused and created everything, and that it is the only way to run everything. This appears to be a stubborn default mammalian perception and this is unambiguously a very bad administrative strategy for managing project areas. 
 
 
 To be a bit more concrete: Vague perception-abstractions of 'power and greatness' tend to follow a Heike-Monogatari cycle, which arguably is also the plot of one of the oldest known stories, Gilgamesh: a strong-man picks the wrong goal, gets really pumped up believing he 'solved the universe' (being fooled by illusions, tricked by misunderstanding causality based on reified entertainment stimulation in the short term) and in the long term everything falls apart because he was was wrong, disconnected from reality, delusional, and his actions had real consequences that he was too short sighted and unskilled to understand.
@@ -271,12 +275,12 @@ To be a bit more concrete: Vague perception-abstractions of 'power and greatness
 2. replacement of STEM rigor with populist nihilism & disinformation
 3. abstraction and reification-illusions: erosion of perception and skills as perceived mystical causality from random sport-win chaotic outcomes becomes entrenched, habitual, learned, and institutionalized
 4. hybrid fragments of categories of types of systems: fantasy over STEM
-5. Escalating cycles of increasingly extreme thrill-seeking, risk-taking, and disconnection from reality.
+5. Escalating cycles of increasingly extreme thrill-seeking, risk-taking, and disconnection from reality. 
 
 
-Extremism and radicalization are system-and-definition epidemiology hygiene public-health situations to which no individual or population is innately immune.
+Extremism and radicalization are system-and-definition epidemiology hygiene public-health situations to which no individual or population is innately immune. 
 
-And explicit explicitly topic of a concept of being, and capacity to be, able to learn to navigate this landscape of project and definition spaces and outcomes, and that this is an imperative or at least a prerequisite, and that this is inherently part of learning and education practices, is curiously sparse, missing, and slow to develop in human communications and records over the time and space of history, yet fragments of the concept of being able to learn to perceive and navigate are arguably nascent (or nascently explicit) in works such as Thomas Hobbes's Leviathan.
+And explicit explicitly topic of a concept of being, and capacity to be, able to learn to navigate this landscape of project and definition spaces and outcomes, and that this is an imperative or at least a prerequisite, and that this is inherently part of learning and education practices, is curiously sparse, missing, and slow to develop in human communications and records over the time and space of history, yet fragments of the concept of being able to learn to perceive and navigate are arguably nascent (or nascently explicit) in works such as Thomas Hobbes's Leviathan. 
 
 Learning is not a one-way ratchet of progress: while an ambivalently-toxic concept of 'sport' thrill-seeking (usually ending in harm and loss) can develop into a constructive-learning-skill concept of 'sportsmanship,' the default equilibrium of toxic-sport-destruction continues to be the default, e.g. where learning is interrupted, ineffective, or too sparse. Non-automatic-learning does not cease to be non-automatic.
 
@@ -288,8 +292,8 @@ Intersecting-Interlocking-Interconnecting-Areas include:
 	- Context
 	- Generalized STEM
 	- Generalized Projects (project-context)
-	- Generalized Participation (+functional qualifications to participate;
-   ~3 participation categories with pre-participants &
+	- Generalized Participation (+functional qualifications to participate; 
+   ~3 participation categories with pre-participants & 
    post-participants; groups/families/units of participants)
       - Generalized Decision Coordination (voting etc).
 	- Generalized System Collapse
@@ -298,7 +302,7 @@ Intersecting-Interlocking-Interconnecting-Areas include:
 - Generalized Definition-Clarification vs. Disinformation-Violence
 - Generalized Definition Behaviors
 - Generalized System-Productivity (including long-term)
-- Generalized learning training teaching education curriculum content
+- Generalized learning training teaching education curriculum content 
    syllabus and methodology
 
 ? - Generalized indirectly-defined local value-function-and-meaning
@@ -347,10 +351,10 @@ A key issue in miscommunication and misunderstandings around STEM is the assumpt
 
 3. The one-tree is an interlocking STEM aggregate structure of empirical and measurable world-phenomena that are sufficiently close to (especially simple and linear) null-core principles. It is a kind of functional-map that is one big interlocking tree of inter-operable definitions that sufficiently describes those patterns that are stable enough to be mapped. That this area is generally unified may give rise to the misunderstanding that all of STEM is one homogenous thing.
 
-2. There is an important gap between the null-core of concepts (which is rules floating in rule-space) and the one-tree of sufficient simple models pragmatically pasted over real-world empirical phenomena. This is a kind of cluster of blindspots and neglected definitions for most people but is absolutely crucial when doing projects. This is one area where the rubber meets the road, where conceptual models do or don't describe and help navigate reality. 'Statistics' is one of the arm-wavy dismissive terms used to wave-away this area, and 'statistics' is yet another punt: Is statistics math? logic? probability? empirical? conceptual? Doing projects you will need to navigate this jump-gap, and the tools needed such as statistics, and the definition problems (is what you need 'statistics' and what more specifically does 'statistics' mean, or otherwise what do you need even if there is no word for it?) and the social-cultural-psychological challenges which are a massive set-of-areas, for example the life's works of Daniel Kahneman and Amous Tversky are (if more that you can absorb in a lifetime) one of many pieces of this frontier quagmire).
+2. There is an important gap between the null-core of concepts (which is rules floating in rule-space) and the one-tree of sufficient simple models pragmatically pasted over real-world empirical phenomena. This is a kind of cluster of blindspots and neglected definitions for most people but is absolutely crucial when doing projects. This is one area where the rubber meets the road, where conceptual models do or don't describe and help navigate reality. 'Statistics' is one of the arm-wavy dismissive terms used to wave-away this area, and 'statistics' is yet another punt: Is statistics math? logic? probability? empirical? conceptual? Doing projects you will need to navigate this jump-gap, and the tools needed such as statistics, and the definition problems (is what you need 'statistics' and what more specifically does 'statistics' mean, or otherwise what do you need even if there is no word for it?) and the social-cultural-psychological challenges which are a massive set-of-areas, for example the life's works of Daniel Kahneman and Amous Tversky are (if more that you can absorb in a lifetime) one of many pieces of this frontier quagmire).  
 
 4. Near-Off-The-One-Tree:
-The one-tree is often best defined as an interlocking set of simple linear relationships (or sufficiently approximated as linear). Let's think of a spectrum of more or less linear systems: More-linear systems fit most cleanly and completely onto the 'one-tree' of stem. But as we move further along the spectrum to systems that are  more nonlinear (dynamical, etc.), the more difficult it is to fit those systems onto the one-tree. As the empirical phenomena and models become less-linear, the coherence and utility of the one-tree breaks down. So an important area of techniques is finding various methods to increase what is 'close enough' or what can be bridged and translated to the one-tree. This not-too-far-off or "Near-off" the one-tree can be, and needs to be, described as an asset to the one-tree.
+The one-tree is often best defined as an interlocking set of simple linear relationships (or sufficiently approximated as linear). Let's think of a spectrum of more or less linear systems: More-linear systems fit most cleanly and completely onto the 'one-tree' of stem. But as we move further along the spectrum to systems that are  more nonlinear (dynamical, etc.), the more difficult it is to fit those systems onto the one-tree. As the empirical phenomena and models become less-linear, the coherence and utility of the one-tree breaks down. So an important area of techniques is finding various methods to increase what is 'close enough' or what can be bridged and translated to the one-tree. This not-too-far-off or "Near-off" the one-tree can be, and needs to be, described as an asset to the one-tree. 
 
 6. (Far)-Off-The-One-Tree is real and empirical but often not able to be modeled and connected to the one tree. This is a frontier in many respects.
 
@@ -370,7 +374,7 @@ Depending on your project, you may or may not be able to effectively lump-togeth
 - hash-table
 - ~table
 
-Similar to data-types, data-structures vary across language and environment and across disciplines/professions. As with data-types, sometimes you need to be strict (sometimes you need to be flexible) depending on the details of the project.
+Similar to data-types, data-structures vary across language and environment and across disciplines/professions. As with data-types, sometimes you need to be strict (sometimes you need to be flexible) depending on the details of the project. 
 
 
 # 4. Structured vs. Unstructured Data:
@@ -394,9 +398,9 @@ This is a crucial area in many projects but it has perhaps the worst lexicon and
 - 6. Feedback, Tests, Learning
 
 See:
-- https://github.com/lineality/Online_Voting_Using_One_Time_Pads
-- https://github.com/lineality/project_areas_for_project_and_product_management
-- https://github.com/lineality/needs_goals_assessment_disambiguation
+- https://github.com/lineality/Online_Voting_Using_One_Time_Pads 
+- https://github.com/lineality/project_areas_for_project_and_product_management 
+- https://github.com/lineality/needs_goals_assessment_disambiguation 
 
 
 You will need to clearly describe your project manually, not being able to use a lexicon that does not exist.
@@ -445,12 +449,12 @@ We can report on the progress of the project (formative, summative).
 We can monitor the system-health-fitness or system-collapse of the project.
 We can connect metrics for habitability and sustainability to project management.
 
-Goals & Scope Alignment: definition items
+Goals & Scope Alignment: definition items 
 We can align in main areas where a lack of alignment routines causes problems, which is a focus and impetus in some versions of/approaches to 'agile.'
 We can align on - Process, Values, and Agenda: [Data/System]Ecology: Collapse & Productivity
 We can align on - Schedules: (We can test and evaluate problems with schedule perception.)
-We can align on - Users: Stakeholders & Needs & Goals Evaluation (of users)
-We can align on - Features: User-Features & Subfeatures (or hidden features)
+We can align on - Users: Stakeholders & Needs & Goals Evaluation (of users) 
+We can align on - Features: User-Features & Subfeatures (or hidden features) 
 We can align on - MVP Targets (Minimum Viable Product Targets); Tools & 'Tool Stack / Tech Stack'
 We can align on - Feedback: Tests, Ecological Effects, Communication & Iteration
 
@@ -477,10 +481,10 @@ but if many (or all) boxes are checked in every project, then that likely indica
 
 We can identify project areas that when undefined will cause the project to fail and become a liability most of the time, often for unobserved and misunderstood reasons, often involving cascades of failed perception and communication (termed "mis-alignment") where perceptions of different people drift apart from both those of other people and from reality itself.
 
-We can more identify project areas priorities such as:
-- Alignment
-- Data/information hygiene
-- Coordination/Collaboration
+We can more identify project areas priorities such as: 
+- Alignment 
+- Data/information hygiene 
+- Coordination/Collaboration 
 - Data-STEM connection or definition
 - Productivity
 - Values, morals, & ethics
@@ -489,29 +493,29 @@ We can more identify project areas priorities such as:
 We can identify specific project definition and coordination areas such as:
 1. Process: Workflow Type, STEM Integration, Values, Agenda, Methods, Coordinated Decisions, (Data/System)Ecology: Collapse & Productivity (default option: Agile, Kahneman-Tversky, Definition-Studies)
 2. Schedules: (Duration; Start date)
-3. Users: Stakeholders & Needs & Goals Evaluation (of users)
+3. Users: Stakeholders & Needs & Goals Evaluation (of users) 
 4. Features: User-Features & Subfeatures/Under-The-Hood Features
 5. MVP: 'MVP's (Minimum Viable Products); Tools & 'Tool Stack / Tech Stack'
 6. Feedback_Learning: Learning, Tests, Communication, Signals, Documentation & Iteration, Organizational, System, and 'Ecological' Effects, (~agile)
 We can communicate about, coordinate about, and align reasonably on specific project definition areas and prevent projects from failing and turning into liabilities for misunderstood, unobserved, undocumented, reasons over and over in endless cycles of failure due to preventable ignorance and blindness.
 
-# Managing general project areas as per the details and needs of each project (as described by that project's general project areas) is best practice for positive and sustainable aligned process and project outcomes.
-## The Problem-Checklist approach to project areas:
-- Defining Agile-Type Areas of Projects as a set of predictable recurring problems, such as can be checked for after each iteration of a project, and that evaluated used in future planning: I.e. Here are lists of known issues; Are any of these happening? If so, there are likely invisible problems that are entirely solvable on the level of process, communication, and (except for extremes) universally accessible skills and practices. The approach here is not to try to micro-manage a one-size fits all positive-definition that should apply to everything, but rather a negative-definition of problem-areas that every unique project in a unique situation in a unique place needs to (and can) figure out how to address.
+# Managing general project areas as per the details and needs of each project (as described by that project's general project areas) is best practice for positive and sustainable aligned process and project outcomes. 
+## The Problem-Checklist approach to project areas: 
+- Defining Agile-Type Areas of Projects as a set of predictable recurring problems, such as can be checked for after each iteration of a project, and that evaluated used in future planning: I.e. Here are lists of known issues; Are any of these happening? If so, there are likely invisible problems that are entirely solvable on the level of process, communication, and (except for extremes) universally accessible skills and practices. The approach here is not to try to micro-manage a one-size fits all positive-definition that should apply to everything, but rather a negative-definition of problem-areas that every unique project in a unique situation in a unique place needs to (and can) figure out how to address. 
 - Schedule-issues may be the most demonstrably relatable for any participants (if also not easy to communicate about smoothly even in extremely remedial ways). It may be helpful to think of a kind of 'schedule object permanence' in a kind of project-space-sally-anne test. Some people are skilled at perceiving and managing schedule-object permanence space, many people are not, but likely ~all people are able to learn basic schedule object permanence skills and have basic fitness. A key problem is that many people do not understand the possibility of there being a lack of schedule-object-perminance-space fitness (and other project areas), assuming that all world fitness is automatic. The concept of not-automatically-learned-skills, is itself not automatically learned.
 
 System-Collapse Object-Perminance
 - We can develop, and measure the presence or absence of, a corollary to object permanence (in developmental stages of perception-learning)
-with regards to system collapse: We can learn to perceive, discuss, and navigate, system-collapse.
+with regards to system collapse: We can learn to perceive, discuss, and navigate, system-collapse. 
 
-We can manage alignment (with reality) vs. misalignment (with reality)' or disconnection (from reality) including:
-- default drift away from alignment (often indefinately invisible) and
+We can manage alignment (with reality) vs. misalignment (with reality)' or disconnection (from reality) including: 
+- default drift away from alignment (often indefinately invisible) and 
 - erroneous default diagnostics and strategies (such as seeking out system-shocks)
-- We can learn to distinguish between a reality based on data and
+- We can learn to distinguish between a reality based on data and 
 - We can distinguish and make judgements between instrumentalist and realist interpretations and goals.
 
 We can model and learn to navigate known biases in signals and perception:
-- We can be aware of, be vigilant about, and manage known "supernormal-stimulus" (sometimes called "super-signals") or representing personal attractions, predilections, and perception-distortions: en.wikipedia.org/wiki/Supernormal_stimulus
+- We can be aware of, be vigilant about, and manage known "supernormal-stimulus" (sometimes called "super-signals") or representing personal attractions, predilections, and perception-distortions: en.wikipedia.org/wiki/Supernormal_stimulus 
 - We can be aware of hard-coded supernormal-stimulus in basic categories such as 'over-representing' attraction and 'under-representing' aversion (classic Tinbergen studies of note include Goose vs. Hawk (aversion), Herring gull beak spots (developmental attraction), and songbird egg color patterns.)
 
 We can model and learn to navigate ways that perception-abstraction changes or impacts the subject being observed adding a distorting bias into collected observation-data:
@@ -525,7 +529,7 @@ System Collapse, System Hygiene & Coordination:
 - We can coordinate monitoring, modeling, diagnostics, preventions, and treatments for events of collapse and capture, including Regional Coordination Regarding Institutional-Capture.
 
 
-We can communicate and coordinate in these areas and ways:
+We can communicate and coordinate in these areas and ways: 
 We can communicate across participants, for example accomplishing coordination and coordinated decisions, for example using externalization of data.
 We can communicate across space.
 We can communicate across time.
@@ -543,7 +547,7 @@ We can communicate across media of communication.
 We can communicate across Input-Output Measures.
 We can communicate across different locations with different setting-location-items for projects.
 We can communicate between different setting-location-items for projects.
-We can communicate using tools in a project-context for coordination
+We can communicate using tools in a project-context for coordination 
  and decision making, including tasks, processes, and steps. (votes in elections/polls/surveys/questionnaires/planning-meetings)
 We can communicate through externalized-project space.
 (We can communicate across modular, scaled, break-down build-up, protocols and methods.)
@@ -572,7 +576,7 @@ We can identify and distinguish nihilism vs. value function and meaning.
 We can identify and distinguish processes vs. using stochastic outcomes for fantasy-reification-exploitation for sport-entertainment or addiction.
 
 We can generally distinguish between a reality approaching direction vs. reality-divergent illusory directions:
-We can identify known issues and distortions for perception including:
+We can identify known issues and distortions for perception including: 
 - potemkin villages
 - absence of feedback
 - illegitimate or low-quality feedback feedback
@@ -592,13 +596,13 @@ We can identify best practices conducive to alignment with reality such as:
 - attention to local knowledge
 - attention to local setting-location-items
 - sustainable productivity
-- continual improvement, skill acquisition and learning,
+- continual improvement, skill acquisition and learning, 
 - cultivating value, function, and meaning
 - awareness of non-automatic perception and other perception snares
 - vigilance regarding system-collapse
 
 We can navigate heterogeneity.
-we can (not automatically) learn to perceive and navigate heterogeneous landscapes and propensities to hallucinate causality and sustainability of systems and productivity.
+we can (not automatically) learn to perceive and navigate heterogeneous landscapes and propensities to hallucinate causality and sustainability of systems and productivity. 
 
 we can make/generate/cultivate and use/utilize:
 We can make and use clear descriptions (vs. liabilities of jargon & undefined terms).
@@ -633,14 +637,14 @@ There are standard, common, observable paths that such dysfunction follows and i
 
 
 Active-Learning Project/Activity 4:
-1. What factors may affect and shape agendas?
-2. How might agendas change or drift over time?
+1. What factors may affect and shape agendas? 
+2. How might agendas change or drift over time? 
 3. How do agendas relate to group agreed upon project goals?
 4. Review and comment on activities 1 and 2.
 Note the distinction between 'can' and 'should' with the above text focusing on available options and consensus across contexts, vs. the significant details of coordinating decisions on what should be appropriate in a specific context.
-Are there any 'can' statements that you see as items that can be done but which are left off your list of group agreed upon goals, means, and methods (e.g. for a narrow do-one-thing-well project or some other justification)?
+Are there any 'can' statements that you see as items that can be done but which are left off your list of group agreed upon goals, means, and methods (e.g. for a narrow do-one-thing-well project or some other justification)? 
 5. The shape and form of agendas and biases in practice:
-Take the following example: A topic being planned around is phrased as the following. "There are concerns that we are putting too much emphasis on structure."
+Take the following example: A topic being planned around is phrased as the following. "There are concerns that we are putting too much emphasis on structure." 
 How have different visible or invisible values, agendas, and biases, influenced this common archetype of discussion? How do nihilism, system collapse, and disinformation shape this slice of discussions (how have they, how will they)?
 6. For those that doubt that there is any value in listing anodyne can-do statements, patterns of deformation of definitions and systems, and other attributes of systems and definitions, what do you predict would happen if you surveyed, for example employees and students, for their awareness of, acknowledgement of, and value placed on, such items? Carry out a survey, compare results to your predictions, and compare both of these to potential repeated project failures that you do or do not observe in practice.
 
@@ -648,7 +652,7 @@ How have different visible or invisible values, agendas, and biases, influenced 
 
 Active-Learning Project/Activity 5:
 1. Put the following two on a basic map of categories of types of systems:
-A. naive reductionism and math-part math-sport fixations with 'beautiful reifications' as paralleled in repeatedly catastrophically failing projects run by oblivious people with eyes only for their obsessions with clouds of words they cannot define or explain. B. The reduction of psychology in the 1970s to meaningless abstractions of 'ration-ness'
+A. naive reductionism and math-part math-sport fixations with 'beautiful reifications' as paralleled in repeatedly catastrophically failing projects run by oblivious people with eyes only for their obsessions with clouds of words they cannot define or explain. B. The reduction of psychology in the 1970s to meaningless abstractions of 'ration-ness' 
 2. How do sub-symbolic models change or supplement seemingly-traditional approaches to STEM data handling?
 3. Though before even the first sub-symbolic/neural-network broad acceptance from Hinton et al around 2012 (following imagenet events), the reaction to the 2006-2008 financial crisis or 'Lehman Shock' that 'Mandelbrot was right, but we still need some kind of model to chart a navigating course however instrumentalist and provisional' put pins in the timeline of thinking about methodologies and pattern types. How would you describe this timeline extending to general foundation models in the early 2020s and beyond?
 https://www.economist.com/obituary/2010/10/21/benoit-mandelbrot
@@ -670,7 +674,7 @@ The main tools that we will use to go through the System and Definition Behavior
 4. Concrete narratives, or stories
 
 Here is an example of a concrete narrative:
-An ambassador travels to earth from the galaxy of Andromeda:
+An ambassador travels to earth from the galaxy of Andromeda: 
 And says:
 "Hello, I am an Ambassador.
 And I have traveled to earth from the galaxy of Andromeda.
@@ -678,7 +682,7 @@ In the galaxy of Andromeda we have a large-scale (intergalactic) diverse (multi-
 We would like to know if you, homo sapiens and earth, would like to join
 our large-scale (intergalactic), diverse (multi species), highly productive community.
 Here is an application form.
-Please fill it out and tell us what you could bring of value
+Please fill it out and tell us what you could bring of value 
 to our large-scale (intergalactic), diverse (multi species), highly productive community.
 One more thing: Tell us what you know about moving water bottles.
 Moving water bottles from one place to another is not a rare and valuable skill.
@@ -691,10 +695,10 @@ The ambassador leaves."
 
 
 Active Learning Project/Activity 5
-Fill out this application, starting with moving-water-bottles.
+Fill out this application, starting with moving-water-bottles. 
 
 
-Let's start with the moving-water-bottles part of the application-form (from the narrative).
+Let's start with the moving-water-bottles part of the application-form (from the narrative). 
 (The valuable-contribution part will come up later.)
 
 Water (as in the case example of moving water( containers)) is a gift that keeps on giving: it is nonsectarian and it is easily definable.
@@ -716,16 +720,16 @@ The end of our timeline (where 'Agile Project Management' is) is also where a go
 - arrow
 - X
 
-And to further clarify and simplify:
+And to further clarify and simplify: 
 - Agile Project Management is the X-marks the spot goal-target on a treasure map;
 - This goal-target is what we are looking for;
-- This goal is where the agile-user (another target) has needs;
+- This goal is where the agile-user (another target) has needs; 
 - This is where ___ target-user (of your project, in this example: all of humanity and society) has needs;
 - Meeting the needs of your target-user is a treasure.
 
 
 
-
+ 
 
 Boy Scout Values (slightly modified)
 A scout is
@@ -736,10 +740,10 @@ A scout is
 - courteous
 - kind,
 - obedient,
-- cheerful,
+- cheerful, 
 - thrifty
 - brave,
-- clean, and
+- clean, and 
 - reverent.
 
 On my honor, I will do my best to, to do my duty to, to guide projects:
@@ -747,7 +751,7 @@ On my honor, I will do my best to, to do my duty to, to guide projects:
 - to help other people at all times,
 - to keep myself,
 - physically strong,
-- mentally awake, and
+- mentally awake, and 
 - morally straight.
 
 Bravery Clause (from Order of The Arrow): internal whistleblowing + external confrontation.
@@ -757,9 +761,9 @@ Guidance clause: Duty, Responsibility and Setting-location-items, ancestors, spi
 
 A scout is prepared. Prepared for what?
 - To manage down or manage to equilibrium system collapse.
-- To manage up or manage to equilibrium system value, function, and meaning.
+- To manage up or manage to equilibrium system value, function, and meaning. 
 
-Regarding Scout Values:
+Regarding Scout Values: 
 1. Universal system of ethics.
 2. Rejected because it is a universal system of ethics.
 3. Not definable outside of a context.
@@ -768,14 +772,14 @@ Regarding Scout Values:
 
 
 
-Active Learning Project/Activity 7:
-Give an Agile project-context example for each Boy Scout oath and law area. e.g. Descriptions that highlight the difference between:
+Active Learning Project/Activity 7: 
+Give an Agile project-context example for each Boy Scout oath and law area. e.g. Descriptions that highlight the difference between: 
 1. Projects that succeeded and projects that failed,
 2. Teams that you would choose to work with again vs. not.
 
 
 Active Learning Project/Activity 8:
-Try to describe and define Boy Scout values without using any context, situations, or examples.
+Try to describe and define Boy Scout values without using any context, situations, or examples. 
 
 Active Learning Project/Activity 9:
 Compare the with-context and without-context results and experiences.
@@ -784,7 +788,7 @@ Compare the with-context and without-context results and experiences.
 (Beginning of Definition Studies Mnemonic Proper)
 
 
-Active Learning Project/Activity 10:
+Active Learning Project/Activity 10: 
 Pick a target and fill out the Mnemonic template including addressing the group agreed upon goals means method statement (as previously discussed). Your target project should include a user or group of users, and something you are aiding those participants with. (See, agile 'user stories')
 
 Mnemonic
@@ -819,9 +823,9 @@ standards,
 elements,
 protocols,
 gestalts,
-symbols,
+symbols, 
 signs,
-portals,
+portals, 
 pathways,
 world-as-unit items and translatable(s),
 fractal landscape items,
@@ -832,31 +836,31 @@ post-participants,
 linear time,
 nonlinear time
 
-Q: Why are we talking about setting-location-items?
-A:
+Q: Why are we talking about setting-location-items? 
+A: 
 - Ideal chess boards
 - Definitions of insanity
-- You have local factors.
+- You have local factors. 
 - Other people have different local factors.
 - You need policies to cover all these areas.
 
-e.g. The classic example of two internationally distant sister-cities communicating and coordinating about "natural disaster" relief (flood, storm, quake, etc.) and disturbance regimes (modeling/policy/management.)
+e.g. The classic example of two internationally distant sister-cities communicating and coordinating about "natural disaster" relief (flood, storm, quake, etc.) and disturbance regimes (modeling/policy/management.) 
 
 1. There is some set of shared concepts, such as a 'natural disaster' (or any disaster) 'aid and relief,' 'recovery,' and 'a failure to recover from a disaster,' that all locations are familiar with and engaged with. All areas have some periodic challenges that they need the skills to sustainably deal with.
-2. The types of disaster regimes native to one geographically defined area may be either mostly unknown or entirely alien to other geographically defined areas: forest fires, tornados, blizzards, tsunamis, river-flooding, etc., do not all occur (or are known of at all) in all locations and situations. It is not practical for a given geography to insist that all geographies relate to the world only in terms of that one geography's concepts and experiences. It is practical to learn about the needs and skills of other geographies, especially in cases of less common but inevitable disturbances with which more distant locations have more familiarity (e.g. snowfall very occasionally causes preventable issues in areas that lack familiarity with that disturbance).
-3. Having a 'sister-city' connection can significantly increase resilience and improve perception.
+2. The types of disaster regimes native to one geographically defined area may be either mostly unknown or entirely alien to other geographically defined areas: forest fires, tornados, blizzards, tsunamis, river-flooding, etc., do not all occur (or are known of at all) in all locations and situations. It is not practical for a given geography to insist that all geographies relate to the world only in terms of that one geography's concepts and experiences. It is practical to learn about the needs and skills of other geographies, especially in cases of less common but inevitable disturbances with which more distant locations have more familiarity (e.g. snowfall very occasionally causes preventable issues in areas that lack familiarity with that disturbance). 
+3. Having a 'sister-city' connection can significantly increase resilience and improve perception. 
 4. The topic of disturbance-types overlaps with a more general topic of 'setting location areas' that is likewise generally (or abstractly) shared, where details are location-specific, and where a balance of shared information can be either beneficial or necessary for long term maintainable survival.
 
 
 2. Love, Act Responsibly Towards, Fulfill Duties Towards
 including a framework borrowed from biology containing "commensal",
 including:
-1. Energy,
-2. Nutrients,
-3. Shannon/Turing Information,
+1. Energy, 
+2. Nutrients, 
+3. Shannon/Turing Information, 
 4. Definition behaviors
 
-Q: Why are we talking about ethics (love, duty, and responsibility)?
+Q: Why are we talking about ethics (love, duty, and responsibility)? 
 A: There is an epidemic of anti-best-practice action and rhetoric. There should be:
 1. a system medicine research area;
 2. a system epidemiology task-force.
@@ -864,12 +868,12 @@ A: There is an epidemic of anti-best-practice action and rhetoric. There should 
 
 3. Reception And Reflection:
 There is a time for reception and reflection.
-I will be receptive and reflective for a [period of] time
+I will be receptive and reflective for a [period of] time 
 for example 3-5 inhalation-exhalation cycles,
 (e.g.)
 1 meter squared
 1 meter diameter
-+/
++/ 
 Three ~levels/areas of duty / participation-modes: pre-participant, participant, post-participant
 
 
@@ -881,12 +885,12 @@ Three ~levels/areas of duty / participation-modes: pre-participant, participant,
 - empathy and compassion
 
 
-Participation Array, 5x5 items:
+Participation Array, 5x5 items: 
 (This should be generalizable and specifically applicable given an array of 5x5 items.)
 1. Participation Items
 2. Setting Location Items
 3. Definition Behavior Items
-4. Proximity, Scale, Contact, Interaction, Exposure Items
+4. Proximity, Scale, Contact, Interaction, Exposure Items 
 5. Standard Set of Agreed Upon Goals, Means, Methods Areas
 
 [5x5 array]
@@ -923,15 +927,15 @@ Sub-Participants can, should, will, want to, do, help, and / or help with, serve
 4.4.1.2 consciousness array: 3 fractal vectors
 4.4.1.2.1  time, body
 4.4.1.2.2  object location event
-4.4.1.2.3  behaviors, policies
-4.4.1.2.3.1 behaviors details:
-in / out;
-on / off;
-start / stop;
-begin / end;
-dual / non-dual;
+4.4.1.2.3  behaviors, policies 
+4.4.1.2.3.1 behaviors details: 
+in / out;  
+on / off; 
+start / stop; 
+begin / end; 
+dual / non-dual; 
 mundane / non-mundane
-4.4.1.2.3.2 Policies details:
+4.4.1.2.3.2 Policies details: 
 perception, translation, coordination, collaboration, non-discrimination, non-collapse
 4.4.2 Reception, Reflection, Absorption
 4.4.3 Something-hard, Something-Soft Areas
@@ -948,12 +952,12 @@ perception, translation, coordination, collaboration, non-discrimination, non-co
 
 1.  I will do my best to help all parties according to all known best practice standards and protocols; to manage down or manage to equilibrium system-collapse, to manage up or manage to equilibrium system-value-function-and-meaning.
 
-2.  Best Practice Blessing:
-"May you, may we, may noun,
-become proficient
-in the sustainable cultivation
+2.  Best Practice Blessing: 
+"May you, may we, may noun, 
+become proficient 
+in the sustainable cultivation 
 of value, function, and meaning,
-via a local implementation
+via a local implementation 
 of generalized system best practice,
 with local spice and sauce."
 [~'...with local customs and knowledge.']
@@ -962,7 +966,7 @@ with local spice and sauce."
 
 
 
-2. Clarification Statements Section:
+2. Clarification Statements Section: 
 Disinformation & System Collapse
 
 ("Clarification statements" relate to system defense, system immune-system, diagnostics, disinformation, collapse-metrics, weak-points.
@@ -975,8 +979,8 @@ You need to know where and how collapse happens.
 You need to know what collapse looks like.
 You need to know how to prepare for, prevent, and recover from collapse.)
 
-Whether or not a statement should be clarified is an important item that should be dealt with according to all known best practice standards and protocols;
-1. No unilateral changes to group-agreed-upon goals, means, and methods, and
+Whether or not a statement should be clarified is an important item that should be dealt with according to all known best practice standards and protocols; 
+1. No unilateral changes to group-agreed-upon goals, means, and methods, and 
 2. No unilateral system collapse.
 
 
@@ -985,10 +989,10 @@ Whether or not a statement should be clarified is an important item that should 
 (Tautology Area 1)
 2.1 Tautology Area 1: Three items which are also categories:
 
-2.1.1  Participation: Participating on the behalf of participants without the participation
+2.1.1  Participation: Participating on the behalf of participants without the participation 
 is bad, is wrong, it causes system collapse, it should not be done, and I will not do it.
 
-2.1.2  Best Practice: Mismanaging general-system-management areas
+2.1.2  Best Practice: Mismanaging general-system-management areas 
 It is bad, It is wrong, it causes system collapse, it should not be done, and I will not do it.
 For example:
 2.1.2.1  Having values
@@ -998,7 +1002,7 @@ For example:
 2.1.2.5  No Unilateral System Collapse
 2.1.2.6  Proficiency Standards for Time and Schedules
 
-2.1.3  Causality Models: Concept Check: Scapegoating and Elimination: Identifying any entire part of the world as to be scapegoated and eliminated
+2.1.3  Causality Models: Concept Check: Scapegoating and Elimination: Identifying any entire part of the world as to be scapegoated and eliminated 
 is bad, is wrong, it causes system collapse, it should not be done, and I will not do it.
 
 (Tautology Area 2)
@@ -1014,7 +1018,7 @@ Identifying system collapse as a goal, not indirectly as in dark lighthouse but 
 2.2.3  Mismanaging categories of types of systems
 	is bad, is wrong, it causes system collapse, it should not be done, and I will not do it.
 
-2.2.4  Mismanaging Cross-Context-Areas:
+2.2.4  Mismanaging Cross-Context-Areas: 
 e.g.
 	- exponential elbows
 	- perception abstraction
@@ -1023,13 +1027,13 @@ e.g.
 
 2.2.5 Mismanaging Standard System Policy Areas:
 	is bad, is wrong, it causes system collapse, it should not be done, and I will not do it.
-For example:
-1. Mismanaging Split substantiations: for example
-'they are all good'
-'they are all bad'
+For example:  
+1. Mismanaging Split substantiations: for example 
+'they are all good' 
+'they are all bad' 
 'they should be dealt with by cramming them together or splitting them apart"
-2. Golden circle asymmetry / inside outside asymmetry, deleterious effects include:
-- causality,
+2. Golden circle asymmetry / inside outside asymmetry, deleterious effects include: 
+- causality, 
 - schedules,
 - contracts.
 3. System inversion (is a standard data artifact)
@@ -1054,7 +1058,7 @@ _______  = target (population)
 3.2.1 _________ has (no) system membranes.
 The standard side-effects of not having system membranes include: (speculative)
 3.2.2.1 meat shielding
-3.2.2.2 junk clouding
+3.2.2.2 junk clouding 
 3.2.2.3 growth racing
 3.2.2.4 self/child cannibalism
 3.2.2.5 increasingly uninhabitable habitat seeking
@@ -1090,9 +1094,9 @@ _________ shows (no) signs of having a concept of types of generality.
 (types, scales, levels, recursive, etc.)
 
 3.4 Policy Areas:
-_________ (target) is (or is not) dedicated to the:
+_________ (target) is (or is not) dedicated to the: 
 3.2.1  Destruction
-3.2.2  Exploitation
+3.2.2  Exploitation 
 3.2.3  Misuse
 3.2.4  Eradication
 3.2.5  Torture
@@ -1115,12 +1119,12 @@ _________ (above list) of general system management areas.
 (new set of sets)
 3. Disturbance regimes & epidemiology
 +
-4.
-perception
-habitability
+4. 
+perception 
+habitability 
 feedback
-learning
-habit
+learning 
+habit 
 accretion
 
 
@@ -1176,10 +1180,10 @@ Use or create a routine to build and maintain a full "range of motion," 'yoga' f
 #### Example:
 1. Ethics and Projects: Definition Study Mnemonic
 2. Body: Body-Extension Exercises/Yoga
-https://github.com/lineality/parkinsons_resources
+https://github.com/lineality/parkinsons_resources 
 3. Language: 般若心経 (link)
 
-Activity: Create and use your own system and use feedback and perception to find and communicate what methods work to maintain fitness.
+Activity: Create and use your own system and use feedback and perception to find and communicate what methods work to maintain fitness. 
 
 
 ### Summary Brainstorm 1: concepts of improvement
@@ -1190,7 +1194,7 @@ Activity: Create and use your own system and use feedback and perception to find
 - cycles longevity, sequence
 
 ### Summary Brainstorm 2: STEM
-What is the nature of how parts of projects and STEM are (or are not) connected? What are categories of types of systems? How do systems, processes, projects, and definitions fail and collapse? Is there any interface between discussion of ethics, morals, even compassion and mindfulness, and the realm of systems and projects and STEM? What are mistakes? What does it mean to learn or course-correct based on mistakes? Can problem-with-perception be themselves perceived? Can obstacles to learning be overcome by learning about those obstacles?
+What is the nature of how parts of projects and STEM are (or are not) connected? What are categories of types of systems? How do systems, processes, projects, and definitions fail and collapse? Is there any interface between discussion of ethics, morals, even compassion and mindfulness, and the realm of systems and projects and STEM? What are mistakes? What does it mean to learn or course-correct based on mistakes? Can problem-with-perception be themselves perceived? Can obstacles to learning be overcome by learning about those obstacles? 
 
 ### Summary Brainstorm 3: Clear & Testable Definitions
 - What definitions are not sufficiently clear or testable?
@@ -1199,26 +1203,26 @@ What is the nature of how parts of projects and STEM are (or are not) connected?
 The boyscout goal of keeping physically strong, mentally awake, and morally straight, is likely at least 2:3 clear as of 2024. Physical diet and exercise and healthy food are reasonably non-controversial. But 'daily ethical-exercise' is less clear in general terms. Brainstorm what methods and measures of daily ethics-fitness-training-exercise might look like.
 
 ### Acknowledging Nuance and Being Wary of Oversimplification
-Regarding "6. Turning on and off (running) system processes ((for example) comparing policy from Roman Catholicism, South Korea, and Judaica)"
-Brainstorm on general and specific examples of cases of starting or stopping a running process.
+Regarding "6. Turning on and off (running) system processes ((for example) comparing policy from Roman Catholicism, South Korea, and Judaica)" 
+Brainstorm on general and specific examples of cases of starting or stopping a running process.  
 
 # Part 2. Implementation in Projects
-### Six items for the use-case/context for Uma:
-- Aligned
-- Hygienic
-- Coordinated/Collaborative
-- Data-STEM
-- Productive
+### Six items for the use-case/context for Uma: 
+- Aligned 
+- Hygienic 
+- Coordinated/Collaborative 
+- Data-STEM 
+- Productive 
 - Projects
 
 "Easy things are hard."
 Saying you want to coordinate around tasks, goals, and bits of information (such as blurbs, notes and message) sounds easy, but it is not only difficult but invisibly difficult.
 
-Even given all the technology in 2024, with the caveat that you cannot use an expensive subscription service to make the problem go away (which may resemble a similar clear-web deep-web problem as well as simply cost):
+Even given all the technology in 2024, with the caveat that you cannot use an expensive subscription service to make the problem go away (which may resemble a similar clear-web deep-web problem as well as simply cost): 
 
 ### Three Questions on Collaboration Tools.
 1. Features: What User-Features/Functionalities are needed for a project to use best-practice satisfying the standards of (if not using all methods of) Agile Agile-Khaneman-Tversky-Decision Project-Product Management?
-2. Tools: What tools are needed to affect what features? (E.g. In 2024 what if any tools could a non-clearweb business/ngo/institution/municipality/etc. use to effect
+2. Tools: What tools are needed to affect what features? (E.g. In 2024 what if any tools could a non-clearweb business/ngo/institution/municipality/etc. use to effect 
 Administration and productivity tools Agile Agile-Kahneman-Tversky-Decision best practice Project-Product Management? [GGA answer: None that I know of in 2024])
 3. Timeline: Could Agile-Khaneman-Decision tools for project management have been built in the 1960's?
 
@@ -1226,23 +1230,23 @@ Active Learning Project/Activity 12:
 ### Three Questions on Collaboration Tools.
 1. Timeline: Could Agile-Khaneman-Decision tools have been built in the 1960's?
 2. Features: What User-Features/Functionalities are needed for a project to use best-practice satisfying the standards of (if not using all methods of) Agile Agile-Kahneman-Tversky-Decision Project-Product Management?
-3. Tools: What tools are needed to effect what features?
-4. In 2024 what if any tools could a non-clearweb business/ngo/institution/municipality/etc. use to effect
+3. Tools: What tools are needed to effect what features? 
+4. In 2024 what if any tools could a non-clearweb business/ngo/institution/municipality/etc. use to effect 
 Administration and productivity tools Agile Agile-Kahneman-Tversky-Decision best practice Project-Product Management? [GGA answer: None that I know of in 2024]
-5. How do STEM and intertwined learning areas relate to needed features, tools, and implementations?
+5. How do STEM and intertwined learning areas relate to needed features, tools, and implementations? 
 
 
 What are the time-line curiosities here?
 e.g. STEM timeline
 +
 4. Are tools for features pragmatically available in 2024?
-5. What is the role of 'technology,' as in the 1936 paper outlining a turing machine.
+5. What is the role of 'technology,' as in the 1936 paper outlining a turing machine. 
 
 
 
 
 Appendix 1: Short Term & Long Term
 
-Perhaps in a context of the debate around the book, or the title of post cold war the book by Francis Fukuyama, we should be moving beyond the stage of debating whether there is a difference between short-term and long-term and instead progress to building up our understanding of the problem space of these two.
+Perhaps in a context of the debate around the book, or the title of post cold war the book by Francis Fukuyama, we should be moving beyond the stage of debating whether there is a difference between short-term and long-term and instead progress to building up our understanding of the problem space of these two. 
 
 Worm and Apple: By definition, there will be a short-term incentive for patterns such as cheating and fraud. But there should not be fundamental confusion about whether crime, theft, and fraud represent strategies for production and productivity. Part of the problem-space is the maze of perception and learning issues that are themselves subject to being defrauded and pillaged, but, again, there should not be fundamental confusion and lack of agreement about whether preying upon the uneducated represents a long term strategy for productive education and cultivation.
