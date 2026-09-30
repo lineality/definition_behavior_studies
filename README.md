@@ -190,6 +190,8 @@ However, this same role, functionality, and concept of membranes has (as of 2026
 
 After we can understand and describe (for example after sufficient hands on observation under a microscope and measures of properties and gradients inside and outside of a cell) the 'corrosive' 'environmental' 'exposure' effects that happen when a "cell" membrane is removed, we should look at other phenomena in the world where regulatable habitability conditions are corrosive: practices, people, skills, institutions and administrations, languages, STEM developments, art and culture skills and traditions, can (at least in many instances) be unambiguously observed to be affected by spacial-geographic, exposure or boundary, membrane-like dynamics. Trade, property, and rule of law type systems of regulated maintainable interactions are built around active engineering and defense of spaces of interactivity that do not automatically self-organize and self-maintain. 
 
+If the parallel still seems obscure (since the scale ranges from small to large), try looking at whether or not something relies on accidents of geography for survival, in particular using escape to refugia or some other brute force method to compensate for being in an open-corrosive environment with no membrane-functionality to moderate. Depending on the context this might be reliance on sheltering in refugia, using others as a 'meat shield' to temporarily insulate yourself, trying to flood the environment by brute force to change the conditions in a whole region, cannibalizing yourself, seeking less habitable but more stable niche environments, or trying to outrun gradient changes through growth.
+
 Relying on a fortuitous incidental absence of local signal-environment disruption and not formally recognizing or studying the signal and definition-state environment in terms of system-collapse do not represent long term architectural strategy. 
 
 The system-collapse of definitions and systems in the absence of membrane-functionality occurs very much in the same way that a cell can very rarely continue to function for long in an openly-reactive environment without membranes. Signals, communications, coordinated decisions, alignment, perception, orientation, learning, and project management, are conspicuous examples of rapid default system-collapse, where not only does the coordinated-decision and project-state collapse but the capacity to perceive the collapse-event (and pattern of collapse events in time) collapses, resulting in an endless return to a default oblivion of repeating the same ignorant failures indefinately.
@@ -1062,6 +1064,7 @@ The standard side-effects of not having system membranes include: (speculative)
 3.2.2.3 growth racing
 3.2.2.4 self/child cannibalism
 3.2.2.5 increasingly uninhabitable habitat seeking
+3.2.2.6 temporary use of refugia
 
 
 3.3 Diagnostic Array
