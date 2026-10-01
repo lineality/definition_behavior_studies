@@ -5,16 +5,16 @@ https://medium.com/@GeoffreyGordonAshbrook/overview-of-a-definition-behavior-stu
 Overview of A Definition Behavior Studies Mnemonic
 Essay-Instructional Overview
 
-Geoffrey Gordon Ashbrook, Updated 2026.09.30th
+Geoffrey Gordon Ashbrook, Updated 2026.10.01st
 
 Definition Behavior Studies is an interdisciplinary area of study, part Computer Science, statistical process analysis, hypothesis testing, Data Science, religious studies, ethics and mindfulness, and AI.
 
 System and definition behavior studies is the field of study pertaining to the behavior of definitions, in particular collapse behaviors in a context of general system collapse. 
 
 This is an inquiry based approach. Identifying good questions has value in and of itself, inquiry is a useful process to make use of as a matter of policy and method, and there are particular questions that can form a starting point: 
-- What is the agenda?
+- What is an agenda?
 - What are the goals and modus operandi? 
-- What is the goals-means-method statement (in a project-context, with project-participants)?
+- What is a goals-means-method statement (in a project-context, with project-participants)?
 
 ## Sections:
 1. Part One: Principles & Concepts of Definition Studies
@@ -182,7 +182,7 @@ Fantasy-hypotheticals (about evolutionary environment that would in some unknown
 
 As in the case of a pre-membrane time period, various individual reactions of (abstracted out of a cell-with-membrain context) can and likely did happen in an openly-reactive no-membrains (pre-biology/proto-biology) environment. The lack of membranes means that degradation, destruction, erosion, weathering, etc., would predominantly have quickly destroyed whatever was able to form or be formed. This is part of the developmental question about how cellular life may have formed in an openly reactive environment, given the significant difficulty of maintaining anything for long enough to do anything before everything is rapidly destroyed and collapsed back to the default-equilibria of non-biology and less-useful reactive states. 
 
-While 'people' cherish cult-ish beliefs in automatically ideal situations, the existence of the concept of a membrane (either for a biological cell or for definitions and systems) stands in stark contrast to the cult of automatic passive productive formation and maintenance.
+While 'people' cherish cult-ish beliefs in automatically ideal situations, the existence of the concept of a membrane (either for a biological cell or for definitions and systems) stands in stark contrast to the cult-ish ideological attraction to declared principles of automatic passive productive formation and maintenance.
 
 In the case of biochemistry there should be no doubt or disagreement about the existence and role of membranes: biological cells usually cannot survive, exist, function, be-maintained, etc., without some functional system of membranes. That a bio-chemical 'system collapse' of a cell will happen in the absence of membrane-functionality and features is not seriously in question.
 
@@ -353,7 +353,7 @@ A key issue in miscommunication and misunderstandings around STEM is the assumpt
 
 3. The one-tree is an interlocking STEM aggregate structure of empirical and measurable world-phenomena that are sufficiently close to (especially simple and linear) null-core principles. It is a kind of functional-map that is one big interlocking tree of inter-operable definitions that sufficiently describes those patterns that are stable enough to be mapped. That this area is generally unified may give rise to the misunderstanding that all of STEM is one homogenous thing.
 
-2. There is an important gap between the null-core of concepts (which is rules floating in rule-space) and the one-tree of sufficient simple models pragmatically pasted over real-world empirical phenomena. This is a kind of cluster of blindspots and neglected definitions for most people but is absolutely crucial when doing projects. This is one area where the rubber meets the road, where conceptual models do or don't describe and help navigate reality. 'Statistics' is one of the arm-wavy dismissive terms used to wave-away this area, and 'statistics' is yet another punt: Is statistics math? logic? probability? empirical? conceptual? Doing projects you will need to navigate this jump-gap, and the tools needed such as statistics, and the definition problems (is what you need 'statistics' and what more specifically does 'statistics' mean, or otherwise what do you need even if there is no word for it?) and the social-cultural-psychological challenges which are a massive set-of-areas, for example the life's works of Daniel Kahneman and Amous Tversky are (if more that you can absorb in a lifetime) one of many pieces of this frontier quagmire).  
+2. There is an important gap between the null-core of concepts (which is rules floating in rule-space) and the one-tree of sufficient simple models pragmatically pasted over real-world empirical phenomena. This is a kind of cluster of blindspots and neglected definitions for most people but is significant or even vital when doing projects. This is one area where the rubber meets the road, where conceptual models do or don't describe and help navigate reality. 'Statistics' is one of the arm-wavy dismissive terms used to wave-away this area, and 'statistics' is yet another punt: Is statistics math? logic? probability? empirical? conceptual? Doing projects you will need to navigate this jump-gap, and the tools needed such as statistics, and the definition problems (is what you need 'statistics' and what more specifically does 'statistics' mean, or otherwise what do you need even if there is no word for it?) and the social-cultural-psychological challenges which are a massive set-of-areas, for example the life's works of Daniel Kahneman and Amous Tversky are (if more that you can absorb in a lifetime) one of many pieces of this frontier quagmire).  
 
 4. Near-Off-The-One-Tree:
 The one-tree is often best defined as an interlocking set of simple linear relationships (or sufficiently approximated as linear). Let's think of a spectrum of more or less linear systems: More-linear systems fit most cleanly and completely onto the 'one-tree' of stem. But as we move further along the spectrum to systems that are  more nonlinear (dynamical, etc.), the more difficult it is to fit those systems onto the one-tree. As the empirical phenomena and models become less-linear, the coherence and utility of the one-tree breaks down. So an important area of techniques is finding various methods to increase what is 'close enough' or what can be bridged and translated to the one-tree. This not-too-far-off or "Near-off" the one-tree can be, and needs to be, described as an asset to the one-tree. 
@@ -367,7 +367,7 @@ One way (if provisional) of describing this area is that slightly non-linear beh
 # 2. Data-Types & Type-Strict/Type-Safe Code:
 Whether or not you are dealing with code directly in your project
 
-Depending on your project, you may or may not be able to effectively lump-together data-types. For example, a non-production Python project requires less type-strictness, a production Rust project requires more type-strictness. Strictness is not always important in and of itself, but it can be essential depending on the details of a project. Neglecting this (in either direction) can result in total failure in a state of confusion and misunderstanding, which is bad.
+Depending on your project, you may or may not be able to effectively lump-together data-types. For example, a non-production Python project requires less type-strictness, a production Rust project requires more type-strictness. Strictness is not always important in and of itself, but it can be essential depending on the details of a project. Neglecting this (in either direction) can result in project-failure in a state of confusion and misunderstanding, which is bad.
 
 
 # 3. ~Data-Structures:
