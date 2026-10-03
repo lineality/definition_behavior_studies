@@ -5,7 +5,7 @@ https://medium.com/@GeoffreyGordonAshbrook/overview-of-a-definition-behavior-stu
 Overview of A Definition Behavior Studies Mnemonic
 Essay-Instructional Overview
 
-Geoffrey Gordon Ashbrook, Updated 2026.10.01st
+Geoffrey Gordon Ashbrook, Updated 2026.10.03rd
 
 Definition Behavior Studies is an interdisciplinary area of study, part Computer Science, statistical process analysis, hypothesis testing, Data Science, religious studies, ethics and mindfulness, and AI.
 
@@ -190,7 +190,7 @@ However, this same role, functionality, and concept of membranes has (as of 2026
 
 After we can understand and describe (for example after sufficient hands on observation under a microscope and measures of properties and gradients inside and outside of a cell) the 'corrosive' 'environmental' 'exposure' effects that happen when a "cell" membrane is removed, we should look at other phenomena in the world where regulatable habitability conditions are corrosive: practices, people, skills, institutions and administrations, languages, STEM developments, art and culture skills and traditions, can (at least in many instances) be unambiguously observed to be affected by spacial-geographic, exposure or boundary, membrane-like dynamics. Trade, property, and rule of law type systems of regulated maintainable interactions are built around active engineering and defense of spaces of interactivity that do not automatically self-organize and self-maintain. 
 
-If the parallel still seems obscure (since the scale ranges from small to large), try looking at whether or not something relies on accidents of geography for survival, in particular using escape to refugia or some other brute force method to compensate for being in an open-corrosive environment with no membrane-functionality to moderate. Depending on the context this might be reliance on sheltering in refugia, using others as a 'meat shield' to temporarily insulate yourself, trying to flood the environment by brute force to change the conditions in a whole region, cannibalizing yourself, seeking less habitable but more stable niche environments, or trying to outrun gradient changes through growth.
+If the parallel still seems obscure (since the scale ranges from small to large), try looking at whether or not something relies on accidents of geography for survival, in particular using escape to refugia or some other brute force method to compensate for being in an open-corrosive environment with no membrane-functionality to moderate. Depending on the context this might be reliance on sheltering in refugia, using others as a 'meat shield' to temporarily insulate yourself, trying to flood the environment by brute force to change the conditions in a whole region, cannibalizing yourself, seeking less habitable but more stable niche environments, or trying to outrun gradient changes through growth. Inherent in these environmental-condition situations are the non-trivial problem spaces of immune systems, contagion, and epidemiology. Is a given system exposed and porous for vectors of disturbance regimes and beyond-normal-regime disturbances or can the system functionally avoid direct exposure? 
 
 Relying on a fortuitous incidental absence of local signal-environment disruption and not formally recognizing or studying the signal and definition-state environment in terms of system-collapse do not represent long term architectural strategy. 
 
@@ -201,6 +201,8 @@ To make one further step into the analogy, common features of speculation about 
 Lacking a formal or informal field of informational-epidemiology or a corresponding set of concepts and perception skills, societies may be with regards to system and definition collapse as they were in medicine and hygiene before STEM notions and institutions of infectious disease matured, where live existed either ravaged by outbreaks or fatalistically enjoying the periods between disturbance with the two sides of debates being whether the causes of disease were mysteriously supernatural or whether the topic was boring and unimportant. 
 
 The argument here, perhaps as part of a larger challenge of teaching basic concepts of self-preservation to violent hominids, is a 'we can' statement: We can value, study, engineer, cultivate, and maintain system-and-definition sustainability-features that may be described or analogized as 'System Membranes' as maintainable solutions to understandable risks and challenges of system and definition collapse.
+
+To clarify, the language here is trying to describe functional mechanisms and effects using familiar, established, and hopefully accessible STEM terminology such as 'membrane,' 'disturbances,' 'gradients,' 'reactivity,' 'geographic refugia,' and 'epidemiology' etc. A predictable obstacle to communication and understanding here is the strong attraction that many people have to fantastical-declarative 'magic symbols'; drawing a circle on a piece of paper and dramatically declaring that you have created a cell, a person, a company, and institute, or a sovereign nation, through reified-fantasy abstraction is a matter of delusional mental illness (however common); "Symbolic boundaries" declared for dramatic illusions should neither be confused with functional-STEM associated with functional membrane-features, nor should membranes be denied because purely symbolic boundaries lack function: there are politicians and errant-leaders on both sides of this, either misleading people into thinking that somehow all boundaries are literally illusions (without providing a testable STEM formulation of that argument) or claiming that a symbolic boundary will be a fantasy talisman against vague bad-stuff (likewise without testable STEM).
 
 To Recap:
 For known biology, membranes are a functional spatial-boundary that defines (by actively mechanically enabling) where a given 'cell' is. This is part of the chicken and egg problem of trying to understand the historical origins of cell chemistry, and of membranes. There may be more than superficial similarity between two contexts of the search for historical environmental refugia and chains of constructive reactions that were maintainable over time; we examine biological cells in this way, and this also describes the nearer-history of trying to understand the less-maintainable formations, and frequent dissolutions, of governments and various administrative institutions (including the 'institution' of STEM itself that was built largely in hiding, in exile, or en-route of escape from threat of violence).  
@@ -273,10 +275,14 @@ Goal-Articulation is a skill/task that famously can go awry, from genie-in-the-l
 
 To be a bit more concrete: Vague perception-abstractions of 'power and greatness' tend to follow a Heike-Monogatari cycle, which arguably is also the plot of one of the oldest known stories, Gilgamesh: a strong-man picks the wrong goal, gets really pumped up believing he 'solved the universe' (being fooled by illusions, tricked by misunderstanding causality based on reified entertainment stimulation in the short term) and in the long term everything falls apart because he was was wrong, disconnected from reality, delusional, and his actions had real consequences that he was too short sighted and unskilled to understand.
 
-1. event and causality misapprehension and misrepresentation: moth to a flame; traumatizing shocks and random-sport-gambling entertainment mis-perceived as causing productivity and skill acquisition making thrill-sport the goal
-2. replacement of STEM rigor with populist nihilism & disinformation
-3. abstraction and reification-illusions: erosion of perception and skills as perceived mystical causality from random sport-win chaotic outcomes becomes entrenched, habitual, learned, and institutionalized
-4. hybrid fragments of categories of types of systems: fantasy over STEM
+1. Event and causality misapprehension and misrepresentation: moth to a flame; traumatizing shocks and random-sport-gambling entertainment mis-perceived as causing productivity and skill acquisition making thrill-sport the goal
+
+2. Replacement of STEM rigor with populist nihilism & disinformation
+
+3. Abstraction and reification-illusions: erosion of perception and skills as perceived mystical causality from random sport-win chaotic outcomes becomes entrenched, habitual, learned, and institutionalized
+
+4. Hybrid fragments of categories of types of systems: fantasy over STEM
+
 5. Escalating cycles of increasingly extreme thrill-seeking, risk-taking, and disconnection from reality. 
 
 
