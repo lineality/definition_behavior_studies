@@ -11,7 +11,9 @@ Definition Behavior Studies is an interdisciplinary area of study, part Computer
 
 System and definition behavior studies is the field of study pertaining to the behavior of definitions, in particular collapse behaviors in a context of general system collapse. 
 
-This is an inquiry based approach. Identifying good questions has value in and of itself, inquiry is a useful process to make use of as a matter of policy and method, and there are particular questions that can form a starting point: 
+System And Definition Behavior Studies can be used and seen as a diagnostic and evaluation framework, for example checklists for 'project' evaluation (where 'project' varies from domain to domain and case by case). The can-do-statements section can be used to evaluate policy, methodology, and other areas of project scope. "Mnemnoic" outline sections can be used to understand, develop, and estimate the soundness of the definitions and their relationship in your project. Even the 'study questions' can be used as a form of checklist to have some measure of what rudimentary planning, diagnostic, and due diligence steps have been undertaken.
+
+Definition Behavior Studies follows an empirical-feedback, project-based, and inquiry based approach. Identifying good questions has value in and of itself; inquiry is a useful process to make use of as a matter of policy and method, and there are particular questions that can form a starting point: 
 - What is an agenda?
 - What are the goals and modus operandi? 
 - What is a goals-means-method statement (in a project-context, with project-participants)?
@@ -161,6 +163,8 @@ We can generalize Signal-Data Processing and/vs. Instruction Management.
 We can generalize System-Externalization, task/step derivation/integration, and task/process-modularity.
 ? We can generalize System-State management and schedules.
 ? We can generalize context.
+
+We can use process and best practice, including understanding the dynamics of perception of causality, locus of control, theory of mind, etc. 
 
 We Can Use System-Membranes:
 (Summary)
@@ -930,7 +934,7 @@ Sub-Participants can, should, will, want to, do, help, and / or help with, serve
 
 4.1  Sensory Motor (Lear: Use My Eyes) Areas (Plus Electromagnetism)
 4.2  Benzaiten Saraswati Areas (Plus historical continuity, minus high definition input output data-literacy/numeracy) (Note: translation and transmission)
-?4.3  Embodyment / Channeling Items: theater-groups and community interaction, CRV, active-imagination
+?4.3  Embodiment / Channeling Items: theater-groups and community interaction, CRV, active-imagination
 4.4  Functions and Operations:
 4.4.1 Null, Void
 4.4.1.1 negative choices and definitions
