@@ -290,7 +290,7 @@ To be a bit more concrete: Vague perception-abstractions of 'power and greatness
 5. Escalating cycles of increasingly extreme thrill-seeking, risk-taking, and disconnection from reality. 
 
 
-Extremism and radicalization are system-and-definition epidemiology hygiene public-health situations to which no individual or population is innately immune. 
+Extremism and radicalization are system-and-definition epidemiology hygiene public-health situations to which no individual or population is innately immune. However a work in progress, we can better understand the landscape of biases, propaganda and manipulation, disinformation and weaponization in "information-wars", equilibria, hygiene, and system and definition collapse generally to better perceive, communicate, decide, cultivate, curate, and navigate.
 
 And explicit explicitly topic of a concept of being, and capacity to be, able to learn to navigate this landscape of project and definition spaces and outcomes, and that this is an imperative or at least a prerequisite, and that this is inherently part of learning and education practices, is curiously sparse, missing, and slow to develop in human communications and records over the time and space of history, yet fragments of the concept of being able to learn to perceive and navigate are arguably nascent (or nascently explicit) in works such as Thomas Hobbes's Leviathan. 
 
