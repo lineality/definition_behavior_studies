@@ -5,7 +5,7 @@ https://medium.com/@GeoffreyGordonAshbrook/overview-of-a-definition-behavior-stu
 Overview of A Definition Behavior Studies Mnemonic
 Essay-Instructional Overview
 
-Geoffrey Gordon Ashbrook, Updated 2026.11.08th
+Geoffrey Gordon Ashbrook, Updated 2026.11.12th
 
 Definition Behavior Studies is an interdisciplinary area of study, part Computer Science, statistical process analysis, hypothesis testing, Data Science, religious studies, ethics and mindfulness, and AI.
 
@@ -176,7 +176,7 @@ While it is likely that we will not know in high detail the history of the evolu
 
 In the pre-membrane, without-membraines, environment, reactions and reactivity happen openly in larger environments. More specifically, aside from not being able to manage an environment specifically for constructive functionality, the 'defensive' features and functionalities are so lacking that there is barely, if any, delineation of there being 'things' to survive or be maintained. 
 
-(See early-biochemistry works such as by A.G. Cairns-Smith.)
+(See works on early-biochemistry such as by A.G. Cairns-Smith.)
 
 The membrane is not merely a title to be bestowed or a social-nicety to draw an artistic boundary of convenience around this and that 'thing.' 
 
